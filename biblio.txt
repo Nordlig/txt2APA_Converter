@@ -1,0 +1,50 @@
+PT J
+AU Brennan, W
+   Jackson, MA
+AF Brennan, William
+   Jackson, Margo A.
+TI A Qualitative Examination of Dialogical Elements in Anti-Racist Deep
+   Canvassing Conversations
+SO COUNSELING PSYCHOLOGIST
+DT Article
+DE deep canvassing; attitude change; anti-racist interventions; social
+   justice interventions; reparations; action research; dialogical analysis
+ID SOCIAL-JUSTICE; COUNSELING PSYCHOLOGY; RACIAL-DISCRIMINATION;
+   PERSPECTIVE-TAKING; MENTAL-HEALTH; SUPERVISION; PREJUDICE; RACE;
+   COMPETENCE; DISSONANCE
+PD FEB
+PY 2022
+VL 50
+IS 2
+BP 177
+EP 211
+AR 00110000211055408
+DI 10.1177/00110000211055408
+EA DEC 2021
+WC Psychology, Applied
+SC Psychology
+ER
+
+
+PT J
+AU Cooke, M
+AF Cooke, Maeve
+TI Immanent Critique of the Immanent Frame: The Critical Potential of A
+   Secular Age
+SO INTERNATIONAL JOURNAL OF PHILOSOPHICAL STUDIES
+DT Article
+DE Charles Taylor; cultural criticism; secularization; the immanent frame;
+   immanent critique
+ID TAYLOR
+PD OCT 20
+PY 2021
+VL 29
+IS 5
+SI SI
+BP 738
+EP 758
+DI 10.1080/09672559.2021.2017716
+EA DEC 2021
+WC Philosophy
+SC Philosophy
+ER
