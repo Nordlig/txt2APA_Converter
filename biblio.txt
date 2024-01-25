@@ -1,50 +1,8127 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
 PT J
-AU Brennan, W
-   Jackson, MA
-AF Brennan, William
-   Jackson, Margo A.
-TI A Qualitative Examination of Dialogical Elements in Anti-Racist Deep
-   Canvassing Conversations
-SO COUNSELING PSYCHOLOGIST
+AU Gooberman, L
+   Hauptmeier, M
+AF Gooberman, Leon
+   Hauptmeier, Marco
+TI Union Coalitions and Strategic Framing: The Case of the Agricultural
+   Advisory Panel for Wales
+SO WORK EMPLOYMENT AND SOCIETY
+DT Article; Early Access
+DE agriculture; devolution; employment relations; frame bridging; framing;
+   social movement theory; wages regulation; Wales
+ID SOCIAL-MOVEMENT; EXTENSION
+AR 09500170211069787
+DI 10.1177/09500170211069787
+EA MAR 2022
+WC Economics; Industrial Relations & Labor; Sociology
+SC Business & Economics; Sociology
+ER Test
+
+PT J
+AU Mullen, C
+   Widener, P
+AF Mullen, Casey
+   Widener, Patricia
+TI Dissonance between framing & acting for climate justice
+SO LOCAL ENVIRONMENT
+DT Article; Early Access
+DE Allyship; climate education; climate gentrification; climate justice;
+   frame analysis; coastal and inland communities
+ID ENVIRONMENTAL JUSTICE; COLLECTIVE ACTION; SOCIAL-MOVEMENTS; EVERYDAY
+   LIFE; RESTORATION; EMOTIONS
+DI 10.1080/13549839.2022.2048257
+EA MAR 2022
+WC Green & Sustainable Science & Technology; Environmental Studies;
+   Geography; Regional & Urban Planning; Urban Studies
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology;
+   Geography; Public Administration; Urban Studies
+ER
+
+PT J
+AU Ping, Y
+AF Ping, Yuan
+TI Representations of the 2014 Hong Kong protests in journalistic
+   translation: A corpus-based critical framing analysis of Chinese and
+   English news coverage
+SO JOURNALISM
+DT Article; Early Access
+DE journalistic translation; corpus analysis; critical discourse analysis;
+   framing analysis; Hong Kong
+ID DISCOURSE; UK; NEWSPAPERS; PRESS
+DI 10.1177/14648849221074556
+EA MAR 2022
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Tagle, F
+   Greene, F
+   Jans, A
+   Ortiz, G
+AF Tagle, Francisco
+   Greene, Francisca
+   Jans, Alejandra
+   Ortiz, German
+TI Framing of social protest news in Web portals in Chile and Colombia
+   during 2019
+SO JOURNAL OF INFORMATION COMMUNICATION & ETHICS IN SOCIETY
+DT Article; Early Access
+DE Chile; Colombia; Latin America; Framing; Social movements; News Web
+   portals
+ID MEDIA-COVERAGE; ONLINE JOURNALISM; CLIMATE-CHANGE; INTERACTIVITY;
+   MOVEMENTS; NEWSPAPERS; PARTICIPATION; COMMUNICATION; MOBILIZATION;
+   TECHNOLOGY
+DI 10.1108/JICES-03-2021-0038
+EA MAR 2022
+WC Ethics
+SC Social Sciences - Other Topics
+ER
+
+PT J
+AU Kavrakis, K
+AF Kavrakis, Konstantinos
+TI Identity and Ideology through the Frames of al-Qaeda and Islamic State
+SO TERRORISM AND POLITICAL VIOLENCE
+DT Article; Early Access
+DE Identity; ideology; frame theory; Al Qaeda; Islamic State
+ID FRAMING PROCESSES; COLLECTIVE IDENTITY; SOCIAL-MOVEMENTS; TERRORISM
+DI 10.1080/09546553.2022.2035366
+EA FEB 2022
+WC International Relations; Political Science
+SC International Relations; Government & Law
+ER
+
+PT J
+AU Lupien, P
+   Rincon, A
+   Lalama, A
+   Chiriboga, G
+AF Lupien, Pascal
+   Rincon, Adriana
+   Lalama, Andres
+   Chiriboga, Gabriel
+TI Framing Indigenous protest in the online public sphere: A comparative
+   frame analysis
+SO NEW MEDIA & SOCIETY
+DT Article; Early Access
+DE Framing; Indigenous peoples; Latin America; political communication;
+   social media; social movements
+ID SOCIAL MEDIA; DYNAMICS; ACTIVISM; POLITICS; MAPUCHE; PEOPLES; CANADA
+AR 14614448221074705
+DI 10.1177/14614448221074705
+EA FEB 2022
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Park, AL
+AF Park, Albert L.
+TI A Recycling of the Past or the Pathway to the New? Framing the South
+   Korean Candlelight Protest Movement
+SO JOURNAL OF ASIAN STUDIES
 DT Article
-DE deep canvassing; attitude change; anti-racist interventions; social
-   justice interventions; reparations; action research; dialogical analysis
-ID SOCIAL-JUSTICE; COUNSELING PSYCHOLOGY; RACIAL-DISCRIMINATION;
-   PERSPECTIVE-TAKING; MENTAL-HEALTH; SUPERVISION; PREJUDICE; RACE;
-   COMPETENCE; DISSONANCE
+DE agricultural cooperatives; Candlelight Protests (2016-17); capitalism;
+   democracy; environment; Korea; LGBTQ plus; revolution; Sewol ferry
+   disaster; workers
 PD FEB
 PY 2022
-VL 50
-IS 2
-BP 177
-EP 211
-AR 00110000211055408
-DI 10.1177/00110000211055408
+VL 81
+IS 1
+BP 101
+EP 105
+AR PII S0021911821001480
+DI 10.1017/S0021911821001480
+WC Area Studies; Asian Studies
+SC Area Studies; Asian Studies
+ER
+
+PT J
+AU Stack, M
+   Wilbur, A
+AF Stack, Michelle
+   Wilbur, Amea
+TI Media and government framing of asylum seekers and migrant workers in
+   Canada during the COVID-19 pandemic
+SO INTERNATIONAL REVIEW OF EDUCATION
+DT Article
+DE Media; Refugees; Asylum seekers; Canada; Social movement education;
+   Critical discourse analysis; Adult education
+ID REFUGEE CRISIS; IMMIGRANTS; COVERAGE; FRAMES
+PD DEC
+PY 2021
+VL 67
+IS 6
+SI SI
+BP 895
+EP 914
+DI 10.1007/s11159-021-09932-8
+EA JAN 2022
+WC Education & Educational Research
+SC Education & Educational Research
+ER
+
+PT J
+AU Cote, I
+   Devries, M
+   Grant, JA
+   Mitchell, MI
+   Panagos, D
+AF Cote, Isabelle
+   Devries, Megan
+   Grant, J. Andrew
+   Mitchell, Matthew, I
+   Panagos, Dimitrios
+TI The power of numbers: how majority/minority status affects media
+   coverage and framing of Indigenous contentious politics in Canada
+SO POLITICS GROUPS AND IDENTITIES
+DT Article; Early Access
+DE Agenda-setting; Canada; conflict; ethno-cultural identity; Indigenous;
+   majority; minority status; media framing; natural resource governance
+ID MAINSTREAM; NEWSPAPER; MOVEMENTS; PEOPLES; PROTEST; FRAMES; POLICY
+DI 10.1080/21565503.2021.2020663
+EA JAN 2022
+WC Political Science
+SC Government & Law
+ER
+
+PT J
+AU Soulard, J
+   McGehee, N
+AF Soulard, Joelle
+   McGehee, Nancy
+TI Transformative travel and external activism: framing external activism
+   outcomes within the travelers' discourse of perceived transformation
+SO JOURNAL OF SUSTAINABLE TOURISM
+DT Article; Early Access
+DE transformative experiences; transformation; external activism; social
+   action; social mobilization
+ID SOCIAL-MOVEMENTS; TOURISM; PLACE; MANAGEMENT; NARRATIVES; ME
+DI 10.1080/09669582.2022.2029871
+EA JAN 2022
+WC Green & Sustainable Science & Technology; Hospitality, Leisure, Sport &
+   Tourism
+SC Science & Technology - Other Topics; Social Sciences - Other Topics
+ER
+
+PT J
+AU Rohlinger, DA
+   Allen, W
+   DeLucchi, C
+AF Rohlinger, Deana A.
+   Allen, Warren
+   DeLucchi, Caitria
+TI Framing dynamics and claimsmaking after the Parkland shooting
+SO INFORMATION COMMUNICATION & SOCIETY
+DT Article; Early Access
+DE Social Movements; politics; framing; claimsmaking; gun rights; gun
+   control
+ID SOCIAL-MOVEMENTS; FILTER BUBBLES; NEWS COVERAGE; MEDIA; TALK
+DI 10.1080/1369118X.2021.2021271
+EA JAN 2022
+WC Communication; Sociology
+SC Communication; Sociology
+ER
+
+PT J
+AU Selina,
+   Gentile, MFM
+   Lowery, G
+   Zemanova, S
+   Lecheler, S
+   Peter, C
+AF Noetzel, Selina
+   Mussalem Gentile, Maria F.
+   Lowery, Gianna
+   Zemanova, Sona
+   Lecheler, Sophie
+   Peter, Christina
+TI Social campaigns to social change? Sexual violence framing in US news
+   before and after #metoo
+SO JOURNALISM
+DT Article; Early Access
+DE sexual violence; sexual harassment; #metoo; framing; content analysis
+ID DOMESTIC VIOLENCE; MEDIA; COVERAGE; WOMEN; NEWSPAPER; ABUSE
+AR 14648849211056386
+DI 10.1177/14648849211056386
+EA JAN 2022
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Menegazzi, S
+AF Menegazzi, Silvia
+TI World Politics and media framing: introducing the relevance of
+   narratives in media outlet's coverage about the Hong Kong protests
+SO PARTECIPAZIONE E CONFLITTO
+DT Article
+DE Protests paradigm; international politics; media framing; narratives;
+   Hong Kong
+ID ANTI-EXTRADITION; SOCIAL-MOVEMENTS; US
+PY 2022
+VL 15
+IS 1
+SI SI
+BP 257
+EP 273
+DI 10.1285/i20356609v15i1p257
+WC Political Science
+SC Government & Law
+ER
+
+PT J
+AU Ashfaq, M
+   Shahid, NUA
+   Zubair, J
+AF Ashfaq, Muhammad
+   Shahid, Noor-ul-Ain
+   Zubair, Javairia
+TI New media and political protest: Framing analysis of news content on
+   Twitter
+SO ASIAN JOURNAL OF COMPARATIVE POLITICS
+DT Article; Early Access
+DE framing; political communication; protest; quantitative content
+   analysis; Twitter
+ID LINKING PRACTICES; SOCIAL MEDIA; COMMUNICATION; PERSONALIZATION
+DI 10.1177/20578911211067317
 EA DEC 2021
-WC Psychology, Applied
+WC Political Science
+SC Government & Law
+ER
+
+PT J
+AU Petrusevski, C
+   Morgan, A
+   MacDermid, J
+   Wilson, M
+   Richardson, J
+AF Petrusevski, Celeste
+   Morgan, Ashley
+   MacDermid, Joy
+   Wilson, Michael
+   Richardson, Julie
+TI Framing physical literacy for aging adults: an integrative review
+SO DISABILITY AND REHABILITATION
+DT Review; Early Access
+DE Physical literacy; adults; older adults; chronic conditions; health
+   promotion
+ID OLDER-ADULTS; MOBILITY; PARTICIPATION; INTERVENTIONS; PERSPECTIVES;
+   ASSOCIATIONS; METAANALYSIS; DISABILITY; EDUCATION; BURDEN
+DI 10.1080/09638288.2021.2012841
+EA DEC 2021
+WC Rehabilitation
+SC Rehabilitation
+ER
+
+PT J
+AU Choi, JO
+   Herbsleb, J
+   Forlizzi, J
+AF Oden Choi, Judeth
+   Herbsleb, James
+   Forlizzi, Jodi
+TI Hybrid Framing in the Justice for Antwon Rose II Movement
+SO COMPUTER SUPPORTED COOPERATIVE WORK-THE JOURNAL OF COLLABORATIVE
+   COMPUTING AND WORK PRACTICES
+DT Article
+DE Activism; Framing; Social movement; Black Lives Matter; Social network
+   analysis; Twitter
+ID SOCIAL MEDIA; TWITTER; ORGANIZATIONS; NEWS
+PD DEC
+PY 2021
+VL 30
+IS 5-6
+SI SI
+BP 683
+EP 714
+DI 10.1007/s10606-021-09417-0
+EA DEC 2021
+WC Computer Science, Interdisciplinary Applications
+SC Computer Science
+ER
+
+PT J
+AU Stelmach, G
+   Boudet, H
+AF Stelmach, Greg
+   Boudet, Hilary
+TI Using Structural Topic Modeling to Explore the Role of Framing in
+   Shaping the Debate on Liquefied Natural Gas Terminals in Oregon
+SO AMERICAN BEHAVIORAL SCIENTIST
+DT Article; Early Access
+DE environmental movement; framing; fracking
+ID SOCIAL-MOVEMENTS; TEXT ANALYSIS; FRACKING; COVERAGE; POLITICS
+AR 00027642211056268
+DI 10.1177/00027642211056268
+EA DEC 2021
+WC Psychology, Clinical; Social Sciences, Interdisciplinary
+SC Psychology; Social Sciences - Other Topics
+ER
+
+PT J
+AU Hume, R
+   Walby, K
+AF Hume, Rebecca
+   Walby, Kevin
+TI Framing, Suppression, and Colonial Policing Redux in Canada: News
+   Representations of the 2019 Wet'suwet'en Blockade
+SO JOURNAL OF CANADIAN STUDIES-REVUE D ETUDES CANADIENNES
+DT Article
+DE public police; suppression; media studies; settler colonialism;
+   Indigenous resistance
+ID CRITICAL DISCOURSE ANALYSIS; MASS-MEDIA; PROTEST; COVERAGE
+PD DEC 1
+PY 2021
+VL 55
+IS 3
+BP 507
+EP 540
+WC Humanities, Multidisciplinary
+SC Arts & Humanities - Other Topics
+ER
+
+PT J
+AU Williams, DK
+   Archer, CJ
+   O'Mahony, L
+AF Williams, Deborah K.
+   Archer, Catherine J.
+   O'Mahony, Lauren
+TI Calm the farm or incite a riot? Animal activists and the news media: A
+   public relations case study in agenda-setting and framing
+SO PUBLIC RELATIONS INQUIRY
+DT Article; Early Access
+DE vegan; activists; animal activists; direct action; public relations;
+   Facebook live; Direct Action Everywhere; storytelling; agenda setting;
+   Bourdieu; media; mainstream media; social media; agriculture; farmers
+ID SOCIAL-MOVEMENT
+AR 2046147X211055192
+DI 10.1177/2046147X211055192
+EA NOV 2021
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Molder, AL
+   Lakind, A
+   Clemmons, ZE
+   Chen, KP
+AF Molder, Amanda L.
+   Lakind, Alexandra
+   Clemmons, Zoe E.
+   Chen, Kaiping
+TI Framing the Global Youth Climate Movement: A Qualitative Content
+   Analysis of Greta Thunberg's Moral, Hopeful, and Motivational Framing on
+   Instagram
+SO INTERNATIONAL JOURNAL OF PRESS-POLITICS
+DT Article; Early Access
+DE Greta Thunberg; framing; climate change; visual communication; social
+   media; Instagram; social movements; hope; morality
+ID SOCIAL MEDIA; COMMUNICATION; ENGAGEMENT; FRAMES; PERSONALIZATION;
+   SCIENCE; PROTEST
+AR 19401612211055691
+DI 10.1177/19401612211055691
+EA NOV 2021
+WC Communication; Political Science
+SC Communication; Government & Law
+ER
+
+PT J
+AU Beenakker, I
+   van Kranenburg, H
+   Veenman, S
+   Carton, L
+   Fokkinga, B
+AF Beenakker, Ivo
+   van Kranenburg, Hans
+   Veenman, Sietske
+   Carton, Linda
+   Fokkinga, Brigit
+TI The implementation of a territorial foresight outcome through aligning
+   goal frames: A pilot case of the gas disconnection in the Netherlands
+SO FUTURES
+DT Article
+DE Territorial foresight; Commitment; Goal frames; Frame alignment;
+   Implementation
+ID SOCIAL-MOVEMENT; POLICY-MAKING; COMMITMENT; ALIGNMENT; IMPACT;
+   COMMUNITIES; LEGITIMACY; MOTIVATION; EXTENSION; WORK
+PD JAN
+PY 2022
+VL 135
+AR 102861
+DI 10.1016/j.futures.2021.102861
+EA NOV 2021
+WC Economics; Regional & Urban Planning
+SC Business & Economics; Public Administration
+ER
+
+PT J
+AU Barranco, O
+   Molina, O
+AF Barranco, Oriol
+   Molina, Oscar
+TI Continuity and change in trade union frames: Evidence from general
+   strikes in Spain
+SO ECONOMIC AND INDUSTRIAL DEMOCRACY
+DT Article
+DE Framing; labour movement; revitalization; strikes; trade unions
+ID LABOR-MOVEMENT; REVITALIZATION; STRATEGIES; INSTITUTIONS; EXTENSION;
+   POLITICS
+PD NOV
+PY 2021
+VL 42
+IS 4
+BP 1232
+EP 1253
+DI 10.1177/0143831X19857791
+WC Industrial Relations & Labor
+SC Business & Economics
+ER
+
+PT J
+AU Zeller, BE
+AF Zeller, Benjamin E.
+TI New religious movement responses to COVID Frame alignment strategies and
+   social context
+SO APPROACHING RELIGION
+DT Article
+ID PEOPLES TEMPLE
+PD NOV
+PY 2021
+VL 11
+IS 2
+BP 62
+EP 81
+DI 10.30664/ar.107731
+WC Religion
+SC Religion
+ER
+
+PT J
+AU Schmidt, SH
+   Hancock, MG
+   Frederick, EL
+AF Schmidt, Samuel H.
+   Hancock, Meg G.
+   Frederick, Evan L.
+TI Credible and salient: examining frame resonance through Athlete Ally
+SO SPORT IN SOCIETY
+DT Article; Early Access
+DE Activism; social movements; Cultural Theory/Frame Analysis
+ID SOCIAL-MOVEMENT THEORY; CELEBRITY DIPLOMACY; PUBLIC GOOD; SPORT; GAY;
+   EVOLUTION; ACTIVISM; POWER
+DI 10.1080/17430437.2021.1994949
+EA OCT 2021
+WC Hospitality, Leisure, Sport & Tourism; Sociology
+SC Social Sciences - Other Topics; Sociology
+ER
+
+PT J
+AU Reali, F
+AF Reali, Florencia
+TI Metaphorical framing of feminism and women in Spanish online media
+SO JOURNAL OF MULTICULTURAL DISCOURSES
+DT Article
+DE Feminism; metaphor; Conceptual Metaphor Theory; Spanish; online media
+ID DISCOURSE; REPRESENTATION; BRITISH; WAR
+PD OCT 2
+PY 2021
+VL 16
+IS 4
+BP 350
+EP 364
+DI 10.1080/17447143.2021.1980572
+EA SEP 2021
+WC Ethnic Studies
+SC Ethnic Studies
+ER
+
+PT J
+AU Kilgo, DK
+   Harlow, S
+AF Kilgo, Danielle K.
+   Harlow, Summer
+TI Hearts and Hahas of the Public: Exploring How Protest Frames and
+   Sentiment Influence Emotional Emoji Engagement with Facebook News Posts
+SO JOURNALISM STUDIES
+DT Article
+DE Social movements; social media; digital news; emotions; news engagement;
+   protest paradigm; Facebook
+ID SOCIAL MEDIA; COLLECTIVE ACTION; COVERAGE; PARADIGM; ONLINE; ANGER;
+   AYOTZINAPA; MOVEMENTS; FEAR
+PD SEP 10
+PY 2021
+VL 22
+IS 12
+SI SI
+BP 1627
+EP 1647
+DI 10.1080/1461670X.2021.1908840
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Reid, JC
+   Craig, MO
+AF Reid, Jonathan C.
+   Craig, Miltonette O.
+TI Is it a rally or a riot? Racialized media framing of 2020 protests in
+   the United States
+SO JOURNAL OF ETHNICITY IN CRIMINAL JUSTICE
+DT Article
+DE Race and policing; social movements; protests; media coverage; BLM
+ID NEWS MEDIA; BLACK; RACE; THREAT; ACTIVISM
+PD OCT 2
+PY 2021
+VL 19
+IS 3-4
+SI SI
+BP 291
+EP 310
+DI 10.1080/15377938.2021.1973639
+EA AUG 2021
+WC Criminology & Penology
+SC Criminology & Penology
+ER
+
+PT J
+AU Karyotis, G
+   Skleparis, D
+   Patrikios, S
+AF Karyotis, Georgios
+   Skleparis, Dimitris
+   Patrikios, Stratos
+TI New migrant activism: Frame alignment and future protest participation
+SO BRITISH JOURNAL OF POLITICS & INTERNATIONAL RELATIONS
+DT Article
+DE frame alignment; Greece; migration; mixed-methods; protest; social
+   movements
+ID HUMAN PREFRONTAL CORTEX; SOCIAL-MOVEMENT; UNDOCUMENTED IMMIGRANTS;
+   IRREGULAR MIGRANTS; HUNGER STRIKES; EMOTIONS; GREECE; IDENTIFICATION;
+   CITIZENSHIP; STRUGGLES
+PD MAY
+PY 2022
+VL 24
+IS 2
+BP 381
+EP 400
+AR 13691481211037988
+DI 10.1177/13691481211037988
+EA AUG 2021
+WC International Relations; Political Science
+SC International Relations; Government & Law
+ER
+
+PT J
+AU Sorce, G
+   Dumitrica, D
+AF Sorce, Giuliana
+   Dumitrica, Delia
+TI #fighteverycrisis: Pandemic Shifts in Fridays for Future's Protest
+   Communication Frames
+SO ENVIRONMENTAL COMMUNICATION-A JOURNAL OF NATURE AND CULTURE
+DT Article; Early Access
+DE Qualitative framing analysis; environmental youth movement; Fridays for
+   Future; digital protest communication; social movement frames; Facebook
+ID ENVIRONMENTAL-JUSTICE; SOCIAL-MOVEMENTS; MEDIA; LEADERSHIP; QUESTION
+DI 10.1080/17524032.2021.1948435
+EA AUG 2021
+WC Communication; Environmental Studies
+SC Communication; Environmental Sciences & Ecology
+ER
+
+PT J
+AU Ophir, Y
+   Forde, DK
+   Neurohr, M
+   Walter, D
+   Massignan, V
+AF Ophir, Yotam
+   Forde, Devin K.
+   Neurohr, Madison
+   Walter, Dror
+   Massignan, Virginia
+TI News media framing of social protests around racial tensions during the
+   Donald Trump presidency
+SO JOURNALISM
+DT Article; Early Access
+DE Computational communication research; framing; race; ethnicity; social
+   movements; social protests
+ID REPORTING DEMONSTRATIONS; COVERAGE; PARADIGM; POLITICS; OPINION; US
+AR 14648849211036622
+DI 10.1177/14648849211036622
+EA AUG 2021
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Dias, T
+   von Bulow, M
+   Gobbi, D
+AF Dias, Tayrine
+   von Bulow, Marisa
+   Gobbi, Danniel
+TI Populist Framing Mechanisms and the Rise of Right-wing Activism in
+   Brazil
+SO LATIN AMERICAN POLITICS AND SOCIETY
+DT Article
+DE populism; populist framing mechanisms; impeachment; right-wing
+   organizations; protests
+ID SOCIAL MEDIA; REPERTOIRES
+PD AUG
+PY 2021
+VL 63
+IS 3
+SI SI
+BP 69
+EP 92
+AR PII S1531426X21000224
+DI 10.1017/lap.2021.22
+WC Area Studies; International Relations; Political Science
+SC Area Studies; International Relations; Government & Law
+ER
+
+PT J
+AU McCammon, HJ
+   Beeson-Lynch, C
+AF McCammon, Holly J.
+   Beeson-Lynch, Cathryn
+TI Fighting Words: Pro-Choice Cause Lawyering, Legal-Framing Innovations,
+   and Hostile Political-Legal Contexts
+SO LAW AND SOCIAL INQUIRY-JOURNAL OF THE AMERICAN BAR FOUNDATION
+DT Article
+ID COLLECTIVE ACTION; SUPREME-COURT; ABORTION; MOVEMENT; MICROMOBILIZATION;
+   OPPORTUNITY; MEDIA; WOMEN
+PD AUG
+PY 2021
+VL 46
+IS 3
+BP 599
+EP 634
+WC Law
+SC Government & Law
+ER
+
+PT J
+AU Timsina, K
+   Krishna, CG
+   Meguro, K
+AF Timsina, Kishor
+   Krishna, Chaitanya Gadagamma
+   Meguro, Kimiro
+TI Sociotechnical Evaluation of the Soft Story Problem in Reinforced
+   Concrete Frame Buildings in Nepal
+SO JOURNAL OF PERFORMANCE OF CONSTRUCTED FACILITIES
+DT Article
+DE Infilled reinforced concrete (RC) frame; Soft story; Performance;
+   Applied element method (AEM); Retrofitting
+ID ENHANCED SHEAR-STRENGTH; SEISMIC PERFORMANCE; BRIDGE COLUMNS; RC
+   BUILDINGS; RETROFIT; INFILLS; DESIGN
+PD AUG 1
+PY 2021
+VL 35
+IS 4
+AR 04021019
+DI 10.1061/(ASCE)CF.1943-5509.0001582
+WC Construction & Building Technology; Engineering, Civil
+SC Construction & Building Technology; Engineering
+ER
+
+PT J
+AU Yilmaz, I
+   Albayrak, I
+AF Yilmaz, Ihsan
+   Albayrak, Ismail
+TI Religion as an Authoritarian Securitization and Violence Legitimation
+   Tool: The Erdoganist Diyanet's Framing of a Religious Movement as an
+   Existential Threat
+SO RELIGIONS
+DT Article
+DE securitization; Islamism; Erdoganism; Diyanet; Turkey; authoritarianism;
+   violence; Gulen Movement
+ID POPULISM; PARTY; STATE
+PD AUG
+PY 2021
+VL 12
+IS 8
+AR 574
+DI 10.3390/rel12080574
+WC Religion
+SC Religion
+ER
+
+PT J
+AU Ng, R
+   Indran, N
+AF Ng, Reuben
+   Indran, Nicole
+TI Role-Based Framing of Older Adults Linked to Decreased Ageism Over 210
+   Years: Evidence From a 600-Million-Word Historical Corpus
+SO GERONTOLOGIST
+DT Article; Early Access
+DE Age stereotypes; Aging narratives; Historical analysis; Psychomics;
+   Quantitative social science; Text as data
+ID COHORT DIFFERENCES; WORD CORPUS; STEREOTYPES; FUTURE; PERCEPTIONS;
+   GRANDCHILDREN; GRANDPARENTS; ATTITUDES; DILEMMAS; IMPACT
+DI 10.1093/geront/gnab108
+EA JUL 2021
+WC Gerontology
+SC Geriatrics & Gerontology
+ER
+
+PT J
+AU Safaian, D
+   Teune, S
+AF Safaian, Dorna
+   Teune, Simon
+TI Visual framing in the German movements for gay liberation and against
+   nuclear energy
+SO VISUAL STUDIES
+DT Article; Early Access
+ID IMAGES; PHOTOGRAPHY
+DI 10.1080/1472586X.2021.1940265
+EA JUL 2021
+WC Humanities, Multidisciplinary
+SC Arts & Humanities - Other Topics
+ER
+
+PT J
+AU Oktavianus, J
+   Davidson, B
+   Guan, L
+AF Oktavianus, Jeffry
+   Davidson, Brenna
+   Guan, Lu
+TI Framing and counter-framing in online collective actions: the case of
+   LGBT protests in a Muslim nation
+SO INFORMATION COMMUNICATION & SOCIETY
+DT Article; Early Access
+DE framing; counter-framing; collective action; LGBT; social media
+ID SOCIAL MEDIA; TWITTER; MOVEMENT; COMMUNICATION; MOBILIZATION;
+   GOVERNMENT; POLITICS; HASHTAG; TWEETS
+DI 10.1080/1369118X.2021.1954232
+EA JUL 2021
+WC Communication; Sociology
+SC Communication; Sociology
+ER
+
+PT J
+AU Roberti, A
+AF Roberti, Amanda
+TI "Women Deserve Better:" The Use of the Pro-Woman Frame in Anti-abortion
+   Policies in US States
+SO JOURNAL OF WOMEN POLITICS & POLICY
+DT Article
+DE Abortion; reproductive justice; issue framing
+ID ABORTION DEBATE; OPINION; CONFLICT; EQUALITY; PROLIFE; NEWS
+PD JUL 3
+PY 2021
+VL 42
+IS 3
+BP 207
+EP 224
+DI 10.1080/1554477X.2021.1925478
+EA JUL 2021
+WC Political Science; Women's Studies
+SC Government & Law; Women's Studies
+ER
+
+PT J
+AU Cizewska-Martynska, E
+AF Cizewska-Martynska, Elzbieta
+TI Interpretative Frames, Phenomenology, and the Question of the Republican
+   Character of Polish and Czech Dissident Movements of the 1970s and 1980s
+SO EAST EUROPEAN POLITICS AND SOCIETIES
+DT Article; Early Access
+DE Solidarity; Phenomenology; Republicanism; Interpretative frames;
+   Dissidence
+AR 08883254211012773
+DI 10.1177/08883254211012773
+EA JUL 2021
+WC Area Studies; Political Science
+SC Area Studies; Government & Law
+ER
+
+PT J
+AU Diaz-Perez, S
+   Soler-i-Marti, R
+   Ferrer-Fons, M
+AF Diaz-Perez, Silvia
+   Soler-i-Marti, Roger
+   Ferrer-Fons, Mariona
+TI From the global myth to local mobilization: Creation and resonance of
+   Greta Thunberg's frame
+SO COMUNICAR
+DT Article
+DE Climate movement; frame analysis; social movements; monomyth; social
+   networks; discourse analysis
+ID IDENTITY; PROTEST; MEDIA
+PD JUL 1
+PY 2021
+VL 29
+IS 68
+BP 35
+EP 45
+DI 10.3916/C68-2021-03
+WC Communication; Education & Educational Research
+SC Communication; Education & Educational Research
+ER
+
+PT J
+AU Fainstein, C
+AF Fainstein, Carla
+TI And What About the Environment? Local Social Representations and
+   Practices in Informal Settlements Framed in the Court Case for the
+   Sanitation of the Matanza Riachuelo Basin in the Metropolitan Area of
+   Buenos Aires
+SO TERRITORIOS
+DT Article
+DE Informal settlements; urban environmental conflicts; judicialization;
+   social representations; social organizations; public policies
+PD JUL-DEC
+PY 2021
+IS 45
+DI 10.12804/revistas.urosario.edu.co/territorios/a.9920
+WC Urban Studies
+SC Urban Studies
+ER
+
+PT J
+AU Magued, S
+AF Magued, Shaimaa
+TI The shift to cause framing in Egyptian LGBT advocacy after the January
+   25 revolution
+SO CURRENT SOCIOLOGY
+DT Article; Early Access
+DE Authoritarianism; cause framing; LGBT advocacy; Middle East politics;
+   social movements
+ID COLLECTIVE ACTION; PROTEST; NETWORKS; DYNAMICS
+AR 00113921211024693
+DI 10.1177/00113921211024693
+EA JUN 2021
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Yla-Anttila, T
+   Eranti, V
+   Kukkonen, A
+AF Yla-Anttila, Tuukka
+   Eranti, Veikko
+   Kukkonen, Anna
+TI Topic modeling for frame analysis: A study of media debates on climate
+   change in India and USA
+SO GLOBAL MEDIA AND COMMUNICATION
+DT Article
+DE Climate change; frame analysis; framing; media; methodology; mixed
+   methods; public sphere; text analysis; topic models
+ID POLARIZATION; MOVEMENTS; POLITICS; CULTURE; NORMS; NEWS; TEXT
+PD APR
+PY 2022
+VL 18
+IS 1
+BP 91
+EP 112
+AR 17427665211023984
+DI 10.1177/17427665211023984
+EA JUN 2021
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Das, D
+   Whitham, MM
+AF Das, Dhruba
+   Whitham, Monica M.
+TI Framing the Collective "We" and the Antagonistic "Other" through
+   Metacontrast: Intragroup Homogenization and Intergroup Polarization in
+   the Hindu Nationalist Movement*
+SO SOCIOLOGICAL FORUM
+DT Article
+DE collective identity; framing; Hindu; metacontrast; nationalism; social
+   movements
+ID SOCIAL IDENTITY; POLITICS; SIMILARITY; EMERGENCE; JUDGMENT; INDIA
+PD SEP
+PY 2021
+VL 36
+IS 3
+BP 689
+EP 711
+DI 10.1111/socf.12726
+EA JUN 2021
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Mourao, RR
+   Kilgo, DK
+AF Mourao, Rachel R.
+   Kilgo, Danielle K.
+TI Black Lives Matter Coverage: How Protest News Frames and Attitudinal
+   Change Affect Social Media Engagement
+SO DIGITAL JOURNALISM
+DT Article; Early Access
+DE Protest coverage; social media engagement; framing; social movements
+ID UNITED-STATES; PARADIGM; SHARE; PARTICIPATION; MOTIVATIONS; AYOTZINAPA;
+   BEHAVIOR; ONLINE; BRAZIL
+DI 10.1080/21670811.2021.1931900
+EA MAY 2021
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Li, Y
+AF Li, Yao
+TI Official framing-portraying the implementation of an unpopular policy as
+   responsive governance
+SO SOCIAL MOVEMENT STUDIES
+DT Article; Early Access
+DE Framing; institutions; contentious politics; environmental governance;
+   legitimacy; china
+ID SOCIAL-MOVEMENTS; CHINA; FRAMES; POWER; PARTICIPATION; REPRESSION;
+   EMERGENCE; DEMOCRACY; POLITICS; SOCIETY
+DI 10.1080/14742837.2021.1929145
+EA MAY 2021
+WC Political Science; Sociology
+SC Government & Law; Sociology
+ER
+
+PT J
+AU Moyer, LP
+AF Moyer, Laura P.
+TI "She Blinded Me with Science": The Use of Science Frames in Abortion
+   Litigation before the Supreme Court
+SO JUSTICE SYSTEM JOURNAL
+DT Article; Early Access
+DE Abortion; framing; amicus brief; Supreme Court
+ID AMICUS-CURIAE BRIEFS; POLICY; LANGUAGE; OPINION; POLITICS; WORDS;
+   PARTICIPATION; CREDIBILITY; EXPERTISE; MOVEMENTS
+DI 10.1080/0098261X.2021.1927266
+EA MAY 2021
+WC Law
+SC Government & Law
+ER
+
+PT J
+AU Morel, RP
+AF Morel, Richard Paquin
+TI Strange Frame Fellows: The Evolution of Discursive Framing in the
+   Opt-Out Testing Movement
+SO TEACHERS COLLEGE RECORD
+DT Article
+ID SOCIAL-MOVEMENTS; POLICY; ACCOUNTABILITY
+PD MAY
+PY 2021
+VL 123
+IS 5
+AR 050307
+WC Education & Educational Research
+SC Education & Educational Research
+ER
+
+PT J
+AU Bergstrand, K
+   Whitham, MW
+AF Bergstrand, Kelly
+   Whitham, Monica W.
+TI Targeted appeals: online social movement frame packaging and tactics
+   customized for youth
+SO SOCIAL MOVEMENT STUDIES
+DT Article; Early Access
+DE social movements; framing; tactics; life course; youth
+ID RESONANCE; PROTEST; POWER
+DI 10.1080/14742837.2021.1920386
+EA APR 2021
+WC Political Science; Sociology
+SC Government & Law; Sociology
+ER
+
+PT J
+AU Wang, R
+   Liu, WL
+AF Wang, Rong
+   Liu, Wenlin
+TI Moral framing and information virality in social movements: A case study
+   of #HongKongPoliceBrutality
+SO COMMUNICATION MONOGRAPHS
+DT Article
+DE Moral framing; moral foundation theory; police brutality; social media;
+   information virality
+PD JUL 3
+PY 2021
+VL 88
+IS 3
+BP 350
+EP 370
+DI 10.1080/03637751.2021.1918735
+EA APR 2021
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Lang, B
+AF Lang, Bertram
+TI Framing and localizing anti-corruption norms in transnational civil
+   society organizations: Transparency International in Portugal
+SO JOURNAL OF CIVIL SOCIETY
+DT Article
+DE Anti-corruption; advocacy coalitions; norms; frame analysis; political
+   ethnography
+ID MOVEMENT; DISCOURSE; FRAMEWORK
+PD APR 3
+PY 2021
+VL 17
+IS 2
+BP 155
+EP 178
+DI 10.1080/17448689.2021.1925405
+WC Political Science
+SC Government & Law
+ER
+
+PT J
+AU Edwards, P
+   Arnon, D
+AF Edwards, Pearce
+   Arnon, Daniel
+TI Violence on Many Sides: Framing Effects on Protest and Support for
+   Repression
+SO BRITISH JOURNAL OF POLITICAL SCIENCE
+DT Article
+DE protest; nonviolent resistance; political violence; contentious
+   politics; repression of dissent; identity; experimental methods;
+   heterogeneous treatment effects
+ID IDENTITY; THREAT; WAR; US
+PD APR
+PY 2021
+VL 51
+IS 2
+BP 488
+EP 506
+AR PII S0007123419000413
+DI 10.1017/S0007123419000413
+WC Political Science
+SC Government & Law
+ER
+
+PT J
+AU Kirton, G
+AF Kirton, Gill
+TI Union framing of gender equality and the elusive potential of equality
+   bargaining in a difficult climate
+SO JOURNAL OF INDUSTRIAL RELATIONS
+DT Article
+DE Equality bargaining; framing; gender equality; social movement theory
+PD SEP
+PY 2021
+VL 63
+IS 4
+SI SI
+BP 591
+EP 613
+AR 00221856211003604
+DI 10.1177/00221856211003604
+EA APR 2021
+WC Industrial Relations & Labor
+SC Business & Economics
+ER
+
+PT J
+AU Reinecke, J
+   Ansari, S
+AF Reinecke, Juliane
+   Ansari, Shahzad (Shaz)
+TI MICROFOUNDATIONS OF FRAMING: THE INTERACTIONAL PRODUCTION OF COLLECTIVE
+   ACTION FRAMES IN THE OCCUPY MOVEMENT
+SO ACADEMY OF MANAGEMENT JOURNAL
+DT Article
+ID SOCIAL-MOVEMENTS; STRATEGIC CHANGE; DYNAMICS; FIELD; INSTITUTIONS;
+   NEGOTIATION; SENSEMAKING; MECHANISMS; EMOTIONS; PROTEST
+PD APR
+PY 2021
+VL 64
+IS 2
+BP 378
+EP 408
+DI 10.5465/amj.2018.1063
+WC Business; Management
+SC Business & Economics
+ER
+
+PT J
+AU Van Nuys, M
+   Carter, B
+AF Van Nuys, Maya
+   Carter, Brittnee
+TI Framing Violence: Rhetoric and Goal Structures of Shia and Salafi
+   Terrorist Organizations
+SO POLITICS RELIGION & IDEOLOGY
+DT Article
+ID SOCIAL-MOVEMENT THEORY; IDEOLOGY; ISLAM; REFLECTIONS; RELIGION
+PD APR 3
+PY 2021
+VL 22
+IS 2
+BP 209
+EP 230
+DI 10.1080/21567689.2021.1904908
+EA MAR 2021
+WC History; Political Science; Religion
+SC History; Government & Law; Religion
+ER
+
+PT J
+AU McLeman, R
+   Wrathall, D
+   Gilmore, E
+   Thornton, P
+   Adams, H
+   Gemenne, F
+AF McLeman, Robert
+   Wrathall, David
+   Gilmore, Elisabeth
+   Thornton, Philip
+   Adams, Helen
+   Gemenne, Francois
+TI Conceptual framing to link climate risk assessments and
+   climate-migration scholarship
+SO CLIMATIC CHANGE
+DT Letter
+DE Climate migration; Climatic risks; Adaptation; Vulnerability;
+   Displacement
+ID ERA
+PD MAR 19
+PY 2021
+VL 165
+IS 1-2
+AR 24
+DI 10.1007/s10584-021-03056-6
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+ER
+
+PT J
+AU Tueme, N
+AF Tueme, Nabil
+TI All in the family: The role of family networks, collective action
+   frames, and identity in Latino movement participation
+SO SOCIOLOGY COMPASS
+DT Article
+DE activism; family; immigration; Latino; politics; social movements
+PD APR
+PY 2021
+VL 15
+IS 4
+AR e12866
+DI 10.1111/soc4.12866
+EA MAR 2021
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Kilgo, DK
+   Mourao, RR
+AF Kilgo, Danielle K.
+   Mourao, Rachel R.
+TI Protest Coverage Matters: How Media Framing and Visual Communication
+   Affects Support for Black Civil Rights Protests
+SO MASS COMMUNICATION AND SOCIETY
+DT Article
+PD JUL 4
+PY 2021
+VL 24
+IS 4
+BP 576
+EP 596
+DI 10.1080/15205436.2021.1884724
+EA MAR 2021
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Mourao, RR
+   Kilgo, DK
+   Sylvie, G
+AF Mourao, Rachel R.
+   Kilgo, Danielle K.
+   Sylvie, George
+TI Framing Ferguson: The interplay of advocacy and journalistic frames in
+   local and national newspaper coverage of Michael Brown
+SO JOURNALISM
+DT Article
+DE Content analysis; journalism; political communication; race; ethnicity;
+   social change
+PD FEB
+PY 2021
+VL 22
+IS 2
+BP 320
+EP 340
+DI 10.1177/1464884918778722
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Chhetri, N
+AF Chhetri, Nilamber
+TI Gendered Frames of Mobilization: Differential Participation of Women in
+   Ethno-politics of Darjeeling
+SO INDIAN JOURNAL OF GENDER STUDIES
+DT Article
+DE Gender; ethnicity; identity; social movements; Gorkhaland; scheduled
+   tribes
+PD FEB
+PY 2021
+VL 28
+IS 1
+BP 46
+EP 66
+AR 0971521520974846
+DI 10.1177/0971521520974846
+EA JAN 2021
+WC Women's Studies
+SC Women's Studies
+ER
+
+PT J
+AU Zoller, HM
+   Casteel, D
+AF Zoller, Heather M.
+   Casteel, Diana
+TI #March for Our Lives: Health Activism, Diagnostic Framing, Gun Control,
+   and the Gun Industry
+SO HEALTH COMMUNICATION
+DT Article; Early Access
+DI 10.1080/10410236.2020.1871167
+EA JAN 2021
+WC Communication; Health Policy & Services
+SC Communication; Health Care Sciences & Services
+ER
+
+PT J
+AU Park, MS
+   Shin, S
+   Lee, H
+AF Park, Mi Sun
+   Shin, Seongmin
+   Lee, Haeun
+TI Media frames on urban greening in the Democratic People's Republic of
+   Korea
+SO FOREST POLICY AND ECONOMICS
+DT Article
+DE Media frame; Ecosystem services; Urban green space; Democratic People's
+   Republic of Korea
+ID ECOSYSTEM SERVICES; FOREST POLICY; URBANIZATION; IMPACT; AIR;
+   GOVERNANCE; BENEFITS; CITY
+PD MAR
+PY 2021
+VL 124
+AR 102394
+DI 10.1016/j.forpol.2020.102394
+EA JAN 2021
+WC Economics; Environmental Studies; Forestry
+SC Business & Economics; Environmental Sciences & Ecology; Forestry
+ER
+
+PT J
+AU Chiarvesio, F
+AF Chiarvesio, Francesca
+TI URBAN ACTIVISTS FROM THE PERSPECTIVE OF ANTI-CORRUPTION: A FRAMING
+   APPROACH
+SO JOURNAL OF SOCIAL POLICY STUDIES
+DT Article
+DE Russia; anti-corruption; urban grassroots initiatives; framing
+   perspective
+ID SOCIAL-MOVEMENTS; CIVIL-SOCIETY; STRUGGLE; RUSSIA
+PY 2021
+VL 19
+IS 2
+BP 315
+EP 326
+DI 10.17323/727-0634-2021-19-2-315-326
+WC Social Issues
+SC Social Issues
+ER
+
+PT J
+AU Holmberg, A
+AF Holmberg, Arita
+TI The framing of environmental citizenship and youth participation in the
+   Fridays for Future Movement in Finland - commentary to Huttunen and
+   Albrecht
+SO FENNIA-INTERNATIONAL JOURNAL OF GEOGRAPHY
+DT Article
+DE children; climate protest; adult; Fridays for Future
+ID SUSTAINABILITY
+PY 2021
+VL 199
+IS 1
+BP 144
+EP 146
+DI 10.11143/fennia.108085
+WC Geography
+SC Geography
+ER
+
+PT J
+AU Huttunen, J
+   Albrecht, E
+AF Huttunen, Janette
+   Albrecht, Eerika
+TI The framing of environmental citizenship and youth participation in the
+   Fridays for Future Movement in Finland
+SO FENNIA-INTERNATIONAL JOURNAL OF GEOGRAPHY
+DT Article
+DE Fridays for Future; youth participation; social movements; social media;
+   environmental politics; environmental citizenship
+ID CLIMATE-CHANGE; JUSTICE
+PY 2021
+VL 199
+IS 1
+BP 46
+EP 60
+DI 10.11143/fennia.102480
+WC Geography
+SC Geography
+ER
+
+PT J
+AU Kleut, J
+   Milojevic, A
+AF Kleut, Jelena
+   Milojevic, Ana
+TI Framing Protest in Online News and Readers' Comments: The Case of
+   Serbian Protest "Against Dictatorship"
+SO INTERNATIONAL JOURNAL OF COMMUNICATION
+DT Article
+DE protest paradigm; user comments; online media; framing; polarized media
+   system
+ID NEW-YORK-TIMES; NUMBER-FERGUSON; SOCIAL MEDIA; TEA-PARTY; COVERAGE;
+   PARADIGM; DEMONSTRATIONS; AYOTZINAPA; CONFLICT; MOVEMENT
+PY 2021
+VL 15
+BP 82
+EP 102
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Saharov, J
+AF Saharov, Juhan
+TI Combining Laclauian Discourse Analysis and Framing Theory Vaclav Havel's
+   'Hegemonic Rhetoric' in Charter 77
+SO POLITOLOGICKY CASOPIS-CZECH JOURNAL OF POLITICAL SCIENCE
+DT Article
+DE Charter 77; collective action frames; dissidence; framing theory;
+   Laclauian discourse analysis; Vaclav Havel
+ID SOCIAL-MOVEMENTS; OPPORTUNITIES
+PY 2021
+IS 2
+BP 186
+EP 203
+DI 10.5817/PC2021-2-186
+WC Political Science
+SC Government & Law
+ER
+
+PT J
+AU Tungul, L
+AF Tungul, Lucie
+TI Framing as a Social Movement's Transnational Strategy: The Gulen
+   Movement's EU-Turkey Discourses in the Post-2016 Online Media
+SO MEZINARODNI VZTAHY-CZECH JOURNAL OF INTERNATIONAL RELATIONS
+DT Article
+DE Gulen movement; transnational; social movement; AKP; Erdogan; media;
+   framing
+ID CIVIL-SOCIETY; CONSOLIDATION; OPPORTUNITIES; COMMUNITY; CONFLICT;
+   NETWORKS; DIASPORA; CULTURE; EXILE; PARTY
+PY 2021
+VL 56
+IS 4
+BP 41
+EP 71
+DI 10.32422/mv-cjir.1769
+WC International Relations
+SC International Relations
+ER
+
+PT J
+AU Papale, S
+AF Papale, Simone
+TI Framing frictions: frame analysis and Al-Shabaab's mobilisation
+   strategies in Kenya
+SO CRITICAL STUDIES ON TERRORISM
+DT Article
+DE Frame analysis; social movements; Al-Shabaab; terrorist propaganda;
+   Kenya; counter-terrorism
+ID STATE VIOLENCE; RADICALIZATION; DECOLONIZATION; POLITICS; ISLAM
+PD JAN 2
+PY 2021
+VL 14
+IS 1
+BP 1
+EP 23
+DI 10.1080/17539153.2020.1855733
+EA DEC 2020
+WC Political Science
+SC Government & Law
+ER
+
+PT J
+AU Lukacovic, MN
+AF Lukacovic, Marta N.
+TI "Wars" on COVID-19 in Slovakia, Russia, and the United States:
+   Securitized Framing and Reframing of Political and Media Communication
+   Around the Pandemic
+SO FRONTIERS IN COMMUNICATION
+DT Article
+DE securitization; framing and cascading activation; political
+   communication; media; COVID-19; Slovakia; Russia; United States
+ID COLLECTIVE SECURITISATION; CASCADING ACTIVATION; HEALTH; GOVERNANCE;
+   COPENHAGEN; UKRAINE; ETHICS; BORDER
+PD DEC 23
+PY 2020
+VL 5
+AR 583406
+DI 10.3389/fcomm.2020.583406
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Lowe, RJ
+AF Lowe, Robert J.
+TI Frame analysis in critical ethnography: applications for ELT research
+SO LANGUAGE CULTURE AND CURRICULUM
+DT Article
+DE Frame analysis; ideology; critical ethnography; coding; critical applied
+   linguistics
+ID ENGLISH; WOMEN
+PD JUL 3
+PY 2021
+VL 34
+IS 3
+BP 307
+EP 320
+DI 10.1080/07908318.2020.1858851
+EA DEC 2020
+WC Education & Educational Research; Linguistics; Language & Linguistics
+SC Education & Educational Research; Linguistics
+ER
+
+PT J
+AU Chittamuru, D
+   Daniels, R
+   Sarkar, U
+   Schillinger, D
+AF Chittamuru, Deepti
+   Daniels, Ryane
+   Sarkar, Urmimala
+   Schillinger, Dean
+TI Evaluating values-based message frames for type 2 diabetes prevention
+   among Facebook audiences: Divergent values or common ground?
+SO PATIENT EDUCATION AND COUNSELING
+DT Article
+DE Health literacy; Health campaigns; Type 2 diabetes mellitus; Prevention
+   research; Values-Based messaging; Message framing; Health knowledge;
+   Health attitudes; Social marketing; Health communication; Public health
+ID SOCIAL DETERMINANTS; HEALTH; CANCER; PREVALENCE; METAPHORS; TRENDS;
+   YOUTH; WAR
+PD DEC
+PY 2020
+VL 103
+IS 12
+BP 2420
+EP 2429
+DI 10.1016/j.pec.2020.08.042
+WC Public, Environmental & Occupational Health; Social Sciences,
+   Interdisciplinary
+SC Public, Environmental & Occupational Health; Social Sciences - Other
+   Topics
+ER
+
+PT J
+AU Ingrassia, P
+AF Ingrassia, Paola
+TI Gender violence as a public issue and the framing of abortion: a look at
+   the antecedents of the current situation and a proposal for analysis
+SO AUSTRAL COMUNICACION
+DT Article
+DE gender violence; public issues; social movements; patriarchy; news
+   framing; abortion
+ID SOCIAL-PROBLEMS; MOVEMENTS; POLITICS
+PD DEC
+PY 2020
+VL 9
+IS 2
+BP 519
+EP 551
+DI 10.26422/aucom.2020.0902.ing
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Krishnan, P
+AF Krishnan, Preethi
+TI INTERSECTIONAL GRIEVANCES IN CARE WORK: FRAMING INEQUALITIES OF GENDER,
+   CLASS AND CASTE
+SO MOBILIZATION
+DT Article
+ID MOVEMENT; FRAMES; RACE
+PD DEC
+PY 2020
+VL 25
+IS 4
+BP 493
+EP 512
+DI 10.17813/1086-671X-22-4-493
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Wolff, S
+   Servent, AR
+   Piquet, A
+AF Wolff, Sarah
+   Servent, Ariadna Ripoll
+   Piquet, Agathe
+TI Framing immobility: Schengen governance in times of pandemics
+SO JOURNAL OF EUROPEAN INTEGRATION
+DT Article
+PD NOV 16
+PY 2020
+VL 42
+IS 8
+SI SI
+BP 1127
+EP 1144
+DI 10.1080/07036337.2020.1853119
+WC International Relations; Political Science
+SC International Relations; Government & Law
+ER
+
+PT J
+AU Bonilla, T
+   Tillery, AB
+AF Bonilla, Tabitha
+   Tillery, Alvin B., Jr.
+TI Which Identity Frames Boost Support for and Mobilization in the
+   #BlackLivesMatter Movement? An Experimental Test
+SO AMERICAN POLITICAL SCIENCE REVIEW
+DT Article
+ID POLITICAL-PARTICIPATION; PUBLIC-OPINION; FEMINIST CONSCIOUSNESS;
+   GENDER-DIFFERENCES; SOCIAL-MOVEMENTS; BLACK FEMINISM; RACE;
+   INTERSECTIONALITY; INEQUALITY; MICROMOBILIZATION
+PD NOV
+PY 2020
+VL 114
+IS 4
+BP 947
+EP 962
+AR PII S0003055420000544
+DI 10.1017/S0003055420000544
+WC Political Science
+SC Government & Law
+ER
+
+PT J
+AU Voci, D
+   Bruns, CJ
+   Lemke, S
+   Weder, F
+AF Voci, Denise
+   Bruns, Catherine J.
+   Lemke, Stella
+   Weder, Franzisca
+TI Framing the End: Analyzing Media and Meaning Making During Cape Town's
+   Day Zero
+SO FRONTIERS IN COMMUNICATION
+DT Article
+DE water scarcity; water crisis; framing analysis; transformative
+   environmental issues; rhetoric analysis; Day Zero; Cape Town
+ID CLIMATE-CHANGE; ENVIRONMENTAL VALUES; PLANNED BEHAVIOR; WATER; COVERAGE;
+   REPRESENTATIONS; DISCOURSES; POLITICS; DROUGHT; FRAMES
+PD OCT 20
+PY 2020
+VL 5
+AR 576199
+DI 10.3389/fcomm.2020.576199
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Kirshner, B
+   Tivaringe, T
+   Fernandez, JS
+AF Kirshner, Ben
+   Tivaringe, Tafadzwa
+   Fernandez, Jesica Siham
+TI "This was 1976 reinvented": The role of framing in the development of a
+   South African youth movement
+SO JOURNAL OF COMMUNITY PSYCHOLOGY
+DT Article
+DE collective action frames; social movements; youth movements; youth
+   organizing
+ID DEMOCRACY; ACTIVISM; IMPACT; POWER
+PD NOV
+PY 2021
+VL 49
+IS 8
+SI SI
+BP 3033
+EP 3053
+DI 10.1002/jcop.22405
+EA OCT 2020
+WC Public, Environmental & Occupational Health; Psychology,
+   Multidisciplinary; Social Work
+SC Public, Environmental & Occupational Health; Psychology; Social Work
+ER
+
+PT J
+AU Andersen, JC
+   Sandberg, S
+AF Andersen, Jan Christoffer
+   Sandberg, Sveinung
+TI Islamic State Propaganda: Between Social Movement Framing and
+   Subcultural Provocation
+SO TERRORISM AND POLITICAL VIOLENCE
+DT Article
+DE Dabiq; ISIS; IS; Islamic State; terrorism; social movement; subculture;
+   propaganda
+ID JIHADISM
+PD OCT 2
+PY 2020
+VL 32
+IS 7
+BP 1506
+EP 1526
+DI 10.1080/09546553.2018.1484356
+WC International Relations; Political Science
+SC International Relations; Government & Law
+ER
+
+PT J
+AU Galais, C
+AF Galais, Carol
+TI Conflict frames and emotional reactions: a story about the Spanish
+   Indignados
+SO JOURNAL OF ELECTIONS PUBLIC OPINION AND PARTIES
+DT Article
+ID NEWS FRAMES; DETERMINANTS; PERCEPTIONS; ENGAGEMENT; APPRAISAL; NETWORKS;
+   ANXIETY; ANGER
+PD OCT 1
+PY 2020
+VL 30
+IS 4
+BP 446
+EP 465
+DI 10.1080/17457289.2018.1550416
+WC Political Science
+SC Government & Law
+ER
+
+PT J
+AU Rohde, L
+   Larsen, TS
+   Jensen, RL
+   Larsen, OK
+AF Rohde, Lasse
+   Larsen, Tine Steen
+   Jensen, Rasmus Lund
+   Larsen, Olena Kalyanova
+TI Framing holistic indoor environment: Definitions of comfort, health and
+   well-being
+SO INDOOR AND BUILT ENVIRONMENT
+DT Article
+DE Indoor environmental quality; Occupant well-being; Mental health;
+   Positive stimuli; Taxonomy; Review
+ID POSITIVE AFFECT; THERMAL COMFORT; AIR MOVEMENT; SATISFACTION;
+   PERFORMANCE; IMPACT; RECOVERY; HISTORY; WINDOW; VIEW
+PD OCT
+PY 2020
+VL 29
+IS 8
+BP 1118
+EP 1136
+DI 10.1177/1420326X19875795
+WC Construction & Building Technology; Engineering, Environmental; Public,
+   Environmental & Occupational Health
+SC Construction & Building Technology; Engineering; Public, Environmental &
+   Occupational Health
+ER
+
+PT J
+AU Oriola, TB
+AF Oriola, Temitope B.
+TI Framing and movement outcomes: the #BringBackOurGirls movement
+SO THIRD WORLD QUARTERLY
+DT Article
+DE #BringBackOurGirls (#BBOG) movement; social movements; framing; human
+   rights
+ID BOKO HARAM; NIGERIA; PROTEST; MEDIA; STATE
+PD MAR 26
+PY 2021
+VL 42
+IS 4
+BP 641
+EP 660
+DI 10.1080/01436597.2020.1811663
+EA SEP 2020
+WC Development Studies
+SC Development Studies
+ER
+
+PT J
+AU Knupfer, C
+   Hoffmann, M
+   Voskresenskii, V
+AF Knuepfer, Curd
+   Hoffmann, Matthias
+   Voskresenskii, Vadim
+TI HijackingMeToo: transnational dynamics and networked frame contestation
+   on the far right in the case of the '120 decibels' campaign
+SO INFORMATION COMMUNICATION & SOCIETY
+DT Article; Early Access
+DE Transnational networks; far-right politics; hijacking campaign;
+   networked framing; connective action
+ID NATIONALISM; AMERICA; EUROPE
+DI 10.1080/1369118X.2020.1822904
+EA SEP 2020
+WC Communication; Sociology
+SC Communication; Sociology
+ER
+
+PT J
+AU Li, PX
+   Cho, HC
+   Qin, YR
+   Chen, AF
+AF Li, Pengxiang
+   Cho, Hichang
+   Qin, Yuren
+   Chen, Anfan
+TI #MeToo as a Connective Movement: Examining the Frames Adopted in the
+   Anti-Sexual Harassment Movement in China
+SO SOCIAL SCIENCE COMPUTER REVIEW
+DT Article
+DE online movement; connective action; framing; sexual violence; topic
+   modeling; digital media
+ID SOCIAL MEDIA; SEXUAL-HARASSMENT; NETWORK ANALYSIS; BIG DATA; WEIBO;
+   PARTICIPATION; ORGANIZATION; INFORMATION; PREDICTORS; ACTIVISM
+PD OCT
+PY 2021
+VL 39
+IS 5
+SI SI
+BP 1030
+EP 1049
+AR 0894439320956790
+DI 10.1177/0894439320956790
+EA SEP 2020
+WC Computer Science, Interdisciplinary Applications; Information Science &
+   Library Science; Social Sciences, Interdisciplinary
+SC Computer Science; Information Science & Library Science; Social Sciences
+   - Other Topics
+ER
+
+PT J
+AU Velardi, S
+   Selfa, T
+AF Velardi, Sara
+   Selfa, Theresa
+TI Framing local: an analysis of framing strategies for genetically
+   modified organism (GMO) labeling initiatives in the northeastern U.S
+SO AGROECOLOGY AND SUSTAINABLE FOOD SYSTEMS
+DT Article
+DE Genetically modified organisms (GMOs); biotechnology; frame analysis;
+   social movements; labeling
+ID MOVEMENT; POLITICS; CROPS
+PD MAR 16
+PY 2021
+VL 45
+IS 3
+BP 366
+EP 389
+DI 10.1080/21683565.2020.1818159
+EA SEP 2020
+WC Agriculture, Multidisciplinary; Green & Sustainable Science & Technology
+SC Agriculture; Science & Technology - Other Topics
+ER
+
+PT J
+AU Foti, D
+   Ruggiero, F
+   Sabba, MF
+   Lerna, M
+AF Foti, Dora
+   Ruggiero, Francesco
+   Sabba, Maria Francesca
+   Lerna, Michela
+TI A Dissipating Frames for Seismic Retrofitting and Building
+   Energy-Efficiency
+SO INFRASTRUCTURES
+DT Article
+DE popular residential buildings; dissipative frames; energy efficiency;
+   refurbishment; aesthetic improvement
+ID OPTIMAL-DESIGN; BEHAVIOR; DAMPERS; VULNERABILITY; PROTECTION; ALUMINUM;
+   BRACES
+PD SEP
+PY 2020
+VL 5
+IS 9
+AR 74
+DI 10.3390/infrastructures5090074
+WC Construction & Building Technology; Engineering, Civil; Transportation
+   Science & Technology
+SC Construction & Building Technology; Engineering; Transportation
+ER
+
+PT J
+AU Lenhart, S
+   Chan, G
+   Forsberg, L
+   Grimley, M
+   Wilson, E
+AF Lenhart, Stephanie
+   Chan, Gabriel
+   Forsberg, Lindsey
+   Grimley, Matthew
+   Wilson, Elizabeth
+TI Municipal utilities and electric cooperatives in the United States:
+   Interpretive frames, strategic actions, and place-specific transitions
+SO ENVIRONMENTAL INNOVATION AND SOCIETAL TRANSITIONS
+DT Article
+DE Municipal utilities and electric cooperatives; Distributed energy
+   resources; Community solar and customer-sited solar; Strategic action
+   fields; Structuration of sociotechnical regimes; Interpretive frames
+ID SUSTAINABILITY TRANSITIONS; ENERGY; STRUCTURATION; INSTITUTIONS;
+   PERSPECTIVE; POLITICS; FUTURES; SYSTEMS; FIELDS; POWER
+PD SEP
+PY 2020
+VL 36
+BP 17
+EP 33
+DI 10.1016/j.eist.2020.04.006
+WC Environmental Sciences; Environmental Studies
+SC Environmental Sciences & Ecology
+ER
+
+PT J
+AU Wu, TY
+   El-Tawil, S
+   McCormick, J
+AF Wu, Tung-Yu
+   El-Tawil, Sherif
+   McCormick, Jason
+TI Influence of Seismic Design Evolution on the Seismic Collapse Behavior
+   and Losses of Prototype Steel Buildings with Moment-Resisting Frames
+SO JOURNAL OF STRUCTURAL ENGINEERING
+DT Article
+ID DEEP
+PD SEP
+PY 2020
+VL 146
+IS 9
+AR 04020177
+DI 10.1061/(ASCE)ST.1943-541X.0002743
+WC Construction & Building Technology; Engineering, Civil
+SC Construction & Building Technology; Engineering
+ER
+
+PT J
+AU Speed, E
+   Mannion, R
+AF Speed, Ewen
+   Mannion, Russell
+TI Populism and health policy: three international case studies of
+   right-wing populist policy frames
+SO SOCIOLOGY OF HEALTH & ILLNESS
+DT Article
+DE populism; health policy; comparative politics; anti-vaccination;
+   Affordable Care Act; Laclau
+ID VACCINE HESITANCY; CARE; NHS; CHALLENGES; OBAMACARE
+PD NOV
+PY 2020
+VL 42
+IS 8
+BP 1967
+EP 1981
+DI 10.1111/1467-9566.13173
+EA AUG 2020
+WC Public, Environmental & Occupational Health; Social Sciences,
+   Biomedical; Sociology
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences;
+   Sociology
+ER
+
+PT J
+AU Pope, C
+AF Pope, Celia
+TI Multicultural Body-Based Cultural Frame Switching: A Dance/Movement
+   Therapy Approach
+SO BODY MOVEMENT AND DANCE IN PSYCHOTHERAPY
+DT Article
+DE Bicultural identity integration; cultural frame switching; body posture
+ID BICULTURAL IDENTITY INTEGRATION
+PD OCT 1
+PY 2020
+VL 15
+IS 4
+BP 222
+EP 235
+DI 10.1080/17432979.2020.1802334
+EA AUG 2020
+WC Psychology, Clinical
 SC Psychology
 ER
 
+PT J
+AU Russell, C
+   Lawrence, M
+   Cullerton, K
+   Baker, P
+AF Russell, Cherie
+   Lawrence, Mark
+   Cullerton, Katherine
+   Baker, Phillip
+TI The political construction of public health nutrition problems: a
+   framing analysis of parliamentary debates on junk-food marketing to
+   children in Australia
+SO PUBLIC HEALTH NUTRITION
+DT Article
+DE Framing; Childhood obesity; Marketing; Junk food; Political priority;
+   Ideology
+ID CHILDHOOD OBESITY; SOCIAL-MOVEMENTS; POLICY; NEWS; POWER; PREVENTION;
+   EVOLUTION; PRIORITY; INDUSTRY; SUPPORT
+PD AUG
+PY 2020
+VL 23
+IS 11
+BP 2041
+EP 2052
+AR PII S1368980019003628
+DI 10.1017/S1368980019003628
+WC Public, Environmental & Occupational Health; Nutrition & Dietetics
+SC Public, Environmental & Occupational Health; Nutrition & Dietetics
+ER
 
 PT J
-AU Cooke, M
-AF Cooke, Maeve
-TI Immanent Critique of the Immanent Frame: The Critical Potential of A
-   Secular Age
-SO INTERNATIONAL JOURNAL OF PHILOSOPHICAL STUDIES
+AU Hult, MA
+AF Arriaza Hult, Maria
+TI Welcome to the party: A frame analysis of the construction of party
+   identities in Swedish left parties' new-member education
+SO STUDIES IN THE EDUCATION OF ADULTS-NIACE
 DT Article
-DE Charles Taylor; cultural criticism; secularization; the immanent frame;
-   immanent critique
-ID TAYLOR
-PD OCT 20
+DE adult education; collective identity; member mobilisation; movement;
+   party education
+ID SOCIAL-MOVEMENTS; ADULT-EDUCATION; COLLECTIVE IDENTITY; WELFARE-STATE;
+   SWEDEN
+PD JUL 2
+PY 2020
+VL 52
+IS 2
+BP 232
+EP 249
+DI 10.1080/02660830.2020.1791480
+EA JUL 2020
+WC Education & Educational Research
+SC Education & Educational Research
+ER
+
+PT J
+AU McClelland-Cohen, A
+   Endacott, CG
+AF McClelland-Cohen, Avigail
+   Endacott, Camille G.
+TI The Signs of Our Discontent: Framing Collective Identity at the Women's
+   March on Washington
+SO COMMUNICATION STUDIES
+DT Article
+DE Social movements; frames; resistance; activism; networked organizing;
+   identity
+ID SOCIAL MEDIA; MOVEMENT
+PD OCT 19
+PY 2020
+VL 71
+IS 5
+BP 842
+EP 856
+DI 10.1080/10510974.2020.1784246
+EA JUN 2020
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Haenschen, K
+   Tedesco, JC
+AF Haenschen, Katherine
+   Tedesco, John C.
+TI Framing the Youth-Led Movement for Gun Violence Prevention: How News
+   Coverage Impacts Efficacy in Generation Z, Millennials, and Gen X
+SO INTERNATIONAL JOURNAL OF PRESS-POLITICS
+DT Article
+DE emphasis framing; political efficacy; collective efficacy; social
+   movements; mass shootings
+ID POLITICAL EFFICACY; SOCIAL-MOVEMENTS; MEDIA; MODEL
+PD OCT
+PY 2020
+VL 25
+IS 4
+BP 653
+EP 674
+AR 1940161220929976
+DI 10.1177/1940161220929976
+EA JUN 2020
+WC Communication; Political Science
+SC Communication; Government & Law
+ER
+
+PT J
+AU Kuusela, P
+   Hirvonen, P
+   Aromaa, E
+   Eriksson, P
+AF Kuusela, Pekka
+   Hirvonen, Pasi
+   Aromaa, Eeva
+   Eriksson, Paeivi
+TI Dialogical selves in action: Movements within and between frames in work
+   meetings
+SO THEORY & PSYCHOLOGY
+DT Article
+DE dialogical self theory; frame analysis; interaction; positioning; work
+   meetings
+ID SELF; CARE
+PD AUG
+PY 2020
+VL 30
+IS 4
+BP 588
+EP 608
+AR 0959354320920705
+DI 10.1177/0959354320920705
+EA JUN 2020
+WC Psychology, Multidisciplinary
+SC Psychology
+ER
+
+PT J
+AU Romsdahl, RJ
+AF Romsdahl, Rebecca J.
+TI Deliberative framing: opening up discussions for local-level public
+   engagement on climate change
+SO CLIMATIC CHANGE
+DT Review
+DE Deliberative democracy; Framing; Climate change; Public engagement;
+   Local governance
+ID CHANGE ADAPTATION; POLICY-MAKING; GOVERNANCE; FRAMES; MITIGATION;
+   STRATEGIES; MOVEMENT
+PD SEP
+PY 2020
+VL 162
+IS 2
+BP 145
+EP 163
+DI 10.1007/s10584-020-02754-x
+EA JUN 2020
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+ER
+
+PT J
+AU Fuentes, K
+AF Fuentes, Kristina
+TI Under Construction: Frames, Culture, and American Labor's Postwar
+   Embrace of "Free Enterprise"
+SO SOCIOLOGICAL PERSPECTIVES
+DT Article
+DE labor and labor movements; framing; social movements
+ID OPPORTUNITY STRUCTURES; SOCIAL-MOVEMENTS; NEW-DEAL; RESONANCE; KNIGHTS;
+   WORKERS; RIGHTS
+PD JUN
+PY 2020
+VL 63
+IS 3
+BP 370
+EP 387
+DI 10.1177/0731121419855973
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Smith, WP
+AF Smith, Wade P.
+TI Social Movement Framing Tasks and Contemporary Racisms: Diagnostic and
+   Prognostic Forms
+SO SOCIOLOGY OF RACE AND ETHNICITY
+DT Article
+DE racism; racial inequality; social movements; social problems; framing
+ID COLLECTIVE ACTION; RIGHTS; REFLECTIONS; WHITE; RACE; RESONANCE
+PD APR
 PY 2021
+VL 7
+IS 2
+BP 194
+EP 207
+DI 10.1177/2332649220922564
+EA JUN 2020
+WC Ethnic Studies; Sociology
+SC Ethnic Studies; Sociology
+ER
+
+PT J
+AU De Vydt, M
+   Ketelaars, P
+AF De Vydt, Michiel
+   Ketelaars, Pauline
+TI Linking consensus to action: does frame alignment amongst sympathizers
+   lead to protest participation?
+SO SOCIAL MOVEMENT STUDIES
+DT Article
+DE Frame alignment; micromobilization; protest participation; quantitative
+   research; social movements
+ID MOVEMENT; MICROMOBILIZATION; MOBILIZATION; RECRUITMENT; MOTIVATIONS;
+   NETWORKS
+PD JUL 4
+PY 2021
+VL 20
+IS 4
+BP 439
+EP 458
+DI 10.1080/14742837.2020.1770071
+EA MAY 2020
+WC Political Science; Sociology
+SC Government & Law; Sociology
+ER
+
+PT J
+AU Clune, C
+   O'dwyer, B
+AF Clune, Conor
+   O'dwyer, Brendan
+TI Framing Engagement that Resonates: Organizing Advocacy for Corporate
+   Social and Environmental Accountability
+SO EUROPEAN ACCOUNTING REVIEW
+DT Article
+ID STAKEHOLDER ENGAGEMENT; MANAGEMENT; FRAMES; INSTITUTIONALIZATION;
+   CONSTRUCTION; MOVEMENTS; EVOLUTION; STRATEGY; ACTIVISM; ACCOUNTS
+PD OCT 19
+PY 2020
 VL 29
 IS 5
-SI SI
-BP 738
-EP 758
-DI 10.1080/09672559.2021.2017716
-EA DEC 2021
-WC Philosophy
-SC Philosophy
+BP 851
+EP 875
+DI 10.1080/09638180.2020.1746374
+EA MAY 2020
+WC Business, Finance
+SC Business & Economics
 ER
+
+PT J
+AU Franke, T
+   Sims-Gould, J
+   Chaudhury, H
+   Winters, M
+   McKay, H
+AF Franke, Thea
+   Sims-Gould, Joanie
+   Chaudhury, Habib
+   Winters, Meghan
+   McKay, Heather
+TI Re-framing mobility in older adults: an adapted comprehensive conceptual
+   framework
+SO QUALITATIVE RESEARCH IN SPORT EXERCISE AND HEALTH
+DT Article
+DE Mobility; older adults; subjective; temporal; framework
+ID MEASURED PHYSICAL-ACTIVITY; NEIGHBORHOOD WALKABILITY; SOCIAL ENGAGEMENT;
+   GREEN SPACES; LIFE-COURSE; HEALTH; WELL; ENVIRONMENT; PERCEPTIONS;
+   DISABILITY
+PD MAY 26
+PY 2020
+VL 12
+IS 3
+BP 336
+EP 349
+DI 10.1080/2159676X.2019.1575269
+WC Hospitality, Leisure, Sport & Tourism; Psychology, Applied; Sport
+   Sciences
+SC Social Sciences - Other Topics; Psychology; Sport Sciences
+ER
+
+PT J
+AU McClean, AY
+AF McClean, Angela Y.
+TI Universalising the particular: strategic framing in immigrant
+   cross-border activism
+SO JOURNAL OF ETHNIC AND MIGRATION STUDIES
+DT Article
+DE Transnationalism; social movements; comfort women; Korean-Americans
+ID TRANSNATIONALISM; CITIZENSHIP; MOVEMENT
+PD MAY 18
+PY 2020
+VL 46
+IS 7
+BP 1478
+EP 1496
+DI 10.1080/1369183X.2018.1504675
+WC Demography; Ethnic Studies
+SC Demography; Ethnic Studies
+ER
+
+PT J
+AU Travia, RM
+   Larcus, JG
+   Andes, S
+   Gomes, PG
+AF Travia, Ryan M.
+   Larcus, James G.
+   Andes, Stacy
+   Gomes, Paula G.
+TI Framing well-being in a college campus setting
+SO JOURNAL OF AMERICAN COLLEGE HEALTH
+DT Article
+DE Employee health; health disparities; student well-being; student
+   wellness; well-being; wellness
+ID MENTAL-HEALTH; STRESS; PROGRAMS
+PD APR 3
+PY 2022
+VL 70
+IS 3
+BP 758
+EP 772
+DI 10.1080/07448481.2020.1763369
+EA MAY 2020
+WC Education & Educational Research; Public, Environmental & Occupational
+   Health
+SC Education & Educational Research; Public, Environmental & Occupational
+   Health
+ER
+
+PT J
+AU Park, HW
+   Park, S
+   Chong, M
+AF Park, Han Woo
+   Park, Sejung
+   Chong, Miyoung
+TI Conversations and Medical News Frames on Twitter: Infodemiological Study
+   on COVID-19 in South Korea
+SO JOURNAL OF MEDICAL INTERNET RESEARCH
+DT Article
+DE infodemiology; COVID-19; SARS-CoV-2; coronavirus; Twitter; South Korea;
+   medical news; social media; pandemic; outbreak; infectious disease;
+   public health
+ID SOCIAL MEDIA; HEALTH INFORMATION; CRISIS
+PD MAY 5
+PY 2020
+VL 22
+IS 5
+AR e18897
+DI 10.2196/18897
+WC Health Care Sciences & Services; Medical Informatics
+SC Health Care Sciences & Services; Medical Informatics
+ER
+
+PT J
+AU Crocetti, D
+   Arfini, EAG
+   Monro, S
+   Yeadon-Lee, T
+AF Crocetti, Daniela
+   Arfini, Elisa A. G.
+   Monro, Surya
+   Yeadon-Lee, Tray
+TI 'You're basically calling doctors torturers': stakeholder framing issues
+   around naming intersex rights claims as human rights abuses
+SO SOCIOLOGY OF HEALTH & ILLNESS
+DT Article
+DE intersex; DSD; dsd; human rights; health social movements;
+   evidence-based activism
+ID SEX DEVELOPMENT; SOCIAL-MOVEMENTS; DISORDERS; HEALTH; CONSTRUCTION
+PD MAY
+PY 2020
+VL 42
+IS 4
+BP 943
+EP 958
+DI 10.1111/1467-9566.13072
+WC Public, Environmental & Occupational Health; Social Sciences,
+   Biomedical; Sociology
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences;
+   Sociology
+ER
+
+PT J
+AU Krlev, G
+   Lund, AB
+AF Krlev, Gorgi
+   Lund, Anker Brink
+TI Social Innovation Ignored: Framing Nonprofit Activities in European News
+   Media
+SO VOLUNTAS
+DT Article
+DE Media; Framing; Social innovation; Nonprofit; Third sector
+ID CIVIL-SOCIETY; MOVEMENT ORGANIZATIONS; SECTOR; DYNAMICS; COVERAGE;
+   POLITICS; COLLABORATIONS; PERCEPTIONS; PERSPECTIVE; PUBLICITY
+PD OCT
+PY 2020
+VL 31
+IS 5
+BP 949
+EP 965
+DI 10.1007/s11266-020-00224-7
+EA APR 2020
+WC Social Issues
+SC Social Issues
+ER
+
+PT J
+AU Zozula, C
+   Lavin, MF
+AF Zozula, Christine
+   Lavin, Melissa F.
+TI Frame Analysis and Deviance Scholarship: Exploring Links through Drugs
+   and Guns
+SO DEVIANT BEHAVIOR
+DT Article
+ID SOCIAL-MOVEMENTS; POLITICS; RISK
+PD JUL 2
+PY 2020
+VL 41
+IS 7
+SI SI
+BP 856
+EP 867
+DI 10.1080/01639625.2020.1755091
+EA APR 2020
+WC Criminology & Penology; Psychology, Social; Sociology
+SC Criminology & Penology; Psychology; Sociology
+ER
+
+PT J
+AU Darwin, H
+   Miller, A
+AF Darwin, Helana
+   Miller, Amara
+TI Factions, frames, and postfeminism(s) in the Body Positive Movement
+SO FEMINIST MEDIA STUDIES
+DT Article
+DE Body Positive Movement; feminism; fourth wave feminism; postfeminism;
+   radical flank effects
+ID PRODUCTION GAP; WEB 2.0; ACTIVISM; FEMINISM; ISSUE; FAT
+PD AUG 18
+PY 2021
+VL 21
+IS 6
+SI SI
+BP 873
+EP 890
+DI 10.1080/14680777.2020.1736118
+EA APR 2020
+WC Communication; Women's Studies
+SC Communication; Women's Studies
+ER
+
+PT J
+AU Chailleux, S
+AF Chailleux, Sebastien
+TI Strategic ignorance and politics of time: how expert knowledge framed
+   shale gas policies
+SO CRITICAL POLICY STUDIES
+DT Article
+DE Hydraulic fracturing; shale gas; expert knowledge; public policy;
+   strategic ignorance; politics of time
+ID FRACKING; LESSONS
+PD APR 2
+PY 2020
+VL 14
+IS 2
+BP 174
+EP 192
+DI 10.1080/19460171.2018.1563556
+WC Political Science; Public Administration
+SC Government & Law; Public Administration
+ER
+
+PT J
+AU Barranco, O
+   Parcerisa, L
+AF Barranco, Oriol
+   Parcerisa, Lluis
+TI Yes, it is possible! Framing processes and social resonance of Spain's
+   anti-eviction movement
+SO CATALAN JOURNAL OF COMMUNICATION & CULTURAL STUDIES
+DT Article
+DE cultural outcomes; framing; strategic communication; mediation; housing
+   movement; Spain
+ID CONSEQUENCES; REASONS
+PD APR 1
+PY 2020
+VL 12
+IS 1
+BP 37
+EP 57
+DI 10.1386/cjcs_00013_1
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Murphy, J
+   Denyer, D
+   Pettigrew, A
+AF Murphy, Joanne
+   Denyer, David
+   Pettigrew, Andrew
+TI The Role of Framing Mechanisms in Explaining System-Wide Change: The
+   Case of the Northern Ireland Conflict and Peace Process
+SO BRITISH JOURNAL OF MANAGEMENT
+DT Article
+ID INTERORGANIZATIONAL COLLABORATION; INSTITUTIONAL LOGICS;
+   SOCIAL-MOVEMENTS; STRATEGIC ACTION; GENERAL-THEORY; FIELD;
+   TRANSFORMATION; DYNAMICS; CHALLENGES; MANAGEMENT
+PD APR
+PY 2021
+VL 32
+IS 2
+BP 322
+EP 341
+DI 10.1111/1467-8551.12393
+EA MAR 2020
+WC Business; Management
+SC Business & Economics
+ER
+
+PT J
+AU Cuadrado, F
+   Antoli, A
+   Rosal-Nadales, M
+   Moriana, JA
+AF Cuadrado, Fatima
+   Antoli, Adoracion
+   Rosal-Nadales, Maria
+   Moriana, Juan A.
+TI Giving Meaning to Alzheimer's Disease: An Experimental Study Using a
+   Framing Approach
+SO HEALTH COMMUNICATION
+DT Article
+ID DEMENTIA; MAGAZINES; NEWS; SELF
+PD MAR 20
+PY 2020
+VL 35
+IS 4
+BP 447
+EP 455
+DI 10.1080/10410236.2019.1567441
+WC Communication; Health Policy & Services
+SC Communication; Health Care Sciences & Services
+ER
+
+PT J
+AU Baumann, S
+   Majeed, H
+AF Baumann, Shyon
+   Majeed, Hamnah
+TI Framing economic inequality in the news in Canada and the United States
+SO PALGRAVE COMMUNICATIONS
+DT Article
+ID MEDIA; COVERAGE; POVERTY; AMERICA; EVOLUTION; MOVEMENT
+PD MAR 17
+PY 2020
+VL 6
+IS 1
+AR 42
+DI 10.1057/s41599-020-0418-3
+WC Social Sciences, Interdisciplinary
+SC Social Sciences - Other Topics
+ER
+
+PT J
+AU Fadaee, S
+AF Fadaee, Simin
+TI The Long 2015 in Germany: Activists' Pro-Refugee Frames and Media
+   Counter Frames
+SO SOCIOLOGICAL RESEARCH ONLINE
+DT Article
+DE frames; Germany; media; mobilization; refugees
+ID COLLECTIVE ACTION; PUBLIC-OPINION; MOVEMENT; DEBATE; POWER
+PD MAR
+PY 2021
+VL 26
+IS 1
+BP 44
+EP 59
+AR 1360780420907922
+DI 10.1177/1360780420907922
+EA MAR 2020
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Coronel, JC
+   Ott, JM
+   Hubner, A
+   Sweitzer, MD
+   Lerner, S
+AF Coronel, Jason C.
+   Ott, Jared M.
+   Hubner, Austin
+   Sweitzer, Matthew D.
+   Lerner, Samuel
+TI How Are Competitive Framing Environments Transformed by Person-to-Person
+   Communication? An Integrated Social Transmission, Content Analysis, and
+   Eye Movement Monitoring Approach
+SO COMMUNICATION RESEARCH
+DT Article; Early Access
+DE framing; competitive frames; social transmission; eye movements; memory
+ID SELECTIVE ATTENTION; SERIAL REPRODUCTION; PUBLIC-OPINION; MEDIA;
+   CONVERSATIONS; STEREOTYPES; RETENTION; CONFLICT; MEMORY; DEPTH
+AR 0093650220903596
+DI 10.1177/0093650220903596
+EA MAR 2020
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Espinoza-Kulick, A
+AF Espinoza-Kulick, Alex
+TI A MULTIMETHOD APPROACH TO FRAMING DISPUTES: SAME-SEX MARRIAGE ON TRIAL
+   IN OBERGEFELL V. HODGES
+SO MOBILIZATION
+DT Article
+ID OPPORTUNITY STRUCTURES; QUALITATIVE RESEARCH; TOPIC MODELS; US;
+   MOVEMENTS; CULTURE; CONSTRUCTION; CITIZENSHIP; PERSPECTIVE; STRATEGIES
+PD MAR
+PY 2020
+VL 25
+IS 1
+BP 45
+EP 70
+DI 10.17813/1086-671X-25-1-45
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Giorgi, S
+   Nielsen, RP
+AF Giorgi, Simons
+   Nielsen, Richard P.
+TI Social Situational Business Ethics Framing for Engaging with Ethics
+   Issues
+SO BUSINESS & PROFESSIONAL ETHICS JOURNAL
+DT Article
+DE business ethics; framing; resonance; social situation
+ID MOVEMENT; STRATEGIES; IDENTITY; CULTURE; CONTEXT; ORGANIZATIONS;
+   CONSTRUCTION; SENSEMAKING; NARRATIVES; DISCOURSE
+PD SPR
+PY 2020
+VL 39
+IS 1
+BP 1
+EP 42
+DI 10.5840/bpej201911788
+WC Ethics
+SC Social Sciences - Other Topics
+ER
+
+PT J
+AU Jodoin, S
+   Snow, S
+   Corobow, A
+AF Jodoin, Sebastien
+   Snow, Shannon
+   Corobow, Arielle
+TI Realizing the Right to Be Cold? Framing Processes and Outcomes
+   Associated with the Inuit Petition on Human Rights and Global Warming
+SO LAW & SOCIETY REVIEW
+DT Article
+ID CLIMATE-CHANGE; LEGAL MOBILIZATION; SOCIAL-MOVEMENTS; OPPORTUNITY
+   STRUCTURES; POLITICS; POLICY; COPENHAGEN; DYNAMICS; JUSTICE; FRAMES
+PD MAR
+PY 2020
+VL 54
+IS 1
+BP 168
+EP 200
+DI 10.1111/lasr.12458
+WC Law; Sociology
+SC Government & Law; Sociology
+ER
+
+PT J
+AU Munoriyarwa, A
+AF Munoriyarwa, Allen
+TI So, who is responsible? A framing analysis of newspaper coverage of
+   electoral violence in Zimbabwe
+SO JOURNAL OF AFRICAN MEDIA STUDIES
+DT Article
+DE electoral violence; Zimbabwe; ZANU PF; Movement for Democratic Change;
+   framing analysis; harmonized elections
+ID MEDIA
+PD MAR
+PY 2020
+VL 12
+IS 1
+BP 61
+EP 74
+DI 10.1386/jams_00011_11
+WC Cultural Studies; Communication; Film, Radio, Television
+SC Cultural Studies; Communication; Film, Radio & Television
+ER
+
+PT J
+AU Carlisle, L
+AF Carlisle, Liz
+TI Activating Neighborliness Frames: Drawing on Culturally-Relevant
+   Discourses of Community to Build a Stronger and More Diverse
+   Environmental Movement
+SO FRONTIERS IN COMMUNICATION
+DT Article
+DE environmental communication; cultural cognition; frames; environmental
+   movements; social change; rural politics
+PD FEB 18
+PY 2020
+VL 5
+AR 7
+DI 10.3389/fcomm.2020.00007
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Yazdiha, H
+AF Yazdiha, Hajar
+TI All the Muslims Fit to Print: Racial Frames as Mechanisms of Muslim
+   Ethnoracial Formation in the New York Times from 1992 to 2010
+SO SOCIOLOGY OF RACE AND ETHNICITY
+DT Article
+DE Muslims; racialization; media; frames; islamophobia; culture
+ID MEDIA PORTRAYALS; PUBLIC-OPINION; RACIALIZATION; ISLAMOPHOBIA; COVERAGE;
+   WOMEN; ISLAM; ORGANIZATIONS; MOVEMENTS; PREJUDICE
+PD OCT
+PY 2020
+VL 6
+IS 4
+BP 501
+EP 516
+AR 2332649220903747
+DI 10.1177/2332649220903747
+EA FEB 2020
+WC Ethnic Studies; Sociology
+SC Ethnic Studies; Sociology
+ER
+
+PT J
+AU Emilsson, K
+   Johansson, H
+   Wennerhag, M
+AF Emilsson, Kajsa
+   Johansson, Hakan
+   Wennerhag, Magnus
+TI Frame Disputes or Frame Consensus? "Environment" or "Welfare" First
+   Amongst Climate Strike Protesters
+SO SUSTAINABILITY
+DT Article
+DE global climate strike; demonstrations; environmental movement; frame
+   support; frames; protest surveys; sustainability; sustainable welfare;
+   Greta Thunberg; Fridays For Future
+ID ATTITUDES; MOVEMENT; SUPPORT; REDISTRIBUTION; PARTICIPATION;
+   PREFERENCES; PATTERNS; JUSTICE; ISSUE
+PD FEB
+PY 2020
+VL 12
+IS 3
+AR 882
+DI 10.3390/su12030882
+WC Green & Sustainable Science & Technology; Environmental Sciences;
+   Environmental Studies
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+ER
+
+PT J
+AU Hoppmann, J
+   Anadon, LD
+   Narayanamurti, V
+AF Hoppmann, Joern
+   Anadon, Laura Diaz
+   Narayanamurti, Venkatesh
+TI Why matter matters: How technology characteristics shape the strategic
+   framing of technologies
+SO RESEARCH POLICY
+DT Article
+DE Technology characteristics; Framing; Sociology of expectations;
+   Technology hypes; Solar photovoltaic
+ID IMPRESSION MANAGEMENT; SOCIAL CONSTRUCTION; EXPECTATIONS; SOCIOLOGY;
+   SCIENCE; ENTREPRENEURSHIP; HYDROGEN; INDUSTRY; MODEL; HYPE
+PD FEB
+PY 2020
+VL 49
+IS 1
+AR 103882
+DI 10.1016/j.respol.2019.103882
+WC Management
+SC Business & Economics
+ER
+
+PT J
+AU Rafferty, R
+AF Rafferty, Rachel
+TI Conflict Narratives, Action Frames, and Engagement in Reconciliation
+   Efforts Among Community Activists in Northern Ireland
+SO PEACE AND CONFLICT-JOURNAL OF PEACE PSYCHOLOGY
+DT Article
+DE reconciliation; activism; framing; conflict narratives; Northern Ireland
+ID COMPETITIVE VICTIMHOOD; INTERGROUP CONTACT; COLLECTIVE MEMORY;
+   SOCIAL-MOVEMENTS; IDENTITY; ISRAELI; PSYCHOLOGY; BURDEN; PART
+PD FEB
+PY 2020
+VL 26
+IS 1
+BP 9
+EP 21
+DI 10.1037/pac0000398
+WC Psychology, Social
+SC Psychology
+ER
+
+PT J
+AU Orofino, E
+AF Orofino, Elisa
+TI Framing, new social identity and long-term loyalty. Hizb ut-Tahrir's
+   impact on its members
+SO SOCIAL MOVEMENT STUDIES
+DT Article
+DE Vocal Islamist groups; Hizb ut-Tahrir; framing; values; social identity
+ID MOVEMENTS; STATE
+PD JAN 2
+PY 2021
+VL 20
+IS 1
+BP 75
+EP 92
+DI 10.1080/14742837.2020.1722629
+EA JAN 2020
+WC Political Science; Sociology
+SC Government & Law; Sociology
+ER
+
+PT J
+AU Stevens, TM
+   Aarts, N
+   Dewulf, A
+AF Stevens, Tim M.
+   Aarts, Noelle
+   Dewulf, Art
+TI Using Emotions to Frame Issues and Identities in Conflict: Farmer
+   Movements on Social Media
+SO NEGOTIATION AND CONFLICT MANAGEMENT RESEARCH
+DT Article
+DE framing; conflict; identity; emotion; social media; animal welfare;
+   animal husbandry
+ID INTERGROUP CONFLICT; TRANSFORMATION; PERCEPTIONS; PROTEST
+PD MAY
+PY 2021
+VL 14
+IS 2
+BP 75
+EP 93
+DI 10.1111/ncmr.12177
+EA JAN 2020
+WC Psychology, Applied; Management
+SC Psychology; Business & Economics
+ER
+
+PT J
+AU Ronn, AK
+AF Ronn, Anne Kirstine
+TI The Development and Negotiation of Frames During Non-sectarian
+   Mobilizations in Lebanon
+SO REVIEW OF FAITH & INTERNATIONAL AFFAIRS
+DT Article
+DE Lebanon; non-sectarian mobilization; framing; sectarianism; social
+   movements
+PD JAN 2
+PY 2020
+VL 18
+IS 1
+SI SI
+BP 87
+EP 96
+DI 10.1080/15570274.2020.1729533
+WC Religion
+SC Religion
+ER
+
+PT J
+AU Ammaturo, FR
+AF Ammaturo, Francesca Romana
+TI Framing and shaming: LGBT activism, feminism and the construction of
+   'gestational surrogacy' in Italy
+SO SOCIAL MOVEMENT STUDIES
+DT Article
+DE Feminism; LGBT; social movements; Italy; surrogacy
+ID RIGHTS
+PD JUL 3
+PY 2020
+VL 19
+IS 4
+BP 447
+EP 463
+DI 10.1080/14742837.2019.1708308
+EA JAN 2020
+WC Political Science; Sociology
+SC Government & Law; Sociology
+ER
+
+PT J
+AU Araujo, MSV
+   Neto, AC
+AF Araujo, M. S., V
+   Cabral Neto, A.
+TI HIGHER EDUCATION EXPANSION'S AT THE INSTITUTO FEDERAL DE EDUCACAO,
+   CIENCIA E TECNOLOGIA DA PARAIBA (IFPB) [FEDERAL INSTITUTE OF EDUCATION,
+   SCIENCE AND TECHNOLOGY OF PARAIBA]: OUTLINES IN THE TIME FRAME OF
+   2008-2015
+SO HOLOS
+DT Article
+DE Higher Education; Expansion; IFPB
+PY 2020
+VL 36
+IS 4
+AR e9903
+DI 10.15628/holos.2020.9903
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+ER
+
+PT J
+AU Cristancho, C
+   Anduiza, E
+   Congosto, M
+   Majo-Vazquez, S
+AF Cristancho, Camilo
+   Anduiza, Eva
+   Congosto, Mariluz
+   Majo-Vazquez, Silvia
+TI Contentious Responses to the Crises in Spain: Emphasis Frames and Public
+   Support for Protest on Twitter and the Press
+SO INTERNATIONAL JOURNAL OF COMMUNICATION
+DT Article
+DE protest; attitudes; news media; social networks; Twitter; contentious
+   politics
+ID TELEVISION-NEWS COVERAGE; SOCIAL NETWORKS; MEDIA; MOVEMENTS; DYNAMICS
+PY 2020
+VL 14
+BP 3266
+EP 3288
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Dal, B
+   Guman, O
+AF Dal, Betul
+   Guman, Osman
+TI RE-EVALUATON OF COMPETENCE TO TRIAL WITHIN THE FRAME OF TERMS BULUGH AND
+   RUSHD: CRIMINAL MAJORITY
+SO BILIMNAME
+DT Article
+DE Islamic Law; Capacity; Criminal Capacity; Puberty (Bulugh); Majority
+   (Rushd)
+PY 2020
+VL 41
+IS 1
+BP 763
+EP 800
+DI 10.28949/bilimname.700102
+WC Religion
+SC Religion
+ER
+
+PT J
+AU Fairclough, I
+   Madroane, ID
+AF Fairclough, Isabela
+   Madroane, Irina Diana
+TI An Argumentative Approach to "Framing" Framing, Deliberation and Action
+   in an Environmental Conflict
+SO CO-HERENCIA
+DT Article
+DE Argument scheme; categorization; collective action; decision;
+   deliberation; explanation; frame; framing; metaphor; narrative;
+   persuasive definition; Rosia Montana
+ID FRAMES
+PD JAN-JUN
+PY 2020
+VL 17
+IS 32
+BP 119
+EP 158
+DI 10.17230/co-herencia.17.32.5
+WC Humanities, Multidisciplinary
+SC Arts & Humanities - Other Topics
+ER
+
+PT J
+AU Fernandes-Jesus, M
+   Lima, ML
+   Sabucedo, JM
+AF Fernandes-Jesus, Maria
+   Lima, Maria Luisa
+   Sabucedo, Jose-Manuel
+TI "Save the Climate! Stop the Oil": Actual Protest Behavior and Core
+   Framing Tasks in the Portuguese Climate Movement
+SO JOURNAL OF SOCIAL AND POLITICAL PSYCHOLOGY
+DT Article
+DE climate movement; protests; frame analysis; climate justice; moral path
+ID PRO-ENVIRONMENTAL BEHAVIOR; SOCIAL-IDENTITY-MODEL; COLLECTIVE ACTION
+   FRAMES; MORAL CONVICTION; PARTICIPATION; IDENTIFICATION; ALIGNMENT;
+   POWER; DETERMINANTS; MOTIVATIONS
+PY 2020
+VL 8
+IS 1
+BP 426
+EP 452
+DI 10.5964/jspp.v8i1.1116
+WC Psychology, Social
+SC Psychology
+ER
+
+PT S
+AU Foulsham, T
+AF Foulsham, Tom
+BE Federmeier, KD
+   Schotter, ER
+TI Beyond the picture frame: The function of fixations in interactive tasks
+SO GAZING TOWARD THE FUTURE: ADVANCES IN EYE MOVEMENT THEORY AND
+   APPLICATIONS
+SE Psychology of Learning and Motivation
+DT Article; Book Chapter
+ID EYE-MOVEMENTS; VISUAL-ATTENTION; SOCIAL ATTENTION; GAZE ALLOCATION;
+   OBJECTS; SCENES; VISION; ROLES; BODY; TIME
+PY 2020
+VL 73
+BP 33
+EP 58
+DI 10.1016/bs.plm.2020.06.001
+WC Psychology, Experimental
+SC Psychology
+ER
+
+PT J
+AU Gash, A
+   Tichenor, D
+   Chavez, A
+   Musselman, M
+AF Gash, Alison
+   Tichenor, Daniel
+   Chavez, Angelita
+   Musselman, Malori
+TI Framing kids: children, immigration reform, and same-sex marriage
+SO POLITICS GROUPS AND IDENTITIES
+DT Article
+DE Undocumented immigrants; same-sex marriage; civil rights; children;
+   media framing; social movements
+PD JAN 1
+PY 2020
+VL 8
+IS 1
+BP 44
+EP 70
+DI 10.1080/21565503.2018.1441721
+WC Political Science
+SC Government & Law
+ER
+
+PT B
+AU Georgiadou, V
+   Kafe, A
+AF Georgiadou, Vasiliki
+   Kafe, Anastasia
+BA Katsikas, D
+BF Katsikas, D
+TI 'It's not the austerity, stupid' Interpreting the frames of the
+   far-right wing radicalization
+SO PUBLIC DISCOURSES AND ATTITUDES IN GREECE DURING THE CRISIS: FRAMING THE
+   ROLE OF THE EUROPEAN UNION, GERMANY AND NATIONAL GOVERNMENTS
+SE Routledge Advances in European Politics
+DT Article; Book Chapter
+ID SOCIAL-MOVEMENTS; ANTI-AUSTERITY; EXTREME-RIGHT; EUROPE; MOBILIZATION;
+   PROTESTS; GREECE
+PY 2020
+BP 17
+EP 39
+WC International Relations; Political Science
+SC International Relations; Government & Law
+ER
+
+PT J
+AU Gu, JB
+AF Gu, Junbin
+TI Calculating the rigid frame diagonal strut for Multi-ribbed composite
+   wall
+SO JOURNAL OF COMPUTATIONAL METHODS IN SCIENCES AND ENGINEERING
+DT Article
+DE Multi-ribbed composite wall; the entity mode; rigid frame diagonal strut
+   model; non-linear finite element
+PY 2020
+VL 20
+IS 2
+BP 543
+EP 552
+DI 10.3233/JCM-193896
+WC Engineering, Multidisciplinary
+SC Engineering
+ER
+
+PT J
+AU Guenther, L
+   Ruhrmann, G
+   Bischoff, J
+   Penzel, T
+   Weber, A
+AF Guenther, Lars
+   Ruhrmann, Georg
+   Bischoff, Jenny
+   Penzel, Tessa
+   Weber, Antonia
+TI Strategic Framing and Social Media Engagement: Analyzing Memes Posted by
+   the German Identitarian Movement on Facebook
+SO SOCIAL MEDIA + SOCIETY
+DT Article
+DE communication on Facebook; German Identitarian Movement; memes;
+   strategic framing; content analysis
+ID ONLINE; DISCOURSE; PROTEST
+PD JAN
+PY 2020
+VL 6
+IS 1
+AR 2056305119898777
+DI 10.1177/2056305119898777
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Inguanzo, I
+AF Inguanzo, Isabel
+TI FRAME BRIDGING IN THE INDIGENOUS PERSONS WITH DISABILITIES' MOVEMENT
+SO ANDAMIOS
+DT Article
+DE Indigenous peoples; disability; transnational advocacy networks; social
+   movements; frame-bridging
+ID ADVOCACY; PEOPLE; RIGHTS; REPRESENTATION; CHILDREN; GENDER; HEALTH;
+   ISSUE
+PD JAN-APR
+PY 2020
+VL 17
+IS 42
+BP 357
+EP 385
+DI 10.29092/uacm.v17i42.747
+WC Social Sciences, Interdisciplinary
+SC Social Sciences - Other Topics
+ER
+
+PT J
+AU Isakhan, B
+AF Isakhan, Benjamin
+TI The Islamic State Attacks on Shia Holy Sites and the "Shrine Protection
+   Narrative": Threats to Sacred Space as a Mobilization Frame
+SO TERRORISM AND POLITICAL VIOLENCE
+DT Article
+DE Islamic State; sacred space; Shia militias; shrine protection; social
+   movement theory
+ID SOCIAL-MOVEMENT THEORY; RELIGION; IRAQ; SECTARIANISM
+PY 2020
+VL 32
+IS 4
+BP 724
+EP 748
+DI 10.1080/09546553.2017.1398741
+WC International Relations; Political Science
+SC International Relations; Government & Law
+ER
+
+PT J
+AU Liu, WL
+   Harlow, S
+AF Liu, Wenlin
+   Harlow, Summer
+TI Tweeting in Solidarity: Examining Frame Diffusion and Alignment
+   Processes Among Immigrant-Serving NGOs Before and After Donald Trump's
+   Travel Ban
+SO INTERNATIONAL JOURNAL OF COMMUNICATION
+DT Article
+DE activism; collective action framing; immigration; NGOs; social media
+ID COLLECTIVE ACTION FRAMES; SOCIAL-MOVEMENT; NONPROFIT ORGANIZATIONS;
+   MEDIA; INTERSECTIONALITY; MOBILIZATION; INFORMATION; NETWORKS; PROTEST;
+   RIGHTS
+PY 2020
+VL 14
+BP 6049
+EP 6071
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Saldarriaga, DM
+   Arango, MR
+AF Mejia Saldarriaga, Daniel
+   Rocio Arango, Maria
+TI Social Mobilization and Deliberation The Collective Action Frame as the
+   Conclusion of a Deliberative Dialogue
+SO CO-HERENCIA
+DT Article
+DE Collective action; collective action frame; practical reasoning; social
+   movement; social movement organization; deliberative dialogue
+ID MOVEMENTS
+PD JAN-JUN
+PY 2020
+VL 17
+IS 32
+BP 99
+EP 118
+DI 10.17230/co-herencia.17.32.4
+WC Humanities, Multidisciplinary
+SC Arts & Humanities - Other Topics
+ER
+
+PT J
+AU Peters, MV
+AF Peters, Maria Verena
+TI From the Whisper Network to #MeToo-Framing Gender, Gossip and Sexual
+   Harassment
+SO EUROPEAN JOURNAL OF AMERICAN STUDIES
+DT Article
+DE gossip; gender; #MeToo; whisper network; print media; new media; social
+   media; Cosby trial; hashtag feminism; postfeminism
+PY 2020
+VL 15
+IS 4
+SI SI
+WC Humanities, Multidisciplinary
+SC Arts & Humanities - Other Topics
+ER
+
+PT J
+AU Simonelli, AP
+   Jackson, JM
+   Teixeira, AC
+   de Oliveira, BA
+   Friebe, ECD
+   Del Canali, R
+   Bordignon, TM
+   de Oliveira, VPM
+AF Simonelli, Angela Paula
+   Jackson Filho, Jose Marcal
+   Teixeira, Araie Carolina
+   de Oliveira, Beliza Andreia
+   de Lima Friebe, Emanuele Caroline
+   Del Canali, Raquel
+   Bordignon, Tarciana Maria
+   Marques de Oliveira, Vanderleia Pontes
+TI Framing of the theme of the inclusion of people with disabilities at
+   work by a wide-circulation newspaper in Parana state since 1991 until
+   2006
+SO CADERNOS BRASILEIROS DE TERAPIA OCUPACIONAL-BRAZILIAN JOURNAL OF
+   OCCUPATIONAL THERAPY
+DT Article
+DE Video-audio Media; Disabled Persons; Inclusion; Employment
+PY 2020
+VL 28
+IS 2
+BP 452
+EP 466
+DI 10.4322/2526-8910.ctoAO1988
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+ER
+
+PT J
+AU Unterfrauner, E
+   Hofer, M
+   Pelka, B
+   Zirngiebl, M
+AF Unterfrauner, Elisabeth
+   Hofer, Margit
+   Pelka, Bastian
+   Zirngiebl, Marthe
+TI A New Player for Tackling Inequalities? Framing the Social Value and
+   Impact of the Maker Movement
+SO SOCIAL INCLUSION
+DT Article
+DE Maker Movement; maker space; social impact; social inclusion; social
+   inequalities
+ID SUSTAINABILITY; HEALTH
+PY 2020
+VL 8
+IS 2
+BP 190
+EP 200
+DI 10.17645/si.v8i2.2590
+WC Social Issues; Social Sciences, Interdisciplinary
+SC Social Issues; Social Sciences - Other Topics
+ER
+
+PT J
+AU Bacon, JM
+AF Bacon, J. M.
+TI Dangerous pipelines, dangerous people: colonial ecological violence and
+   media framing of threat in the dakota access pipeline conflict
+SO ENVIRONMENTAL SOCIOLOGY
+DT Article
+DE Settler colonialism; media; social movement; environmental movements;
+   Indigenous-settler relations
+ID NATIVE-AMERICANS; ENVIRONMENTAL JUSTICE; PROTEST; IDENTITY; INDUSTRY;
+   GENOCIDE; MEMORY
+PD APR 2
+PY 2020
+VL 6
+IS 2
+BP 143
+EP 153
+DI 10.1080/23251042.2019.1706262
+EA DEC 2019
+WC Environmental Studies
+SC Environmental Sciences & Ecology
+ER
+
+PT J
+AU Feront, C
+   Bertels, S
+AF Feront, Cecile
+   Bertels, Stephanie
+TI The Impact of Frame Ambiguity on Field-Level Change
+SO ORGANIZATION STUDIES
+DT Article
+DE ambiguity; framing; frames; field-level change; field settlement;
+   responsible investment
+ID SOCIAL-MOVEMENTS; STRATEGIC ACTION; EVOLUTION; INTERPLAY; MARKETS; SMOKE
+PD JUL
+PY 2021
+VL 42
+IS 7
+BP 1135
+EP 1165
+AR 0170840619878467
+DI 10.1177/0170840619878467
+EA DEC 2019
+WC Management
+SC Business & Economics
+ER
+
+PT J
+AU Iturriaga, N
+AF Iturriaga, Nicole
+TI THE EVOLUTION OF THE GRANDMOTHERS OF PLAZA DE MAYO'S MNEMONIC FRAMING
+SO MOBILIZATION
+DT Article
+ID DEMOCRATIC DEBATE; MEMORY WORK; SCIENCE; CHILDREN; MOVEMENTS; POLITICS;
+   ACTIVISM; SEARCH; ISSUES; MADRES
+PD DEC
+PY 2019
+VL 24
+IS 4
+BP 475
+EP 492
+DI 10.17813/1086-671X-24-4-475
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Oyakawa, M
+AF Oyakawa, Michelle
+TI Racial Reconciliation as a Suppressive Frame in Evangelical Multiracial
+   Churches
+SO SOCIOLOGY OF RELIGION
+DT Article
+DE clergy/ministers/religious professionals; conservative Protestantism;
+   diversity/multiculturalism; evangelical Protestantism; race and
+   ethnicity; social movements/collective behavior
+ID CHRISTIAN NATIONALISM; RACE; RELIGION; RACE/ETHNICITY; CONGREGATIONS;
+   DIVERSITY; ATTITUDES; TRUMP
+PD WIN
+PY 2019
+VL 80
+IS 4
+SI SI
+BP 496
+EP 517
+DI 10.1093/socrel/srz003
+WC Sociology; Religion
+SC Sociology; Religion
+ER
+
+PT J
+AU Ozdemir, V
+AF Ozdemir, Vural
+TI Innovating Governance for Planetary Health with Three Critically
+   Informed Frames
+SO OMICS-A JOURNAL OF INTEGRATIVE BIOLOGY
+DT Review
+DE planetary health; governance; ecosystems; emerging technologies;
+   epistemology; critical theory
+ID SCIENCE; ETHICS; DIVERSITY; INTERNET; POLITICS; THINGS; OMICS
+PD DEC
+PY 2019
+VL 23
+IS 12
+SI SI
+BP 623
+EP 630
+DI 10.1089/omi.2019.0175
+EA NOV 2019
+WC Biotechnology & Applied Microbiology; Genetics & Heredity
+SC Biotechnology & Applied Microbiology; Genetics & Heredity
+ER
+
+PT J
+AU Schwoon, EW
+   Duxbury, SW
+AF Schwoon, Eric W.
+   Duxbury, Scott W.
+TI Robust Discourse and the Politics of Legitimacy: Framing International
+   Intervention in the Syrian Civil War, 2011-2016
+SO SOCIOLOGICAL SCIENCE
+DT Article
+DE Framing; international politics; Syria; civil war; collective action
+ID COLLECTIVE ACTION; MOVEMENT; RESONANCE; WORLD; MOBILIZATION; TARGETS;
+   PROTEST; RIGHTS; MEDIA
+PD NOV 25
+PY 2019
+VL 6
+BP 635
+EP 660
+DI 10.15195/v6.a24
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Simburger, E
+   Guzman-Valenzuela, C
+AF Simburger, Elisabeth
+   Guzman-Valenzuela, Carolina
+TI Framing educational policy discourse in neoliberal contexts: debates
+   around the public university in a Chilean newspaper
+SO JOURNAL OF HIGHER EDUCATION POLICY AND MANAGEMENT
+DT Article
+DE Neoliberal discourse; educational policy; social science experts;
+   public; private; universities; newspaper; Chile
+ID STUDENT MOVEMENT; SOCIOLOGY
+PD NOV 1
+PY 2020
+VL 42
+IS 6
+BP 634
+EP 649
+DI 10.1080/1360080X.2019.1687267
+EA NOV 2019
+WC Education & Educational Research
+SC Education & Educational Research
+ER
+
+PT J
+AU Delcour, C
+   Hustinx, L
+AF Delcour, Chloe
+   Hustinx, Lesley
+TI How do Human Rights Fit into the Debate? The Representation and Frames
+   of Social Movement Organizations in a Newspaper Debate on the 2010
+   French Eviction and Expulsion of Roma Migrants
+SO JOURNALISM STUDIES
+DT Article
+DE Framing analysis; human rights; migration; newspaper media; NGOs; Roma;
+   social movements; social movement organizations
+ID NGOS; NEWS; SOVEREIGNTY; SOCIOLOGY; NETWORKS; GATES; LAW
+PD NOV 18
+PY 2019
+VL 20
+IS 15
+BP 2218
+EP 2236
+DI 10.1080/1461670X.2019.1586564
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Cmeciu, C
+AF Cmeciu, Camelia
+TI THE REFUGEE CRISIS FROM BELOW - E-GITIZE S' FRAMING AND (DE)LEGITIMATION
+   STRATEGIES ON THE 'DEBATING EUROPE' PLATFORM
+SO COMMUNICATION TODAY
+DT Article
+DE cluster analysis; 'Debating Europe'; (de)legitimation; framing; network;
+   refugees
+ID CITIZENSHIP; MIGRANT; MOVEMENTS
+PD NOV
+PY 2019
+VL 10
+IS 2
+BP 58
+EP 162
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Lee, D
+   Hess, DJ
+AF Lee, Dasom
+   Hess, David J.
+TI Incumbent resistance and the solar transition: Changing opportunity
+   structures and framing strategies
+SO ENVIRONMENTAL INNOVATION AND SOCIETAL TRANSITIONS
+DT Article
+DE Sustainability transitions; Solar energy; Policy; Framing; Opportunity
+   structure
+ID ANTI-BIOTECH MOVEMENT; SOCIOTECHNICAL TRANSITIONS; SOCIAL-MOVEMENTS;
+   ENERGY; POLITICS; POWER; GOVERNMENT; COALITIONS; DEMOCRACY; SUPPORT
+PD NOV
+PY 2019
+VL 33
+BP 183
+EP 195
+DI 10.1016/j.eist.2019.05.005
+WC Environmental Sciences; Environmental Studies
+SC Environmental Sciences & Ecology
+ER
+
+PT J
+AU Sovacool, BK
+   Yazdi, AH
+AF Sovacool, Benjamin K.
+   Yazdi, Asieh Haieri
+TI Technological frames and the politics of automated electric Light Rail
+   Rapid Transit in Poland and the United Kingdom
+SO TECHNOLOGY IN SOCIETY
+DT Article
+DE Personal Rapid Transit (PRT); Automated mobility; Light rail; Light
+   Rapid Transit (LRT); Light Rail Rapid Transit (LRRT); Light rail
+   vehicles (LRVs)
+ID CITY; TRANSPORTATION; SUSTAINABILITY; MOVEMENT; IMPACTS
+PD NOV
+PY 2019
+VL 59
+AR 101190
+DI 10.1016/j.techsoc.2019.101190
+WC Social Issues; Social Sciences, Interdisciplinary
+SC Social Issues; Social Sciences - Other Topics
+ER
+
+PT J
+AU Solstad, GM
+   Strandbu, A
+AF Solstad, Gerd Marie
+   Strandbu, Ase
+TI Culturally framing 'safe sport': on political mobilisation against abuse
+   in Zambian sport
+SO INTERNATIONAL JOURNAL OF SPORT POLICY AND POLITICS
+DT Article
+DE Safe sport; cultural framing; social movement theory; safeguarding;
+   abuse; sport for development
+ID CHILD PROTECTION; TOUCH
+PD OCT 2
+PY 2019
+VL 11
+IS 4
+BP 625
+EP 637
+DI 10.1080/19406940.2019.1615975
+WC Hospitality, Leisure, Sport & Tourism
+SC Social Sciences - Other Topics
+ER
+
+PT J
+AU Alvehus, J
+AF Alvehus, Johan
+TI Emergent, distributed, and orchestrated: Understanding leadership
+   through frame analysis
+SO LEADERSHIP
+DT Article
+DE Leadership; leadership as practice; distributed leadership; frame
+   analysis; Goffman; power; multimodal
+ID WORK; CONSTRUCTION; FOLLOWERSHIP; POWER
+PD OCT
+PY 2019
+VL 15
+IS 5
+BP 535
+EP 554
+DI 10.1177/1742715018773832
+WC Management
+SC Business & Economics
+ER
+
+PT J
+AU Purdy, J
+   Ansari, S
+   Gray, B
+AF Purdy, Jill
+   Ansari, Shaz
+   Gray, Barbara
+TI Are Logics Enough? Framing as an Alternative Tool for Understanding
+   Institutional Meaning Making
+SO JOURNAL OF MANAGEMENT INQUIRY
+DT Article
+DE institutional theory; communication; cognitive perspectives
+ID SOCIAL-MOVEMENTS; ORGANIZATIONS; COMPLEXITY; FIELD; MECHANISMS;
+   EDUCATION; DYNAMICS; MODEL; SENSE
+PD OCT
+PY 2019
+VL 28
+IS 4
+BP 409
+EP 419
+DI 10.1177/1056492617724233
+WC Management
+SC Business & Economics
+ER
+
+PT J
+AU Woods, J
+AF Woods, Joshua
+TI Normative Bridges and Barriers in the Framing of Emerging Sports
+   Movements
+SO SOCIOLOGICAL SPECTRUM
+DT Article
+ID SOCIAL-MOVEMENTS; LIFE-STYLE; MEDIA; ORGANIZATIONS; COVERAGE; IDENTITY;
+   IMAGES
+PD JUL 4
+PY 2019
+VL 39
+IS 4
+BP 234
+EP 249
+DI 10.1080/02732173.2019.1669236
+EA SEP 2019
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Brown, PR
+AF Brown, Prudence R.
+TI Framing, agency and multiple streams- a case study of parks policy in
+   the Northern Territory
+SO AUSTRALIAN JOURNAL OF POLITICAL SCIENCE
+DT Article
+DE Indigenous policy; multiple streams; framing; policy entrepreneur;
+   agency; Kingdon
+ID INSTITUTIONS; FRAMEWORK
+PD JAN 2
+PY 2020
+VL 55
+IS 1
+BP 55
+EP 71
+DI 10.1080/10361146.2019.1669532
+EA SEP 2019
+WC Political Science
+SC Government & Law
+ER
+
+PT J
+AU Conrad, M
+   Oleart, A
+AF Conrad, Maximilian
+   Oleart, Alvaro
+TI Framing TTIP in the wake of the Greenpeace leaks: agonistic and
+   deliberative perspectives on frame resonance and communicative power
+SO JOURNAL OF EUROPEAN INTEGRATION
+DT Article
+DE European Citizens' Initiative (ECI); European Union; TTIP; communicative
+   power; frame resonance; agonistic democracy; deliberative democracy
+ID EU; TRADE; DISCOURSE; OPINION; EUROPE; POLICY; MEDIA
+PD MAY 18
+PY 2020
+VL 42
+IS 4
+BP 527
+EP 545
+DI 10.1080/07036337.2019.1658754
+EA SEP 2019
+WC International Relations; Political Science
+SC International Relations; Government & Law
+ER
+
+PT J
+AU Fawcett, P
+   Jensen, MJ
+   Ransan-Cooper, H
+   Duus, S
+AF Fawcett, Paul
+   Jensen, Michael J.
+   Ransan-Cooper, Hedda
+   Duus, Sonya
+TI Explaining the "ebb and flow" of the problem stream: frame conflicts
+   over the future of coal seam gas ("fracking") in Australia
+SO JOURNAL OF PUBLIC POLICY
+DT Article
+DE coal seam gas; fracking; framing; multiple streams framework; problem
+   stream; topic modelling
+ID MULTIPLE-STREAMS; SOCIAL-MOVEMENTS; PUBLIC-OPINION; NEW-YORK; POLICY;
+   MEDIA; NEWS; TEXT; POWER; PARTICIPATION
+PD SEP
+PY 2019
+VL 39
+IS 3
+BP 521
+EP 541
+AR PII S0143814X18000132
+DI 10.1017/S0143814X18000132
+WC Political Science; Public Administration
+SC Government & Law; Public Administration
+ER
+
+PT J
+AU Antonucci, L
+   Varriale, S
+AF Antonucci, Lorenza
+   Varriale, Simone
+TI Unequal Europe, unequal Brexit: How intra-European inequalities shape
+   the unfolding and framing of Brexit
+SO CURRENT SOCIOLOGY
+DT Article
+DE Brexit; Europe; inequality; intra-European inequalities; EU migrants;
+   core-periphery; methodological nationalism; methodological whiteness
+ID WELFARE-STATE; FREE MOVEMENT; NATIONALISM; MIGRATION; CRISIS; RACE;
+   POLICY; EU; MIGRANTS; BRITAIN
+PD JAN
+PY 2020
+VL 68
+IS 1
+BP 41
+EP 59
+AR 0011392119863837
+DI 10.1177/0011392119863837
+EA AUG 2019
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Starkey, JC
+   Koerber, A
+   Sternadori, M
+   Pitchford, B
+AF Starkey, Jesse C.
+   Koerber, Amy
+   Sternadori, Miglena
+   Pitchford, Bethany
+TI #MeToo Goes Global: Media Framing of Silence Breakers in Four National
+   Settings
+SO JOURNAL OF COMMUNICATION INQUIRY
+DT Article
+DE #MeToo; media framing; silence breaker; hashtag activism; qualitative
+   content analysis
+ID SOCIAL MEDIA; COLLECTIVE IDENTITY; ACTIVISM; CULTURE
+PD OCT
+PY 2019
+VL 43
+IS 4
+SI SI
+BP 437
+EP 461
+AR 0196859919865254
+DI 10.1177/0196859919865254
+EA AUG 2019
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Baykan, BG
+AF Baykan, Baris Gencer
+TI What did the Turkish climate movement learn from a global policy
+   failure? Frame shift after the Copenhagen Climate Summit
+SO TURKISH STUDIES
+DT Article
+DE Policy learning; climate change; social movements; European Union;
+   Turkey
+ID GEOGRAPHY; POLITICS; SCALE
+PD AUG 8
+PY 2019
+VL 20
+IS 4
+SI SI
+BP 637
+EP 655
+DI 10.1080/14683849.2019.1601563
+WC Area Studies
+SC Area Studies
+ER
+
+PT J
+AU Cernoch, F
+   Lehotsky, L
+   Ocelik, P
+   Osicka, J
+   Vencourova, Z
+AF Cernoch, Filip
+   Lehotsky, Lukas
+   Ocelik, Petr
+   Osicka, Jan
+   Vencourova, Zaneta
+TI Anti-fossil frames: Examining narratives of the opposition to brown coal
+   mining in the Czech Republic
+SO ENERGY RESEARCH & SOCIAL SCIENCE
+DT Article
+DE Local opposition; Post-NIMBY; Social movement; Framing; Environmental
+   modernism; Green radicalism; Place attachment
+ID RADIOACTIVE-WASTE; FRAMING PROCESSES; SOCIAL-MOVEMENTS; NIMBY SYNDROME;
+   SHALE GAS; ENERGY; POLICY; COMMUNITY; PROTEST; PARTICIPATION
+PD AUG
+PY 2019
+VL 54
+BP 140
+EP 149
+DI 10.1016/j.erss.2019.04.011
+WC Environmental Studies
+SC Environmental Sciences & Ecology
+ER
+
+PT J
+AU Mansour, H
+   Kuhn, G
+AF Mansour, Hassan
+   Kuhn, Gustav
+TI Studying "natural" eye movements in an "unnatural" social environment:
+   The influence of social activity, framing, and sub-clinical traits on
+   gaze aversion
+SO QUARTERLY JOURNAL OF EXPERIMENTAL PSYCHOLOGY
+DT Article
+DE Social attention; social cognition; social anxiety disorder; autism
+   spectrum disorder; eye movements
+ID SPECTRUM QUOTIENT AQ; DUAL FUNCTION; ATTENTION; AUTISM; PHOBIA; ANXIETY;
+   CUES; INDIVIDUALS; IMPAIRMENTS; EXPRESSION
+PD AUG
+PY 2019
+VL 72
+IS 8
+BP 1913
+EP 1925
+DI 10.1177/1747021818819094
+WC Psychology, Biological; Physiology; Psychology; Psychology, Experimental
+SC Psychology; Physiology
+ER
+
+PT J
+AU Dogu, B
+AF Dogu, Burak
+TI Environment as Politics: Framing the Cerattepe Protest in Twitter
+SO ENVIRONMENTAL COMMUNICATION-A JOURNAL OF NATURE AND CULTURE
+DT Article
+DE Environmental justice; political economy; framing; network analysis;
+   Twitter; Cerattepe protest
+ID SOCIAL-MOVEMENTS; MEDIA; NETWORKS; ACTIVISM
+PD JUL 4
+PY 2019
+VL 13
+IS 5
+BP 617
+EP 632
+DI 10.1080/17524032.2017.1406384
+WC Communication; Environmental Studies
+SC Communication; Environmental Sciences & Ecology
+ER
+
+PT J
+AU Raffaelli, R
+   Glynn, MA
+   Tushman, M
+AF Raffaelli, Ryan
+   Glynn, Mary Ann
+   Tushman, Michael
+TI Frame flexibility: The role of cognitive and emotional framing in
+   innovation adoption by incumbent firms
+SO STRATEGIC MANAGEMENT JOURNAL
+DT Article
+DE cognition; emotion; framing; incumbent inertia; innovation adoption
+ID ORGANIZATIONAL IDENTITY; TECHNOLOGICAL-CHANGE; UPPER ECHELONS; DIGITAL
+   PHOTOGRAPHY; SELF-CATEGORIZATION; DYNAMIC CAPABILITY; PROCESS
+   MANAGEMENT; SOCIAL-MOVEMENTS; STRATEGIC ACTION; AMBIDEXTERITY
+PD JUL
+PY 2019
+VL 40
+IS 7
+BP 1013
+EP 1039
+DI 10.1002/smj.3011
+WC Business; Management
+SC Business & Economics
+ER
+
+PT J
+AU Gupta, GR
+   Oomman, N
+   Grown, C
+   Conn, K
+   Hawkes, S
+   Shawar, YR
+   Shiffman, J
+   Buse, K
+   Mehra, R
+   Bah, CA
+   Heise, L
+   Greene, ME
+   Weber, AM
+   Heymann, J
+   Hay, K
+   Raj, A
+   Henry, S
+   Klugman, J
+   Darmstadt, GL
+AF Gupta, Geeta Rao
+   Oomman, Nandini
+   Grown, Caren
+   Conn, Kathryn
+   Hawkes, Sarah
+   Shawar, Yusra Ribhi
+   Shiffman, Jeremy
+   Buse, Kent
+   Mehra, Rekha
+   Bah, Chernor A.
+   Heise, Lori
+   Greene, Margaret E.
+   Weber, Ann M.
+   Heymann, Jody
+   Hay, Katherine
+   Raj, Anita
+   Henry, Sarah
+   Klugman, Jeni
+   Darmstadt, Gary L.
+CA Gender Equality Norms Hlth
+TI Gender equality and gender norms: framing the opportunities for health
+SO LANCET
+DT Review
+ID HUMAN-RIGHTS; WOMENS MOVEMENTS; ABORTION; SEX; POLICY; HIV;
+   DETERMINANTS; MOBILIZATION; WORK
+PD JUN 22
+PY 2019
+VL 393
+IS 10190
+BP 2550
+EP 2562
+DI 10.1016/S0140-6736(19)30651-8
+WC Medicine, General & Internal
+SC General & Internal Medicine
+ER
+
+PT J
+AU Muller, P
+   Slominski, P
+AF Mueller, Patrick
+   Slominski, Peter
+TI Legal framing and the EU's external relations: how NGOs shaped the
+   negotiations for an Israel-Europol cooperation agreement
+SO JOURNAL OF EUROPEAN PUBLIC POLICY
+DT Article
+DE EU external relations; framing; legal framing; Europol; Israel; interest
+   groups
+ID NORMATIVE POWER EUROPE; FOREIGN-POLICY; SOCIAL-MOVEMENTS; LAW;
+   DIFFERENTIATION
+PD JUN 3
+PY 2019
+VL 26
+IS 6
+BP 906
+EP 926
+DI 10.1080/13501763.2018.1502803
+WC Political Science; Public Administration
+SC Government & Law; Public Administration
+ER
+
+PT J
+AU Tomsic, M
+   Deery, CM
+AF Tomsic, Mary
+   Deery, Claire Marika
+TI Creating "them" and "us" The educational framing of picture books to
+   teach about forced displacement and today's "refugee crisis"
+SO HISTORY OF EDUCATION REVIEW
+DT Article
+DE Education; Refugees; Children's literature; Historical thinking
+ID WORLD
+PD JUN 3
+PY 2019
+VL 48
+IS 1
+BP 46
+EP 60
+DI 10.1108/HER-11-2018-0027
+WC History Of Social Sciences
+SC Social Sciences - Other Topics
+ER
+
+PT J
+AU Ahmed, S
+   Cho, J
+   Jaidka, K
+AF Ahmed, Saifuddin
+   Cho, Jaeho
+   Jaidka, Kokil
+TI Framing social conflicts in news coverage and social media: A
+   multicountry comparative study
+SO INTERNATIONAL COMMUNICATION GAZETTE
+DT Article
+DE Framing; geopolitical proximity; international news; riot; Singapore;
+   Twitter
+ID TWITTER; TECHNOLOGY; FRAMES; PRESS; NEWSPAPERS; MOVEMENTS; POLITICS;
+   ENGLISH; RIOT; US
+PD JUN
+PY 2019
+VL 81
+IS 4
+BP 346
+EP 371
+DI 10.1177/1748048518775000
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Hiatt, SR
+   Carlos, WC
+AF Hiatt, Shon R.
+   Carlos, W. Chad
+TI From farms to fuel tanks: Stakeholder framing contests and
+   entrepreneurship in the emergent US biodiesel market
+SO STRATEGIC MANAGEMENT JOURNAL
+DT Article
+DE entrepreneurship; hybrid forms; industry emergence; nonmarket strategy;
+   social movements; sustainability; technology re-emergence
+ID SOCIAL-MOVEMENTS; INSTITUTIONAL LOGICS; ORGANIZATIONAL RESPONSES;
+   UNITED-STATES; CATEGORIES; INDUSTRY; IDENTITY; FIELD; FIRM; WIND
+PD JUN
+PY 2019
+VL 40
+IS 6
+BP 865
+EP 893
+DI 10.1002/smj.2989
+WC Business; Management
+SC Business & Economics
+ER
+
+PT J
+AU Ren, XY
+   Liu, LL
+AF Ren, Xiangyi
+   Liu, Lili
+TI Building Consensus: Support Structure and the Frames of Environmental
+   Legal Mobilization in China
+SO JOURNAL OF CONTEMPORARY CHINA
+DT Article
+PD JAN 2
+PY 2020
+VL 29
+IS 121
+BP 109
+EP 124
+DI 10.1080/10670564.2019.1621533
+EA JUN 2019
+WC Area Studies
+SC Area Studies
+ER
+
+PT J
+AU Mandell, R
+   Israel, BA
+   Schulz, AJ
+AF Mandell, Rebecca
+   Israel, Barbara A.
+   Schulz, Amy J.
+TI Breaking free from siloes: intersectionality as a collective action
+   frame to address toxic exposures and reproductive health
+SO SOCIAL MOVEMENT STUDIES
+DT Article
+DE Environmental justice (EJ); reproductive justice (RJ); collective action
+   frames; intersectionality; environmental health; reproductive health
+ID ENVIRONMENTAL JUSTICE; FUNDAMENTAL CAUSES; SOCIAL CONDITIONS;
+   INEQUALITIES; MOVEMENTS; IMPACTS; WOMEN
+PD MAY 4
+PY 2019
+VL 18
+IS 3
+BP 346
+EP 363
+DI 10.1080/14742837.2018.1556091
+WC Political Science; Sociology
+SC Government & Law; Sociology
+ER
+
+PT J
+AU Yaka, O
+AF Yaka, Oezge
+TI Gender and framing: Gender as a main determinant of frame variation in
+   Turkey's anti-hydropower movement
+SO WOMENS STUDIES INTERNATIONAL FORUM
+DT Article
+DE Gender; Social movements; Framing; Turkey; Hydropower
+ID ENVIRONMENTAL JUSTICE; SOCIAL-MOVEMENTS; WOMENS; ACTIVISM
+PD MAY-JUN
+PY 2019
+VL 74
+BP 154
+EP 161
+DI 10.1016/j.wsif.2019.03.002
+WC Women's Studies
+SC Women's Studies
+ER
+
+PT J
+AU Yang, S
+AF Yang, Shen
+TI In the Name of the Law: Legal Frames and the Ending of the Occupy
+   Movement in Hong Kong
+SO LAW AND SOCIAL INQUIRY-JOURNAL OF THE AMERICAN BAR FOUNDATION
+DT Article
+ID SOCIAL-MOVEMENTS; WOMENS MOVEMENT; HYBRID REGIME; CIVIL-RIGHTS; POLITICS
+PD MAY
+PY 2019
+VL 44
+IS 2
+BP 468
+EP 490
+AR PII S0897654618000151
+DI 10.1017/lsi.2018.15
+WC Law
+SC Government & Law
+ER
+
+PT J
+AU Nikolayenko, O
+AF Nikolayenko, Olena
+TI Framing and counter-framing a Peace March in Russia: the use of Twitter
+   during a hybrid war
+SO SOCIAL MOVEMENT STUDIES
+DT Article
+DE Antiwar protests; peace march; framing; social media; hybrid war; Russia
+ID SOCIAL MEDIA; MOVEMENT; MOBILIZATION; SUPPORT; CENSORSHIP; RESOURCES;
+   WARFARE; PROTEST
+PD SEP 3
+PY 2019
+VL 18
+IS 5
+BP 602
+EP 621
+DI 10.1080/14742837.2019.1599852
+EA APR 2019
+WC Political Science; Sociology
+SC Government & Law; Sociology
+ER
+
+PT J
+AU Cover, R
+   Aggleton, P
+   Rasmussen, ML
+   Marshall, D
+AF Cover, Rob
+   Aggleton, Peter
+   Rasmussen, Mary Lou
+   Marshall, Daniel
+TI The myth of LGBTQ mobilities: framing the lives of gender- and sexually
+   diverse Australians between regional and urban contexts
+SO CULTURE HEALTH & SEXUALITY
+DT Article
+DE Social generations; LGBTQ; mobility; rural-to-urban migration; social
+   support
+ID GAY; NARRATIVES; IDENTITY; ONLINE; PEOPLE; YOUTH
+PD MAR 3
+PY 2020
+VL 22
+IS 3
+BP 321
+EP 335
+DI 10.1080/13691058.2019.1600029
+EA APR 2019
+WC Family Studies; Social Sciences, Biomedical
+SC Family Studies; Biomedical Social Sciences
+ER
+
+PT J
+AU Theodose, C
+AF Theodose, Celine
+TI 'Martinique is ours, not theirs!': framing conflicting identities during
+   the 2009 protests
+SO POSTCOLONIAL STUDIES
+DT Article
+DE Postcolonialism; sovereignty; citizenship; social movements; liminality
+PD APR 3
+PY 2019
+VL 22
+IS 2
+BP 168
+EP 187
+DI 10.1080/13688790.2019.1608797
+EA APR 2019
+WC Cultural Studies; History
+SC Cultural Studies; History
+ER
+
+PT J
+AU Bray, LA
+   Shriver, TE
+   Adams, AE
+AF Bray, Laura A.
+   Shriver, Thomas E.
+   Adams, Alison E.
+TI Framing authoritarian legitimacy: elite cohesion in the aftermath of
+   popular rebellion
+SO SOCIAL MOVEMENT STUDIES
+DT Article
+DE Legitimacy; framing; elite cohesion; social movements; authoritarianism
+ID POLITICAL OPPORTUNITIES; OFFICIAL FRAMES; MOBILIZATION; REPRESSION;
+   PARTY; POWER; DEMOCRATIZATION; COMMITMENT
+PD NOV 2
+PY 2019
+VL 18
+IS 6
+BP 682
+EP 701
+DI 10.1080/14742837.2019.1597698
+EA APR 2019
+WC Political Science; Sociology
+SC Government & Law; Sociology
+ER
+
+PT J
+AU Hess, DJ
+AF Hess, David J.
+TI Coalitions, framing, and the politics of energy transitions: Local
+   democracy and community choice in California
+SO ENERGY RESEARCH & SOCIAL SCIENCE
+DT Article
+DE Sustainability transitions; Energy democracy; Social movements;
+   Coalitions; Frames; Community choice
+ID SOCIOTECHNICAL TRANSITIONS; CONCEPTUAL FRAMEWORKS; ADVOCACY COALITION;
+   SOCIAL-MOVEMENTS
+PD APR
+PY 2019
+VL 50
+BP 38
+EP 50
+DI 10.1016/j.erss.2018.11.013
+WC Environmental Studies
+SC Environmental Sciences & Ecology
+ER
+
+PT J
+AU Simunovic, N
+   Stern, T
+   Hesser, F
+AF Simunovic, Nenad
+   Stern, Tobias
+   Hesser, Franziska
+TI Is sustainable forest management enough? Insights from a frame analysis
+   of European environmental non-governmental organizations
+SO AUSTRIAN JOURNAL OF FOREST SCIENCE
+DT Article
+DE social acceptance; carbon neutrality; bioenergy; forest-based sector
+ID SOCIAL-MOVEMENTS; CLIMATE-CHANGE; WOODY BIOMASS; BIOENERGY; PERCEPTIONS;
+   BIOECONOMY; SCIENCE; GREEN
+PD APR-JUN
+PY 2019
+VL 136
+IS 2
+BP 87
+EP 140
+WC Forestry
+SC Forestry
+ER
+
+PT J
+AU Hein, JE
+   Chaudhri, V
+AF Hein, James Everett
+   Chaudhri, Vidhi
+TI Delegitimizing the enemy: framing, tactical innovation, and blunders in
+   the battle for the Arctic
+SO SOCIAL MOVEMENT STUDIES
+DT Article
+DE Celebrity endorsement; climate change; legitimacy; social media;
+   tactics; viral video
+ID SOCIAL-MOVEMENTS; MEDIA COVERAGE; UNITED-STATES; OPPORTUNITIES;
+   WASHINGTON; GREENPEACE; CELEBRITY; CONFLICT; POLITICS; PROTEST
+PD MAR 4
+PY 2019
+VL 18
+IS 2
+BP 171
+EP 192
+DI 10.1080/14742837.2018.1555750
+WC Political Science; Sociology
+SC Government & Law; Sociology
+ER
+
+PT J
+AU Askanius, T
+   Hartley, JM
+AF Askanius, Tina
+   Hartley, Jannie Moller
+TI Framing Gender Justice A comparative analysis of the media coverage of
+   #metoo in Denmark and Sweden
+SO NORDICOM REVIEW
+DT Article
+DE #metoo; gender justice; framing; Denmark; Sweden
+ID WOMENS MOVEMENT; NEWS COVERAGE; FEMINISM; POSTFEMINISM; DISCOURSE;
+   EQUALITY
+PD MAR
+PY 2019
+VL 40
+IS 2
+BP 19
+EP 36
+DI 10.2478/nor-2019-0022
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Del Gaudio, C
+   De Risi, MT
+   Ricci, P
+   Verderame, GM
+AF Del Gaudio, Carlo
+   De Risi, Maria Teresa
+   Ricci, Paolo
+   Verderame, Gerardo Mario
+TI Empirical drift-fragility functions and loss estimation for infills in
+   reinforced concrete frames under seismic loading
+SO BULLETIN OF EARTHQUAKE ENGINEERING
+DT Article
+DE RC buildings; Masonry infills; Brick typology; Experimental data; Damage
+   states; Fragility curves; Loss functions
+ID MASONRY INFILLS; INPLANE BEHAVIOR; R/C FRAMES; RC FRAMES; DAMAGE;
+   OPENINGS; STRENGTH; LAQUILA; CURVES; TESTS
+PD MAR
+PY 2019
+VL 17
+IS 3
+BP 1285
+EP 1330
+DI 10.1007/s10518-018-0501-y
+WC Engineering, Geological; Geosciences, Multidisciplinary
+SC Engineering; Geology
+ER
+
+PT J
+AU Junk, WM
+   Rasmussen, A
+AF Junk, Wiebke Marie
+   Rasmussen, Anne
+TI Framing by the Flock: Collective Issue Definition and Advocacy Success
+SO COMPARATIVE POLITICAL STUDIES
+DT Article
+DE interest groups; public policy; framing; media; social movements
+ID HEAVENLY CHORUS; POLICY; COALITIONS; LOBBYISTS; CONTEXT; AGENDA; ACTORS
+PD MAR
+PY 2019
+VL 52
+IS 4
+BP 483
+EP 513
+DI 10.1177/0010414018784044
+WC Political Science
+SC Government & Law
+ER
+
+PT J
+AU Sexton, AE
+   Garnett, T
+   Lorimer, J
+AF Sexton, Alexandra E.
+   Garnett, Tara
+   Lorimer, Jamie
+TI Framing the future of food: The contested promises of alternative
+   proteins
+SO ENVIRONMENT AND PLANNING E-NATURE AND SPACE
+DT Article
+DE Alternative proteins; cultured meat; promise; livestock; good food
+PD MAR
+PY 2019
+VL 2
+IS 1
+BP 47
+EP 72
+DI 10.1177/2514848619827009
+WC Environmental Studies; Geography
+SC Environmental Sciences & Ecology; Geography
+ER
+
+PT J
+AU Stone, AL
+AF Stone, Amy L.
+TI Frame Variation in Child Protectionist Claims: Constructions of Gay Men
+   and Transgender Women as Strangers
+SO SOCIAL FORCES
+DT Article
+DE Children; Gender; Sex; Sexualities
+ID SAME-SEX MARRIAGE; SOCIAL-MOVEMENTS; RIGHTS; GENDER; PANICS; RACE;
+   MOBILIZATION; CITIZENSHIP; MAINTENANCE; DISCOURSE
+PD MAR
+PY 2019
+VL 97
+IS 3
+BP 1155
+EP 1176
+DI 10.1093/sf/soy077
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Xiong, Y
+   Cho, M
+   Boatwright, B
+AF Xiong, Ying
+   Cho, Moonhee
+   Boatwright, Brandon
+TI Hashtag activism and message frames among social movement organizations:
+   Semantic network analysis and thematic analysis of Twitter during the
+   #MeToo movement
+SO PUBLIC RELATIONS REVIEW
+DT Article
+DE Social movement organization (SMO); #MeToo; Hashtag activism; Feminism;
+   Activism
+ID PUBLIC-RELATIONS; MEDIA; ENGAGEMENT; ADVOCACY; POWER; MANAGEMENT;
+   DEMOCRACY; INTERNET; CRISIS
+PD MAR
+PY 2019
+VL 45
+IS 1
+BP 10
+EP 23
+DI 10.1016/j.pubrev.2018.10.014
+WC Business; Communication
+SC Business & Economics; Communication
+ER
+
+PT J
+AU Chen, SB
+AF Chen, Sibo
+TI How to Discredit a Social Movement: Negative Framing of "Idle No More"
+   in Canadian Print Media
+SO ENVIRONMENTAL COMMUNICATION-A JOURNAL OF NATURE AND CULTURE
+DT Article
+DE Idle No More; media representation; social movement; indigenous people;
+   Canadian print media
+ID NUMBER-IDLENOMORE
+PD FEB 17
+PY 2019
+VL 13
+IS 2
+BP 144
+EP 151
+DI 10.1080/17524032.2018.1546201
+WC Communication; Environmental Studies
+SC Communication; Environmental Sciences & Ecology
+ER
+
+PT J
+AU Bai, Y
+   Gao, J
+   Pitts, A
+   Gao, Y
+   Bai, WF
+   Tao, Z
+AF Bai, Yu
+   Gao, Jing
+   Pitts, Adrian
+   Gao, Yun
+   Bai, Wenfeng
+   Tao, Zhong
+TI Improving the Sustainability of Traditional Dwellings in Yunnan, China:
+   Seismic Resistance Testing of Wood-frame and Earth-Built Wall Dwellings
+SO SUSTAINABILITY
+DT Article
+DE traditional dwellings; Yunnan; seismic performance; shaking table test;
+   China
+PD FEB 2
+PY 2019
+VL 11
+IS 4
+AR 977
+DI 10.3390/su11040977
+WC Green & Sustainable Science & Technology; Environmental Sciences;
+   Environmental Studies
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+ER
+
+PT J
+AU Goh, JN
+   Kananatu, T
+AF Goh, Joseph N.
+   Kananatu, Thaatchaayini
+TI Mak nyahs and the dismantling of dehumanisation: Framing empowerment
+   strategies of Malaysian male-to-female transsexuals in the 2000s
+SO SEXUALITIES
+DT Article
+DE Collective action frames; legal mobilisation; mak nyah; Malaysia;
+   male-to-female transsexuals
+ID SOCIAL-MOVEMENTS
+PD FEB
+PY 2019
+VL 22
+IS 1-2
+BP 114
+EP 130
+DI 10.1177/1363460717740256
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Kingston, LN
+AF Kingston, Lindsey N.
+TI Conceptualizing Statelessness as a Human Rights Challenge: Framing,
+   Visual Representation, and (Partial) Issue Emergence
+SO JOURNAL OF HUMAN RIGHTS PRACTICE
+DT Article
+DE human rights advocacy; issue emergence; issue framing; representation;
+   social movements; statelessness
+PD FEB
+PY 2019
+VL 11
+IS 1
+BP 52
+EP 72
+DI 10.1093/jhuman/huz010
+WC International Relations; Law; Political Science
+SC International Relations; Government & Law
+ER
+
+PT J
+AU Ramme, J
+AF Ramme, Jennifer
+TI Framing Solidarity. Feminist Patriots Opposing the Far Right in
+   Contemporary Poland
+SO OPEN CULTURAL STUDIES
+DT Article
+DE framing belonging; social movements; ethno-nationalism; embodied
+   nationalism; public discourse
+PD FEB
+PY 2019
+VL 3
+IS 1
+BP 469
+EP 484
+DI 10.1515/culture-2019-0040
+WC Cultural Studies
+SC Cultural Studies
+ER
+
+PT J
+AU Van Hauwaert, SM
+AF Van Hauwaert, Steven M.
+TI On far right parties, master frames and trans-national diffusion:
+   understanding far right party development in Western Europe
+SO COMPARATIVE EUROPEAN POLITICS
+DT Article
+DE Far right parties; Master frame adoption; Developmental interdependence;
+   Trans-national diffusion; Interviews
+ID SOCIAL-MOVEMENTS; GALTONS PROBLEM; EXTREME-RIGHT; INTERNATIONAL
+   DIFFUSION; FRAMING PROCESSES; POLICY DIFFUSION; PARLIAMENT; PROTEST;
+   GLOBALIZATION; BEHAVIOR
+PD FEB
+PY 2019
+VL 17
+IS 1
+BP 132
+EP 154
+DI 10.1057/s41295-017-0112-z
+WC Political Science
+SC Government & Law
+ER
+
+PT J
+AU Geha, C
+AF Geha, Carmen
+TI Politics of a garbage crisis: social networks, narratives, and frames of
+   Lebanon's 2015 protests and their aftermath
+SO SOCIAL MOVEMENT STUDIES
+DT Article
+DE Lebanon; protests movements; elections; mobilization; abeyance;
+   narratives
+ID MOVEMENT; CONTINUITY
+PD JAN 2
+PY 2019
+VL 18
+IS 1
+SI SI
+BP 78
+EP 92
+DI 10.1080/14742837.2018.1539665
+WC Political Science; Sociology
+SC Government & Law; Sociology
+ER
+
+PT J
+AU Beavin, C
+   Billings, DL
+   Chavez, S
+AF Beavin, Cynthia
+   Billings, Deborah L.
+   Chavez, Susana
+TI Activist framing of abortion and use for policy change in Peru
+SO SEXUAL AND REPRODUCTIVE HEALTH MATTERS
+DT Article
+DE social movement framing; abortion policy; activism; Peru
+ID RIGHTS
+PD JAN 1
+PY 2019
+VL 27
+IS 1
+BP 160
+EP 167
+DI 10.1080/26410397.2019.1588012
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+ER
+
+PT J
+AU Bouza, L
+   Oleart, A
+   Tunon, J
+AF Bouza, Luis
+   Oleart, Alvaro
+   Tunon, Jorge
+TI Framing EU trade policy online: the case of @NoAlTTIP on Twitter
+SO COMMUNICATION & SOCIETY-SPAIN
+DT Article
+DE Social movements; framing; social media; Twitter; TTIP; European Union;
+   #NoAlTTIP
+ID SPANISH GENERAL-ELECTIONS; SOCIAL MEDIA; POLITICAL COMMUNICATION;
+   NETWORKED PUBLICS; CAMPAIGN; MOVEMENTS; OPINION; POWER
+PY 2019
+VL 32
+IS 4
+SI SI
+BP 257
+EP 273
+DI 10.15581/003.32.4.257-273
+WC Communication
+SC Communication
+ER
+
+PT B
+AU Cheng, EW
+AF Cheng, Edmund W.
+BE Ma, N
+   Cheng, EW
+TI Spontaneity and Civil Resistance A Counter Frame of the Umbrella
+   Movement
+SO UMBRELLA MOVEMENT: CIVIL RESISTANCE AND CONTENTIOUS SPACE IN HONG KONG
+SE Global Asia
+DT Article; Book Chapter
+DE framing; occupation; social media; public space; Hong Kong; Umbrella
+   Movement
+ID SOCIAL MEDIA; PROTEST
+PY 2019
+VL 9
+BP 51
+EP 76
+DI 10.5117/9789462984561/CH02
+D2 10.5117/9789462984561
+WC Area Studies; Political Science; Social Issues
+SC Area Studies; Government & Law; Social Issues
+ER
+
+PT B
+AU Dondoli, G
+AF Dondoli, Giulia
+BA Dondoli, G
+BF Dondoli, G
+TI Between friends and foes Transnational advocacy networks, issue
+   emergence and issue framing
+SO TRANSNATIONAL ADVOCACY NETWORKS AND HUMAN RIGHTS LAW: EMERGENCE AND
+   FRAMING OF GENDER IDENTITY AND SEXUAL ORIENTATION
+DT Article; Book Chapter
+ID HUMAN-RIGHTS; CIVIL-SOCIETY; SEXUAL ORIENTATION; LGBT RIGHTS;
+   SOCIAL-MOVEMENTS; EASTERN-EUROPE; GAY; RESISTANCE; POLITICS; ACTIVISM
+PY 2019
+BP 26
+EP 54
+D2 10.4324/9780429426230
+WC International Relations; Law; Social Issues
+SC International Relations; Government & Law; Social Issues
+ER
+
+PT J
+AU Fokas, E
+   Anagnostou, D
+AF Fokas, Effie
+   Anagnostou, Dia
+TI The "Radiating Effects" of the ECtHR on Social Mobilizations Around
+   Religion and Education in Europe: An Analytical Frame
+SO POLITICS AND RELIGION
+DT Article
+ID HUMAN-RIGHTS; COURT; MOVEMENTS; FREEDOM; STATES
+PY 2019
+VL 12
+SU 1
+BP S9
+EP S30
+DI 10.1017/S1755048318000445
+WC Political Science; Religion
+SC Government & Law; Religion
+ER
+
+PT J
+AU George, MA
+AF George, Marie-Amelie
+TI FRAMING TRANS RIGHTS
+SO NORTHWESTERN UNIVERSITY LAW REVIEW
+DT Article
+ID SAME-SEX MARRIAGE; CIVIL-RIGHTS; GAY RIGHTS; HISTORY; LAW;
+   DISCRIMINATION; INCLUSION; IDENTITY; CULTURE; LADIES
+PY 2019
+VL 114
+IS 3
+BP 555
+EP 632
+WC Law
+SC Government & Law
+ER
+
+PT J
+AU Ha, JS
+   Shin, D
+AF Ha, Jae Sik
+   Shin, Donghee
+TI Portraying China as an alternative to U. S. Hegemony: The China daily's
+   framing of the arab spring
+SO ATLANTIC JOURNAL OF COMMUNICATION
+DT Article
+ID SOCIAL-MOVEMENTS; MEDIA COVERAGE; NEWS; EVOLUTION
+PY 2019
+VL 27
+IS 3
+BP 200
+EP 215
+DI 10.1080/15456870.2019.1610764
+WC Communication
+SC Communication
+ER
+
+PT B
+AU Howe, A
+   Wilkes, R
+AF Howe, Adam
+   Wilkes, Rima
+BE Adi, A
+TI Activist public relations Moving from frames as objects to framing as a
+   dynamic process
+SO PROTEST PUBLIC RELATIONS: COMMUNICATING DISSENT AND ACTIVISM
+SE Routledge New Directions in Public Relations and Communication Research
+DT Article; Book Chapter
+ID SOCIAL-MOVEMENTS; COMMUNICATION; CONSTRUCTION; ALIGNMENT; CRISIS; VIEW
+PY 2019
+BP 248
+EP 261
+WC Business; Communication; Sociology
+SC Business & Economics; Communication; Sociology
+ER
+
+PT J
+AU Ivaturi, K
+   Chua, C
+AF Ivaturi, Koteswara
+   Chua, Cecil
+TI Framing norms in online communities
+SO INFORMATION & MANAGEMENT
+DT Article
+DE Online communities; Norms; Beliefs; Framing analysis
+ID KNOWLEDGE CONTRIBUTION; SOCIAL IDENTITY; MEDIA; COLLABORATION;
+   MOBILIZATION; INNOVATION; MOVEMENTS
+PD JAN
+PY 2019
+VL 56
+IS 1
+BP 15
+EP 27
+DI 10.1016/j.im.2018.05.015
+WC Computer Science, Information Systems; Information Science & Library
+   Science; Management
+SC Computer Science; Information Science & Library Science; Business &
+   Economics
+ER
+
+PT J
+AU Lev-On, A
+AF Lev-On, Azi
+TI Facebook framed Portraying the role of social media in activism
+SO JOURNAL OF LANGUAGE AND POLITICS
+DT Article
+DE social media; social movements; activism; Internet; Facebook
+PY 2019
+VL 18
+IS 1
+BP 40
+EP 60
+DI 10.1075/jlp.17058.lev
+WC Linguistics; Language & Linguistics
+SC Linguistics
+ER
+
+PT B
+AU McDonald, AF
+AF McDonald, Aubri F.
+BE ODonohue, WT
+   Schewe, PA
+TI Framing #MeToo: Assessing the Power and Unintended Consequences of a
+   Social Media Movement to Address Sexual Assault
+SO HANDBOOK OF SEXUAL ASSAULT AND SEXUAL ASSAULT PREVENTION
+DT Article; Book Chapter
+ID FALSE ALLEGATIONS; PUBLIC-OPINION; MOBILIZATION; CONSTRUCTION; SURVIVORS
+PY 2019
+BP 79
+EP 107
+DI 10.1007/978-3-030-23645-8_6
+D2 10.1007/978-3-030-23645-8
+WC Criminology & Penology; Social Issues; Women's Studies
+SC Criminology & Penology; Social Issues; Women's Studies
+ER
+
+PT J
+AU McDonald, DA
+AF McDonald, David A.
+TI Framing the "Arab Spring": Hip Hop, Social Media, and the American News
+   Media
+SO JOURNAL OF FOLKLORE RESEARCH
+DT Article
+ID REVOLUTION; TWITTER
+PD JAN-APR
+PY 2019
+VL 56
+IS 1
+BP 105
+EP 130
+DI 10.2979/jfolkrese.56.1.04
+WC Folklore
+SC Arts & Humanities - Other Topics
+ER
+
+PT J
+AU Mercado-Saez, MT
+   Verdet, FS
+   Chavez, M
+AF Mercado-Saez, Maria-Teresa
+   Sahuquillo Verdet, Fernando
+   Chavez, Manuel
+TI Social mobilization and media framing in the journalistic coverage of
+   oil survey permits in the Mediterranean
+SO COMMUNICATION & SOCIETY-SPAIN
+DT Article
+DE Framing; social movements; oil surveys; journalistic sources; energy
+ID RISK; NEWS; FRAMES
+PY 2019
+VL 32
+IS 4
+SI SI
+BP 307
+EP 323
+DI 10.15581/003.32.4.307-323
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Pond, P
+   Lewis, J
+AF Pond, Philip
+   Lewis, Jeff
+TI Riots and Twitter: connective politics, social media and framing
+   discourses in the digital public sphere
+SO INFORMATION COMMUNICATION & SOCIETY
+DT Article
+DE Social media; connective action; Twitter; ICTs; media studies; social
+   movements
+ID TIME
+PY 2019
+VL 22
+IS 2
+BP 213
+EP 231
+DI 10.1080/1369118X.2017.1366539
+WC Communication; Sociology
+SC Communication; Sociology
+ER
+
+PT J
+AU Sauer, B
+AF Sauer, Birgit
+TI Mobilizing shame and disgust: abolitionist affective frames in Austrian
+   and German anti-sex-work movements
+SO JOURNAL OF POLITICAL POWER
+DT Article
+DE Sex work; prostitution; abolitionism; affect; governmentality
+ID SOCIAL-MOVEMENTS; EMOTIONS
+PY 2019
+VL 12
+IS 3
+SI SI
+BP 318
+EP 338
+DI 10.1080/2158379X.2019.1669262
+WC Political Science
+SC Government & Law
+ER
+
+PT J
+AU Hardacre, SL
+   Subasic, E
+AF Hardacre, Stephanie L.
+   Subasic, Emina
+TI Whose Issue Is It Anyway ? The Effects of Leader Gender and Equality
+   Message Framing on Men' and Women's Mobilization Toward Workplace Gender
+   Equality
+SO FRONTIERS IN PSYCHOLOGY
+DT Article
+DE gender equality; leadership; solidarity action; social change; social
+   identity; collective action; legitimacy; message framing
+ID COLLECTIVE ACTION; SOCIAL-CHANGE; POLITICAL SOLIDARITY; STATISTICAL
+   POWER; DISCRIMINATION; FEMALE; MODEL; FACE; OBJECTIFICATION;
+   PROTOTYPICALITY
+PD DEC 11
+PY 2018
+VL 9
+AR 2497
+DI 10.3389/fpsyg.2018.02497
+WC Psychology, Multidisciplinary
+SC Psychology
+ER
+
+PT J
+AU Bladon, AJ
+   Mohammed, EY
+   Ali, L
+   Milner-Gulland, EJ
+AF Bladon, Annabelle Jade
+   Mohammed, Essam Yassin
+   Ali, Liaquat
+   Milner-Gulland, E. J.
+TI Developing a frame of reference for fisheries management and
+   conservation interventions
+SO FISHERIES RESEARCH
+DT Article
+DE Counterfactual; Uncertainty; Baseline; Hilsa; Bangladesh
+ID HILSA TENUALOSA-ILISHA; CLIMATE-CHANGE; INTEGRATED CONSERVATION;
+   HUMAN-BEHAVIOR; BANGLADESH; UNCERTAINTY; IMPACTS; POPULATION; POLLUTION;
+   SERVICES
+PD DEC
+PY 2018
+VL 208
+BP 296
+EP 308
+DI 10.1016/j.fishres.2018.08.010
+WC Fisheries
+SC Fisheries
+ER
+
+PT J
+AU Borgonovi, E
+   Adinolfi, P
+   Palumbo, R
+   Piscopo, G
+AF Borgonovi, Elio
+   Adinolfi, Paola
+   Palumbo, Rocco
+   Piscopo, Gabriella
+TI Framing the Shades of Sustainability in Health Care: Pitfalls and
+   Perspectives from Western EU Countries
+SO SUSTAINABILITY
+DT Article
+DE sustainability; health care; financial sustainability; political
+   sustainability; social sustainability; health policy; national health
+   service; health services
+ID PUBLIC-HEALTH; DEMOGRAPHIC-TRANSITION; PATIENT EMPOWERMENT; FINANCIAL
+   CRISIS; LITERACY; SYSTEMS; COVERAGE; EUROPE; CONVERGENCE; ENVIRONMENT
+PD DEC
+PY 2018
+VL 10
+IS 12
+AR 4439
+DI 10.3390/su10124439
+WC Green & Sustainable Science & Technology; Environmental Sciences;
+   Environmental Studies
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+ER
+
+PT J
+AU Chan, PM
+AF Chan, Pui-man
+TI Desexualizing Sexual Identity Politics: The Framing of Pro-LGBT
+   Christian Organizations in Hong Kong
+SO SEXUALITY AND CULTURE
+DT Article
+DE LGBT advocacy; LGBT rights; Identity politics; Identity sexual politics;
+   Normalization; Framing strategies; Christian organizations
+ID MOVEMENT; DIVERSITY
+PD DEC
+PY 2018
+VL 22
+IS 4
+BP 1452
+EP 1465
+DI 10.1007/s12119-018-9537-z
+WC Social Sciences, Interdisciplinary
+SC Social Sciences - Other Topics
+ER
+
+PT J
+AU Lee, M
+   Ramus, T
+   Vaccaro, A
+AF Lee, Matthew
+   Ramus, Tommaso
+   Vaccaro, Antonino
+TI FROM PROTEST TO PRODUCT: STRATEGIC FRAME BROKERAGE IN A COMMERCIAL
+   SOCIAL MOVEMENT ORGANIZATION
+SO ACADEMY OF MANAGEMENT JOURNAL
+DT Article
+ID INSTITUTIONAL ENTREPRENEURSHIP; PERSPECTIVE; MANAGEMENT; CONSTRUCTION;
+   CHALLENGES; EMERGENCE; INTERPLAY; POLITICS; ACTIVISM; CREATION
+PD DEC
+PY 2018
+VL 61
+IS 6
+BP 2130
+EP 2158
+DI 10.5465/amj.2016.0223
+WC Business; Management
+SC Business & Economics
+ER
+
+PT J
+AU Sayin, H
+   Cirakoglu, A
+AF Sayin, Hudayi
+   Cirakoglu, Ahmet
+TI Within The Opposing Frames of Religion and Modernization: The 1979
+   Iranian Revolution
+SO INSAN & TOPLUM-THE JOURNAL OF HUMANITY & SOCIETY
+DT Article
+DE Modernization; revolution; Iran; political participation; economic
+   modernization; White Revolution; 1979 Iranian Revolution
+PD DEC
+PY 2018
+VL 8
+IS 4
+BP 95
+EP 124
+DI 10.12658/M0253
+WC Social Sciences, Interdisciplinary
+SC Social Sciences - Other Topics
+ER
+
+PT J
+AU Moeke-Pickering, T
+   Cote-Meek, S
+   Pegoraro, A
+AF Moeke-Pickering, Taima
+   Cote-Meek, Sheila
+   Pegoraro, Ann
+TI Understanding the ways missing and murdered Indigenous women are framed
+   and handled by social media users
+SO MEDIA INTERNATIONAL AUSTRALIA
+DT Article
+DE Indigenous hashtags; Indigenous reframing; Indigenous social movements;
+   Indigenous women; social media
+ID SEXUALIZED-VIOLENCE
+PD NOV
+PY 2018
+VL 169
+IS 1
+BP 54
+EP 64
+DI 10.1177/1329878X18803730
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Haberler, Z
+   Laursen, SL
+   Hayward, CN
+AF Haberler, Zachary
+   Laursen, Sandra L.
+   Hayward, Charles N.
+TI What's in a Name? Framing Struggles of a Mathematics Education Reform
+   Community
+SO INTERNATIONAL JOURNAL OF RESEARCH IN UNDERGRADUATE MATHEMATICS EDUCATION
+DT Article
+DE Inquiry-based learning; Undergraduate mathematics education reform;
+   Framing; Social movements; Social identity; History of mathematics
+   education
+PD OCT
+PY 2018
+VL 4
+IS 3
+BP 415
+EP 441
+DI 10.1007/s40753-018-0079-4
+WC Education & Educational Research
+SC Education & Educational Research
+ER
+
+PT J
+AU Rafail, P
+   McCarthy, JD
+AF Rafail, Patrick
+   McCarthy, John D.
+TI Making the Tea Party Republican: Media Bias and Framing in Newspapers
+   and Cable News
+SO SOCIAL CURRENTS
+DT Article
+DE collective behavior and social movements; political sociology;
+   communication and information technologies; tea party
+PD OCT
+PY 2018
+VL 5
+IS 5
+BP 421
+EP 437
+DI 10.1177/2329496518759129
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Cabello, P
+   Torres, R
+   Mellado, C
+AF Cabello, Patricio
+   Torres, Rodrigo
+   Mellado, Claudia
+TI Socio-environmental conflict and contentious politics: framing of the
+   environmental crisis of red tide bloom in Chiloe (Chile)
+SO AMERICA LATINA HOY-REVISTA DE CIENCIAS SOCIALES
+DT Article
+DE Chiloe; socio-environmental; contentious politics; framing; red tide
+ID MEDIA; NEWS; SALMON; AQUACULTURE; MOVEMENTS; ACTIVISM
+PD AUG
+PY 2018
+VL 79
+BP 59
+EP 79
+DI 10.14201/alh2018795979
+WC Political Science
+SC Government & Law
+ER
+
+PT J
+AU Hervieux, C
+   Voltan, A
+AF Hervieux, Chantal
+   Voltan, Annika
+TI Framing Social Problems in Social Entrepreneurship
+SO JOURNAL OF BUSINESS ETHICS
+DT Article
+DE Social entrepreneurship; Social problems; Social movement theory;
+   Framing processes; Critical discourse analysis
+ID CRITICAL DISCOURSE ANALYSIS; MOVEMENTS
+PD AUG
+PY 2018
+VL 151
+IS 2
+BP 279
+EP 293
+DI 10.1007/s10551-016-3252-1
+WC Business; Ethics
+SC Business & Economics; Social Sciences - Other Topics
+ER
+
+PT J
+AU Ruffa, C
+   Sundberg, R
+AF Ruffa, Chiara
+   Sundberg, Ralph
+TI Breaking the frame: frame disputes of war and peace
+SO ACTA SOCIOLOGICA
+DT Article
+DE Frames; military organizations; peacekeeping; Afghanistan; cohesion;
+   sense-making; combat; Italy
+ID COHESION; VETERANS; CONSTRUCTION; DISCOURSE; MISSION
+PD AUG
+PY 2018
+VL 61
+IS 3
+BP 317
+EP 332
+DI 10.1177/0001699317715758
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Gaechter, L
+   Porter, CM
+AF Gaechter, Lacey
+   Porter, Christine M.
+TI "Ultimately about dignity": Social movement frames used by collaborators
+   in the Food Dignity action-research project
+SO JOURNAL OF AGRICULTURE FOOD SYSTEMS AND COMMUNITY DEVELOPMENT
+DT Article
+DE Social Movement Framing; Social Movement Frames; Food Dignity;
+   Sustainability; Food Justice; Diagnostic Framing; Prognostic Framing;
+   Motivational Framing; Just Food System; Structural Oppression; Racism;
+   Community Food Security; Food Sovereignty
+PD JUL
+PY 2018
+VL 8
+SU 1
+SI SI
+BP 147
+EP 166
+DI 10.5304/jafscd.2018.08A.004
+WC Agronomy
+SC Agriculture
+ER
+
+PT J
+AU Lynn, TJ
+   Williams, LS
+AF Lynn, Tamara J.
+   Williams, L. Susan
+TI 'Have a Quiet, Orderly, Polite Revolution': Framing Political Protest
+   and Protecting the Status Quo
+SO CRITICAL SOCIOLOGY
+DT Article
+DE critical discourse analysis; framing; media; outsiders; political
+   sociology; protest; status quo
+ID MORTGAGE ORIGINATION FRAUD; GLOBAL ECONOMIC-CRISIS; SOCIAL CONSTRUCTION;
+   MEDIA COVERAGE; MOVEMENT; NEWS; CULTURE; REALITY
+PD JUL
+PY 2018
+VL 44
+IS 4-5
+BP 733
+EP 751
+DI 10.1177/0896920516666646
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Ntontis, E
+   Hopkins, N
+AF Ntontis, Evangelos
+   Hopkins, Nick
+TI Framing a "social problem': Emotion in anti-abortion activists'
+   depiction of the abortion debate
+SO BRITISH JOURNAL OF SOCIAL PSYCHOLOGY
+DT Article
+DE activism; framing; emotion talk; identity construction; abortion;
+   anti-abortion activism
+ID POSTABORTION SYNDROME; COLLECTIVE ACTION; POLITICAL-ACTION; GROUP
+   MEMBERSHIP; SELF-CATEGORIES; DISCOURSE; MOVEMENT; HEALTH; IDENTITY;
+   PARTICIPATION
+PD JUL
+PY 2018
+VL 57
+IS 3
+BP 666
+EP 683
+DI 10.1111/bjso.12249
+WC Psychology, Social
+SC Psychology
+ER
+
+PT J
+AU Meier, HE
+   Reinold, M
+AF Meier, Henk E.
+   Reinold, Marcel
+TI Immunizing Inefficient Field Frames for Mitigating Social Problems: The
+   Institutional Work Behind the Technocratic Antidoping System
+SO SAGE OPEN
+DT Article
+DE field frames; institutional work; doping; International Olympic
+   Committee; technocratic approach
+ID DRUG-USE; SPORTS; MANAGEMENT; SOCIOLOGY; MOVEMENT; HISTORY; ACTORS
+PD JUN 11
+PY 2018
+VL 8
+IS 2
+AR 2158244018780954
+DI 10.1177/2158244018780954
+WC Social Sciences, Interdisciplinary
+SC Social Sciences - Other Topics
+ER
+
+PT J
+AU Borde, R
+   Rasch, ED
+AF Borde, Radhika
+   Rasch, Elisabet Dueholm
+TI Internationalized Framing in Social Movements against Mining in India
+   and the Philippines
+SO JOURNAL OF DEVELOPING SOCIETIES
+DT Article
+DE Indigenous peoples; social movements; framing; India; Philippines;
+   mining
+ID INDIGENOUS PEOPLES; ENVIRONMENTAL POLITICS; NIYAMGIRI; RIGHTS;
+   PERSPECTIVE; CONFLICT; MOUNTAIN; JUSTICE; SCALE
+PD JUN
+PY 2018
+VL 34
+IS 2
+BP 195
+EP 218
+DI 10.1177/0169796X18767504
+WC Development Studies
+SC Development Studies
+ER
+
+PT J
+AU Christiansen, LH
+AF Christiansen, Laerke Hojgaard
+TI The Use of Visuals in Issue Framing: Signifying Responsible Drinking
+SO ORGANIZATION STUDIES
+DT Article
+DE collective organizations; expertise; issue fields; responsible drinking;
+   social issues; social responsibility; visual framing
+ID SOCIAL-MOVEMENTS; PUBLIC-HEALTH; CONSTRUCTION; ORGANIZATION; EMERGENCE;
+   ALIGNMENT; EVOLUTION; POLITICS; INDUSTRY; IMAGES
+PD JUN
+PY 2018
+VL 39
+IS 5-6
+SI SI
+BP 665
+EP 688
+DI 10.1177/0170840618759814
+WC Management
+SC Business & Economics
+ER
+
+PT J
+AU Fadaee, S
+AF Fadaee, Simin
+TI The Long Twentieth Century in Iran: Dynamics of Change, Continuity and
+   Mobilizing Master Frames
+SO JOURNAL OF DEVELOPING SOCIETIES
+DT Article
+DE Iran; social movements; democratization; civil society; authoritarianism
+ID AUTHORITARIAN RESILIENCE; PERSPECTIVE; ALIGNMENT; REGIME
+PD JUN
+PY 2018
+VL 34
+IS 2
+BP 123
+EP 143
+DI 10.1177/0169796X18766910
+WC Development Studies
+SC Development Studies
+ER
+
+PT J
+AU Shaw, JJA
+AF Shaw, Julia J. A.
+TI From Beethoven to Bowie: Identity Framing, Social Justice and the Sound
+   of Law
+SO INTERNATIONAL JOURNAL FOR THE SEMIOTICS OF LAW-REVUE INTERNATIONALE DE
+   SEMIOTIQUE JURIDIQUE
+DT Article
+DE Music; Identity; Justice; Law; Culture; Aesthetics
+ID SONGS
+PD JUN
+PY 2018
+VL 31
+IS 2
+SI SI
+BP 301
+EP 324
+DI 10.1007/s11196-017-9533-x
+WC Law; Language & Linguistics; Social Sciences, Interdisciplinary
+SC Government & Law; Linguistics; Social Sciences - Other Topics
+ER
+
+PT J
+AU Moody-Ramirez, M
+   Cole, H
+AF Moody-Ramirez, Mia
+   Cole, Hazel
+TI Victim Blaming in Twitter Users' Framing of Eric Garner and Michael
+   Brown
+SO JOURNAL OF BLACK STUDIES
+DT Article
+DE victim blaming; #BlackLivesMatter; Eric Garner; Michael Brown
+ID TELEVISION-NEWS; AFRICAN-AMERICANS; UNITED-STATES; SOCIAL MEDIA; RAPE;
+   COVERAGE; VIOLENCE; OPINION; PROTEST; KATRINA
+PD MAY
+PY 2018
+VL 49
+IS 4
+BP 383
+EP 407
+DI 10.1177/0021934718754312
+WC Ethnic Studies; Social Sciences, Interdisciplinary
+SC Ethnic Studies; Social Sciences - Other Topics
+ER
+
+PT J
+AU Aslanidis, P
+AF Aslanidis, Paris
+TI Populism as a Collective Action Master Frame for Transnational
+   Mobilization
+SO SOCIOLOGICAL FORUM
+DT Article
+DE frame analysis; Great Recession; master frame alignment; populism;
+   social mobilization; social movements
+ID SOCIAL-MOVEMENTS; POLITICAL OPPORTUNITIES; PROTEST; CONTINUITY;
+   NETWORKING; AUSTERITY; EMOTIONS; MEDIA; RISE
+PD APR
+PY 2018
+VL 33
+IS 2
+BP 443
+EP 464
+DI 10.1111/socf.12424
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Terriquez, V
+   Brenes, T
+   Lopez, A
+AF Terriquez, Veronica
+   Brenes, Tizoc
+   Lopez, Abdiel
+TI Intersectionality as a multipurpose collective action frame: The case of
+   the undocumented youth movement
+SO ETHNICITIES
+DT Article
+DE Latino youth; intersectionality; social movements; framing; lesbian;
+   gay; bisexual; transgender; and queer; DREAMers; undocumented; legal
+   status
+ID SOCIAL-MOVEMENTS; IMMIGRANT; CAMPAIGN; IDENTITY; POLITICS; STRATEGY
+PD APR
+PY 2018
+VL 18
+IS 2
+SI SI
+BP 260
+EP 276
+DI 10.1177/1468796817752558
+WC Ethnic Studies
+SC Ethnic Studies
+ER
+
+PT J
+AU Furnari, S
+AF Furnari, Santi
+TI When does an issue trigger change in a field? A comparative approach to
+   issue frames, field structures and types of field change
+SO HUMAN RELATIONS
+DT Article
+DE frames; institutional change; institutional field; institutional theory;
+   issue
+ID INSTITUTIONAL CHANGE; SOCIAL-MOVEMENTS; ORGANIZATIONS; COLLABORATION;
+   MECHANISMS; EMERGENCE; EVOLUTION; DISCOURSE; MODEL; WORK
+PD MAR
+PY 2018
+VL 71
+IS 3
+BP 321
+EP 348
+DI 10.1177/0018726717726861
+WC Management; Social Sciences, Interdisciplinary
+SC Business & Economics; Social Sciences - Other Topics
+ER
+
+PT J
+AU Hanus, N
+   Wong-Parodi, G
+   Hoyos, L
+   Rauch, A
+AF Hanus, Nichole
+   Wong-Parodi, Gabrielle
+   Hoyos, Lisa
+   Rauch, Andmolly
+TI Framing clean energy campaigns to promote civic engagement among parents
+SO ENVIRONMENTAL RESEARCH LETTERS
+DT Article
+DE randomized controlled trial; clean energy framing; civic engagement;
+   renewable energy; parents
+ID CLIMATE-CHANGE; REASONED ACTION; SELF-INTEREST; BEHAVIOR; HEALTH; COST;
+   PARTICIPATION; INCENTIVES; ATTITUDES; SCIENCE
+PD MAR
+PY 2018
+VL 13
+IS 3
+AR 034021
+DI 10.1088/1748-9326/aaa557
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+ER
+
+PT J
+AU Linstead, SA
+AF Linstead, Stephen A.
+TI Feeling the Reel of the Real: Framing the Play of Critically Affective
+   Organizational Research between Art and the Everyday
+SO ORGANIZATION STUDIES
+DT Article
+DE arts-based methods; critical affectivity; cultural performance;
+   organizational aesthetics; organizational ethnography; performance texts
+ID SOCIAL POETICS; INQUIRY
+PD MAR
+PY 2018
+VL 39
+IS 2-3
+SI SI
+BP 319
+EP 344
+DI 10.1177/0170840617717552
+WC Management
+SC Business & Economics
+ER
+
+PT J
+AU Nicolini, KM
+   Hansen, SS
+AF Nicolini, Kristine M.
+   Hansen, Sara Steffes
+TI Framing the Women's March on Washington: Media coverage and
+   organizational messaging alignment
+SO PUBLIC RELATIONS REVIEW
+DT Article
+DE Framing theory; Media analysis; Key messaging
+ID INFORMATION SUBSIDIES; SOCIAL MEDIA; OPINION; MOVEMENT; PROTEST
+PD MAR
+PY 2018
+VL 44
+IS 1
+BP 1
+EP 10
+DI 10.1016/j.pubrev.2017.12.005
+WC Business; Communication
+SC Business & Economics; Communication
+ER
+
+PT J
+AU Pansera, M
+   Owen, R
+AF Pansera, Mario
+   Owen, Richard
+TI Framing inclusive innovation within the discourse of development:
+   Insights from case studies in India
+SO RESEARCH POLICY
+DT Article
+DE Inclusive innovation; Development; Discourse; Markets
+ID PEOPLES SCIENCE MOVEMENT; POLITICS; GLOBALIZATION; TECHNOLOGY; GROWTH
+PD FEB
+PY 2018
+VL 47
+IS 1
+BP 23
+EP 34
+DI 10.1016/j.respol.2017.09.007
+WC Management
+SC Business & Economics
+ER
+
+PT J
+AU Appel, EC
+AF Appel, Edward C.
+TI Burlesque, Tragedy, and a (Potentially) "Yuuuge" "Breaking of a Frame":
+   Donald Trump's Rhetoric as "Early Warning"?
+SO COMMUNICATION QUARTERLY
+DT Article
+DE burlesque; Donald J. Trump; factional tragedy; Kenneth Burke;
+   presidential campaign rhetoric
+PY 2018
+VL 66
+IS 2
+SI SI
+BP 157
+EP 175
+DI 10.1080/01463373.2018.1439515
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Bakardjieva, M
+   Felt, M
+   Teruelle, R
+AF Bakardjieva, Maria
+   Felt, Mylynn
+   Teruelle, Rhon
+TI Framing the Pipeline Problem: Civic Claimsmakers and Social Media
+SO CANADIAN JOURNAL OF COMMUNICATION
+DT Article
+DE Social media; Social movements; Collective action; Framing; Kinder
+   morgan pipeline; Facebook groups
+PY 2018
+VL 43
+IS 1
+SI SI
+BP 147
+EP 165
+DI 10.22230/cjc.2017v43n1a3316
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Battini, A
+   Kosulu, D
+AF Battini, Adrien
+   Kosulu, Deniz
+TI When ultras defend trees: framing politics through subcultural
+   fandom-comparing UltrAslan and Car before and during Occupy Gezi
+SO SOCCER & SOCIETY
+DT Article
+PY 2018
+VL 19
+IS 3
+SI SI
+BP 418
+EP 439
+DI 10.1080/14660970.2017.1333673
+WC Hospitality, Leisure, Sport & Tourism
+SC Social Sciences - Other Topics
+ER
+
+PT J
+AU Caterino, N
+   Azmoodeh, BM
+   Manfredi, G
+AF Caterino, Nicola
+   Azmoodeh, Behnam M.
+   Manfredi, Gaetano
+TI Seismic Risk Mitigation for a Portfolio of Reinforced Concrete Frame
+   Buildings through Optimal Allocation of a Limited Budget
+SO ADVANCES IN CIVIL ENGINEERING
+DT Article
+ID MULTICRITERIA DECISION-MAKING
+PY 2018
+VL 2018
+AR 8184756
+DI 10.1155/2018/8184756
+WC Construction & Building Technology; Engineering, Civil
+SC Construction & Building Technology; Engineering
+ER
+
+PT B
+AU Crompton, A
+   Waring, J
+AF Crompton, Amanda
+   Waring, Justin
+BE McDermott, AM
+   Kitchener, M
+   Exworthy, M
+TI Framing a Movement for Improvement: Hospital Managers' Use of Social
+   Movement Ideas in the Implementation of a Patient Safety Framework
+SO MANAGING IMPROVEMENT IN HEALTHCARE: ATTAINING, SUSTAINING AND SPREADING
+   QUALITY
+SE Organizational Behaviour in Health Care
+DT Article; Book Chapter
+ID HEALTH-CARE; SYSTEM
+PY 2018
+BP 219
+EP 236
+DI 10.1007/978-3-319-62235-4_13
+D2 10.1007/978-3-319-62235-4
+WC Health Care Sciences & Services; Health Policy & Services
+SC Health Care Sciences & Services
+ER
+
+PT J
+AU Dentzman, K
+AF Dentzman, Katherine
+TI "I would say that might be all it is, is hope": The framing of herbicide
+   resistance and how farmers explain their faith in herbicides
+SO JOURNAL OF RURAL STUDIES
+DT Article
+ID INTEGRATED WEED MANAGEMENT; TOLERANT CROPS; MASTER FRAMES; GLYPHOSATE;
+   ADOPTION; AGRICULTURE; SCIENCE; PERCEPTIONS; TECHNOLOGY; MOVEMENTS
+PD JAN
+PY 2018
+VL 57
+BP 118
+EP 127
+DI 10.1016/j.jrurstud.2017.12.010
+WC Geography; Regional & Urban Planning
+SC Geography; Public Administration
+ER
+
+PT J
+AU Faucher, F
+   Boussaguet, L
+AF Faucher, Florence
+   Boussaguet, Laurie
+TI The Politics of Symbols: Reflections on the French Government's Framing
+   of the 2015 Terrorist Attacks
+SO PARLIAMENTARY AFFAIRS
+DT Article
+DE Terrorism; France; Governmental response; Symbolic public policy
+ID THE-FLAG PHENOMENON; SOCIAL-MOVEMENTS; PUBLIC-OPINION; POLICY; SECURITY;
+   IRAQ; WAR
+PD JAN
+PY 2018
+VL 71
+IS 1
+BP 169
+EP 195
+DI 10.1093/pa/gsx013
+WC Political Science
+SC Government & Law
+ER
+
+PT J
+AU Godin, M
+AF Godin, Marie
+TI Breaking the silences, breaking the frames: a gendered diasporic
+   analysis of sexual violence in the DRC
+SO JOURNAL OF ETHNIC AND MIGRATION STUDIES
+DT Article
+DE Congolese diaspora; transnational politics; social movement; women's
+   activism; sexual violence; DRC; Belgium; UK
+ID CONFLICT-GENERATED DIASPORAS; RESOLUTION; CONGOLESE; POLITICS; WOMEN
+PY 2018
+VL 44
+IS 8
+SI SI
+BP 1390
+EP 1407
+DI 10.1080/1369183X.2017.1354166
+WC Demography; Ethnic Studies
+SC Demography; Ethnic Studies
+ER
+
+PT B
+AU Hancock, R
+AF Hancock, Rosemary
+BA Hancock, R
+BF Hancock, R
+TI Framing in Islamic environmental organisations
+SO ISLAMIC ENVIRONMENTALISM: ACTIVISM IN THE UNITED STATES AND GREAT
+   BRITAIN
+SE Routledge Advances in Sociology
+DT Article; Book Chapter
+ID SOCIAL-MOVEMENT THEORY
+PY 2018
+VL 222
+BP 69
+EP 98
+WC Environmental Studies; Sociology; Religion
+SC Environmental Sciences & Ecology; Sociology; Religion
+ER
+
+PT J
+AU Hearty, K
+AF Hearty, Kevin
+TI How the 'suspect community' became 'critical engagers': the (re)framing
+   of the Irish republican narrative on policing in Northern Ireland
+SO IRISH POLITICAL STUDIES
+DT Article
+DE Policing; framing; Northern Ireland; social movement
+ID SOCIAL-MOVEMENTS; FRAMING PROCESSES; PARTY MODERNIZATION; COLLECTIVE
+   ACTION; SINN FEIN; DISCOURSE; RIGHTS; IDENTITY; WAR
+PY 2018
+VL 33
+IS 1
+BP 21
+EP 42
+DI 10.1080/07907184.2016.1198322
+WC Political Science
+SC Government & Law
+ER
+
+PT J
+AU Houser, M
+AF Houser, Matthew
+TI Who Framed Climate Change? Identifying the How and Why of Iowa Corn
+   Farmers' Framing of Climate Change
+SO SOCIOLOGIA RURALIS
+DT Article
+ID FOOD SECURITY; BIOSECURITY; SHEEP; CATTLE; CARE; PIG
+PD JAN
+PY 2018
+VL 58
+IS 1
+BP 40
+EP 62
+DI 10.1111/soru.12136
+WC Geography; Sociology
+SC Geography; Sociology
+ER
+
+PT J
+AU Khayatzadeh-Mahani, A
+   Ruckert, A
+   Labonte, R
+AF Khayatzadeh-Mahani, Akram
+   Ruckert, Arne
+   Labonte, Ronald
+TI Obesity prevention: co-framing for intersectoral 'buy-in'
+SO CRITICAL PUBLIC HEALTH
+DT Article
+DE Obesity; reframing; co-framing; Health in All Policies (HiAP); network
+   governance
+ID HEALTH INEQUITIES; PUBLIC-HEALTH; POLICY CHANGE; SOCIAL-MOVEMENTS;
+   IMPLEMENTATION; EVOLUTION; PROMOTION; EPIDEMIC; SMOKING; FUTURE
+PY 2018
+VL 28
+IS 1
+BP 4
+EP 11
+DI 10.1080/09581596.2017.1282604
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+ER
+
+PT J
+AU Korson, C
+AF Korson, Cadey
+TI Framing social rebalancing, national identity, and victimhood in
+   Kanaky/New Caledonia
+SO SOCIAL & CULTURAL GEOGRAPHY
+DT Article
+DE Island governance; Pacific; indigenous rights; politics of identity;
+   self-determination
+ID SELF-DETERMINATION; POLITICS; ISLAND; ESSENTIALISM; GEOGRAPHIES;
+   RETHINKING; MOVEMENTS; ERA
+PY 2018
+VL 19
+IS 5
+BP 549
+EP 575
+DI 10.1080/14649365.2017.1286372
+WC Geography
+SC Geography
+ER
+
+PT J
+AU Lindstedt, N
+AF Lindstedt, Nathan
+TI Shifting frames: Collective action framing from a dialogic and
+   relational perspective
+SO SOCIOLOGY COMPASS
+DT Article
+ID SOCIAL-MOVEMENTS; CULTURAL HOLES; NETWORKS; THINKING; EMERGENCE;
+   SOCIOLOGY; ARISTOTLE; CRITIQUE; SKINNER; SYMBOLS
+PD JAN
+PY 2018
+VL 12
+IS 1
+AR e12548
+DI 10.1111/soc4.12548
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU McCammon, HJ
+   Hearne, BN
+   McGrath, AR
+   Moon, M
+AF McCammon, Holly J.
+   Hearne, Brittany N.
+   McGrath, Allison R.
+   Moon, Minyoung
+TI Legal Mobilization and Analogical Legal Framing: Feminist Litigators'
+   Use of Race-Gender Analogies
+SO LAW & POLICY
+DT Article
+ID SEX-DISCRIMINATION; SOCIAL-MOVEMENTS; WOMENS MOVEMENT; LAW; EQUALITY;
+   MARRIAGE
+PD JAN
+PY 2018
+VL 40
+IS 1
+BP 57
+EP 78
+DI 10.1111/lapo.12095
+WC Law
+SC Government & Law
+ER
+
+PT J
+AU McKeon, N
+AF McKeon, Nora
+TI "Getting to the root causes of migration' in West Africa - whose
+   history, framing and agency counts?
+SO GLOBALIZATIONS
+DT Article
+DE Economic migrants; food sovereignty; peasant movements; policy
+   incoherence; global governance; human rights
+PY 2018
+VL 15
+IS 6
+SI SI
+BP 870
+EP 885
+DI 10.1080/14747731.2018.1503842
+WC International Relations; Social Sciences, Interdisciplinary
+SC International Relations; Social Sciences - Other Topics
+ER
+
+PT J
+AU Pain, P
+AF Pain, Paromita
+TI EDUCATE. EMPOWER. REVOLT Framing citizen journalism as a creator of
+   social movements
+SO JOURNALISM PRACTICE
+DT Article
+DE CGNET Swara; citizen journalism; India; movements; Video Volunteers
+ID PUBLIC-OPINION; MEDIA; NEWS
+PY 2018
+VL 12
+IS 7
+BP 799
+EP 816
+DI 10.1080/17512786.2017.1343094
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Padilla, JP
+AF Pelaez Padilla, Jorge
+TI Hasty Identity. The Limits of the Law as a Frame for Collective Action
+SO ONATI SOCIO-LEGAL SERIES
+DT Article
+DE Socio-legal mobilization; framing processes; mining projects;
+   legislative change
+PY 2018
+VL 8
+IS 5
+BP 616
+EP 646
+WC Law
+SC Government & Law
+ER
+
+PT J
+AU Raghu, P
+AF Raghu, Pratik
+TI The Prism of Expanding Peasants' Rights: A Critical Investigation of
+   Diverse Frames Applied to La Via Campesina's Human Rights Engagements
+SO PERSPECTIVES ON GLOBAL DEVELOPMENT AND TECHNOLOGY
+DT Article
+DE alter-globalization movements; food and land sovereignty; human rights
+   frames; La Via Campesina; peasants' struggles
+PY 2018
+VL 17
+IS 3
+BP 327
+EP 340
+DI 10.1163/15691497-12341481
+WC Development Studies
+SC Development Studies
+ER
+
+PT J
+AU Schmid, JCP
+AF Schmid, Johannes C. P.
+TI Graphic Nonviolence: Framing "Good Trouble" in John Lewis' March
+SO EUROPEAN JOURNAL OF AMERICAN STUDIES
+DT Article
+DE March; Graphic Memoir; Framing; Frames; Nonviolence; Protest; Social
+   Movements; John Lewis; Civil Rights Movement; Comics; Martin Luther
+   King; Andrew Aydin; Nate Powell
+PY 2018
+VL 13
+IS 4
+SI SI
+DI 10.4000/ejas.13922
+WC Humanities, Multidisciplinary
+SC Arts & Humanities - Other Topics
+ER
+
+PT J
+AU Scholl, C
+   Freyberg-Inan, A
+AF Scholl, Christian
+   Freyberg-Inan, Annette
+TI Imagining another Europe: Building a pan-European counter-hegemonic bloc
+   around an anti-austerity master frame
+SO COMPARATIVE EUROPEAN POLITICS
+DT Article
+DE austerity; protest; counter-hegemony; social movements; Europe; framing
+ID POSTMODERN PRINCE; SOCIAL-MOVEMENTS; ALIGNMENT; PROTEST; POLITICS;
+   CRISIS
+PD JAN
+PY 2018
+VL 16
+IS 1
+SI SI
+BP 103
+EP 125
+DI 10.1057/s41295-016-0070-x
+WC Political Science
+SC Government & Law
+ER
+
+PT J
+AU Smith, M
+AF Smith, Michael
+TI Theological Frames for Social Research
+SO JOURNAL OF EMPIRICAL THEOLOGY
+DT Article
+DE theology; frames; empirical theology; qualitative research; lived
+   religion
+ID ORGANIZATIONS; MOVEMENTS
+PY 2018
+VL 31
+IS 1
+BP 71
+EP 92
+DI 10.1163/15709256-12341368
+WC Religion
+SC Religion
+ER
+
+PT S
+AU Snihur, Y
+   Thomas, LDW
+   Burgelman, RA
+AF Snihur, Yuliya
+   Thomas, Llewellyn D. W.
+   Burgelman, Robert A.
+BE Sund, KJ
+   Galavan, RJ
+   Brusoni, S
+TI The Performative Power of Words: How Business Model Innovators Use
+   Framing for Strategic Advantage
+SO COGNITION AND INNOVATION
+SE New Horizons in Managerial and Organizational Cognition
+DT Article; Book Chapter
+DE Business model innovation; cloud computing ecosystem creation; framing;
+   performativity; Salesforce
+ID FIELD-CONFIGURING EVENTS; SOCIAL CONSTRUCTION; SYMBOLIC MANAGEMENT;
+   TOURNAMENT RITUALS; LEGITIMACY; ENTREPRENEURSHIP; INSTITUTIONS;
+   MOVEMENT; DYNAMICS; RESOURCE
+PY 2018
+BP 13
+EP 44
+DI 10.1108/978-1-78769-431-620181002
+WC Psychology, Applied; Management
+SC Psychology; Business & Economics
+ER
+
+PT J
+AU Sugden, RC
+   Terry, C
+AF Sugden, Ryan Charles
+   Terry, Christopher
+TI Diversity on Display: Framing in the Gay Perspective Radio Program
+SO JOURNAL OF RADIO & AUDIO MEDIA
+DT Article
+PY 2018
+VL 25
+IS 2
+BP 240
+EP 252
+DI 10.1080/19376529.2018.1489598
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Tittor, A
+AF Tittor, Anne
+TI Conflicts about Nicaragua's Interoceanic Canal Project Framing,
+   counterframing and government strategies
+SO CAHIERS DES AMERIQUES LATINES
+DT Article
+DE frame analisis; land conflict; social movements
+PY 2018
+VL 87
+BP 117
+EP 140
+DI 10.4000/cal.8561
+WC Area Studies
+SC Area Studies
+ER
+
+PT J
+AU Tornberg, A
+   Wahlstrom, M
+AF Tornberg, Anton
+   Wahlstrom, Mattias
+TI Unveiling the radical right online Exploring framing and identity in an
+   online anti-immigrant discussion group
+SO SOCIOLOGISK FORSKNING
+DT Article
+DE automated text analysis; online counterpublic; radical right; social
+   media; social movement
+ID SOCIAL-MOVEMENT; MEDIA; MOBILIZATION; DISCOURSE; INTERNET; CULTURE;
+   PEGIDA; SPACES
+PY 2018
+VL 55
+IS 2-3
+BP 267
+EP 292
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Walton, O
+AF Walton, Oliver
+TI Beyond disaster framing: exploring multi-mandate INGOs' representations
+   of conflict
+SO THIRD WORLD QUARTERLY
+DT Article
+DE Civil society; conflict and security; disasters; humanitarianism; ICT
+   and the digital economy
+ID SOCIAL-MOVEMENTS; NGOS; COMMUNICATION; HUMANITARIAN; LEGITIMACY;
+   NARRATIVES; POLITICS; DARFUR; PEACE
+PY 2018
+VL 39
+IS 4
+BP 642
+EP 660
+DI 10.1080/01436597.2017.1350097
+WC Development Studies
+SC Development Studies
+ER
+
+PT J
+AU Westphal, J
+AF Westphal, Joana
+TI Violence in the name of god? A framing processes approach to the Islamic
+   State in Iraq and Syria
+SO SOCIAL MOVEMENT STUDIES
+DT Article
+DE ISIS; framing processes; ideology; collective identity; violence;
+   discursive frame analysis
+ID AL-QAEDA; IDEOLOGY; ISIS; SALAFI
+PY 2018
+VL 17
+IS 1
+BP 19
+EP 34
+DI 10.1080/14742837.2017.1381594
+WC Political Science; Sociology
+SC Government & Law; Sociology
+ER
+
+PT J
+AU Whitley, CT
+   Gunderson, R
+   Charters, M
+AF Whitley, Cameron T.
+   Gunderson, Ryan
+   Charters, Meghan
+TI Public receptiveness to policies promoting plant-based diets: framing
+   effects and social psychological and structural influences
+SO JOURNAL OF ENVIRONMENTAL POLICY & PLANNING
+DT Article
+DE Meat reduction; public health; environmental policy; animal welfare;
+   frame
+ID MEAT CONSUMPTION; VALUE ORIENTATIONS; CLIMATE-CHANGE; SUSTAINABILITY;
+   HEALTH; CHALLENGES; FUTURE; VALUES; FRAMES; VIEWS
+PY 2018
+VL 20
+IS 1
+BP 45
+EP 63
+DI 10.1080/1523908X.2017.1304817
+WC Development Studies; Regional & Urban Planning
+SC Development Studies; Public Administration
+ER
+
+PT J
+AU Zaidise, E
+   Shahrabani, S
+   Gal, A
+   Benzion, U
+AF Zaidise, Eran
+   Shahrabani, Shosh
+   Gal, Assaf
+   Benzion, Uri
+TI Understanding public support for social protest: testing collective
+   action frames, cognitive liberation and political opportunity in the
+   Israeli 2011 summer protest
+SO ISRAEL AFFAIRS
+DT Article
+DE Social protest; public support; political agency; Israel; government
+   responsibility
+ID PEACE MOVEMENT; OPINION; POLICY; DEMOCRACIES; ELITE
+PY 2018
+VL 24
+IS 5
+BP 865
+EP 882
+DI 10.1080/13537121.2018.1505705
+WC Area Studies
+SC Area Studies
+ER
+
+PT J
+AU Danaher, WF
+   Dixon, M
+AF Danaher, William F.
+   Dixon, Marc
+TI FRAMING THE FIELD: THE CASE OF THE 1969 CHARLESTON HOSPITAL WORKERS'
+   STRIKE
+SO MOBILIZATION
+DT Article
+ID SOCIAL-MOVEMENTS; OFFICIAL FRAMES; UNIONIZATION; OPPORTUNITY;
+   REPRESSION; STRATEGIES; RESOURCES; TARGETS; STATE; FBI
+PD DEC
+PY 2017
+VL 22
+IS 4
+BP 417
+EP 433
+DI 10.17813/1086-671X-22-4-417
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Koubek, M
+AF Koubek, Martin
+TI What's in a name again? The identity frames and mobilisation strategies
+   of Czech Romani and Pro-Romani activists
+SO ETHNICITIES
+DT Article
+DE Frames; collective identity; mobilisation; social movements; Roma; EU
+   funds; opportunity structures; Czech Republic
+ID SOCIAL INCLUSION; MOVEMENT; POLICIES; STATE
+PD DEC
+PY 2017
+VL 17
+IS 6
+BP 816
+EP 843
+DI 10.1177/1468796817709845
+WC Ethnic Studies
+SC Ethnic Studies
+ER
+
+PT J
+AU Sohoni, D
+AF Sohoni, Deenesh
+TI Restrictionist Discourse by the Numbers: The Framing of the Demographic
+   Impacts of Immigration
+SO SOCIAL PROBLEMS
+DT Article
+DE immigration; restrictionist groups; demographic threat; media; Internet
+ID SOCIAL-MOVEMENTS; BOUNDARIES; MEDIA
+PD NOV
+PY 2017
+VL 64
+IS 4
+BP 476
+EP 496
+DI 10.1093/socpro/spx027
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Bertuzzi, N
+AF Bertuzzi, Niccolo
+TI Urban Regimes and the Right to the City: An Analysis of the No Expo
+   Network and its Protest Frames
+SO REVISTA CRITICA DE CIENCIAS SOCIAIS
+DT Article
+DE Expo; Italy; mega-events; right to the city; social movements; social
+   networks
+ID DISCURSIVE OPPORTUNITIES; MOVEMENT; EVOLUTION
+PD SEP
+PY 2017
+IS 113
+BP 107
+EP 127
+DI 10.4000/rccs.6670
+WC Social Sciences, Interdisciplinary
+SC Social Sciences - Other Topics
+ER
+
+PT J
+AU Lavine, M
+   Cobb, JA
+   Roussin, CJ
+AF Lavine, Marc
+   Cobb, J. Adam
+   Roussin, Christopher J.
+TI WHEN SAYING LESS IS SOMETHING NEW: SOCIAL MOVEMENTS AND
+   FRAME-CONTRACTION PROCESSES
+SO MOBILIZATION
+DT Article
+ID MOBILIZATION; PERSPECTIVE; PROTECTION; MANAGEMENT; ALIGNMENT; IDEA
+PD SEP
+PY 2017
+VL 22
+IS 3
+BP 275
+EP 292
+DI 10.17813/1086-671X-20-3-275
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Munabari, F
+AF Munabari, Fahlesa
+TI Reconciling sharia with "Negara Kesatuan Republik Indonesia": The
+   ideology and framing strategies of the Indonesian Forum of Islamic
+   Society (FUI)
+SO INTERNATIONAL AREA STUDIES REVIEW
+DT Article
+DE Forum Umat Islam; Islamic movements; sharia; Indonesia; Hizbut Tahrir;
+   Front Pembela Islam
+ID HIZBUT TAHRIR; VIOLENCE
+PD SEP
+PY 2017
+VL 20
+IS 3
+BP 242
+EP 263
+DI 10.1177/2233865917699066
+WC International Relations
+SC International Relations
+ER
+
+PT J
+AU Pickett, JT
+   Ryon, SB
+AF Pickett, Justin T.
+   Ryon, Stephanie Bontrager
+TI RACE, CRIMINAL INJUSTICE FRAMES, AND THE LEGITIMATION OF CARCERAL
+   INEQUALITY AS A SOCIAL PROBLEM
+SO DU BOIS REVIEW-SOCIAL SCIENCE RESEARCH ON RACE
+DT Article
+DE Racial Attitudes; Racial Bias; Discrimination; Imprisonment; Collective
+   Action Frames; Social Movements; Disproportionate Minority Contact
+ID BLACK-WHITE GAP; RACIAL DISPARITIES; AFRICAN-AMERICAN; SYMBOLIC RACISM;
+   PUBLIC-OPINION; UNITED-STATES; PERCEPTIONS; PREJUDICE; BELIEFS; CRIME
+PD FAL
+PY 2017
+VL 14
+IS 2
+BP 577
+EP 602
+DI 10.1017/S1742058X17000121
+WC Ethnic Studies; Sociology
+SC Ethnic Studies; Sociology
+ER
+
+PT J
+AU Arbogast, CE
+   Welleford, EA
+   Netting, FE
+AF Arbogast, Charlotte E.
+   Welleford, E. Ayn
+   Netting, F. Ellen
+TI State Dementia Plans and the Alzheimer's Disease Movement: Framing
+   Diagnosis, Prognosis, and Motivation
+SO JOURNAL OF APPLIED GERONTOLOGY
+DT Review
+DE policy; caregiving; social movement
+ID LEGISLATION; FUTURE
+PD JUL
+PY 2017
+VL 36
+IS 7
+BP 840
+EP 863
+DI 10.1177/0733464815602112
+WC Gerontology
+SC Geriatrics & Gerontology
+ER
+
+PT J
+AU Giorgi, S
+AF Giorgi, Simona
+TI The Mind and Heart of Resonance: The Role of Cognition and Emotions in
+   Frame Effectiveness
+SO JOURNAL OF MANAGEMENT STUDIES
+DT Article
+DE audiences; cognition; emotions; framing; resonance
+ID RHETORICAL STRATEGIES; INSTITUTIONAL LOGICS; SOCIAL CONSTRUCTION;
+   SYMBOLIC MANAGEMENT; IDENTITY WORK; LEGITIMACY; MOVEMENT; ORGANIZATIONS;
+   CULTURE; PARTICIPATION
+PD JUL
+PY 2017
+VL 54
+IS 5
+BP 711
+EP 738
+DI 10.1111/joms.12278
+WC Business; Management
+SC Business & Economics
+ER
+
+PT J
+AU Hughes, CC
+   Schilt, K
+   Gorman, BK
+   Bratter, JL
+AF Hughes, Cayce C.
+   Schilt, Kristen
+   Gorman, Bridget K.
+   Bratter, Jenifer L.
+TI Framing the Faculty Gender Gap: A View from STEM Doctoral Students
+SO GENDER WORK AND ORGANIZATION
+DT Article
+DE gender; higher education; inequality; culture; STEM
+ID SOCIAL-MOVEMENTS; SCIENCE; WOMEN; ATTITUDES; CULTURE; CHOICE; FIELDS;
+   CAREER; WORK
+PD JUL
+PY 2017
+VL 24
+IS 4
+BP 398
+EP 416
+DI 10.1111/gwao.12174
+WC Management; Women's Studies
+SC Business & Economics; Women's Studies
+ER
+
+PT J
+AU McGahern, U
+AF McGahern, Una
+TI Protesting at the crossroads: Framing 'in-between places' in spatial
+   analyses of contention
+SO POLITICAL GEOGRAPHY
+DT Article
+DE Roads; In-between places; Protest; Frames; Palestinians in Israel
+ID SOCIAL-MOVEMENTS; POLITICS; POWER; RIGHTS; SPACE; CITY; INFRASTRUCTURE;
+   URBANIZATION; GEOGRAPHIES; VIOLENCE
+PD JUL
+PY 2017
+VL 59
+BP 92
+EP 102
+DI 10.1016/j.polgeo.2017.04.006
+WC Geography; Political Science
+SC Geography; Government & Law
+ER
+
+PT J
+AU Litrico, JB
+   David, RJ
+AF Litrico, Jean-Baptiste
+   David, Robert J.
+TI THE EVOLUTION OF ISSUE INTERPRETATION WITHIN ORGANIZATIONAL FIELDS:
+   ACTOR POSITIONS, FRAMING TRAJECTORIES, AND FIELD SETTLEMENT
+SO ACADEMY OF MANAGEMENT JOURNAL
+DT Article
+ID CLIMATE-CHANGE; INSTITUTIONAL CHANGE; SOCIAL-MOVEMENTS; STRATEGIC
+   ACTION; DIFFUSION; AVIATION; TRANSFORMATION; RESPONSES; INDUSTRY;
+   DYNAMICS
+PD JUN 1
+PY 2017
+VL 60
+IS 3
+BP 986
+EP 1015
+DI 10.5465/amj.2013.0156
+WC Business; Management
+SC Business & Economics
+ER
+
+PT J
+AU Steidley, T
+   Colen, CG
+AF Steidley, Trent
+   Colen, Cynthia G.
+TI Framing the Gun Control Debate: Press Releases and Framing Strategies of
+   the National Rifle Association and the Brady Campaign
+SO SOCIAL SCIENCE QUARTERLY
+DT Article
+ID RESOURCE MOBILIZATION; SELECTION BIAS; PROTEST; MOVEMENTS;
+   ORGANIZATIONS; COVERAGE; IMAGES; POLICY
+PD JUN
+PY 2017
+VL 98
+IS 2
+SI SI
+BP 608
+EP 627
+DI 10.1111/ssqu.12323
+WC Political Science; Sociology
+SC Government & Law; Sociology
+ER
+
+PT J
+AU Rahn, WM
+   Gollust, SE
+   Tang, XY
+AF Rahn, Wendy M.
+   Gollust, Sarah E.
+   Tang, Xuyang
+TI Framing Food Policy: The Case of Raw Milk
+SO POLICY STUDIES JOURNAL
+DT Article
+DE raw milk; competitive framing; food policy; social movements
+ID PUBLIC-OPINION; PURE MILK; MEDIA; PASTEURIZATION; POLITICS; SUPPORT;
+   ISSUES
+PD MAY
+PY 2017
+VL 45
+IS 2
+BP 359
+EP 383
+DI 10.1111/psj.12161
+WC Political Science; Public Administration
+SC Government & Law; Public Administration
+ER
+
+PT J
+AU Starr, C
+AF Starr, Chelsea
+TI When Culture Matters: Frame Resonance and Protests against Femicide in
+   Ciudad Juarez, Mexico
+SO QUALITATIVE REPORT
+DT Article
+PD MAY
+PY 2017
+VL 22
+IS 5
+BP 1359
+EP 1378
+WC Social Sciences, Interdisciplinary
+SC Social Sciences - Other Topics
+ER
+
+PT J
+AU Wubbena, Z
+AF Wubbena, Zane
+TI A pedagogy for space: Visually framing the 2011 Chilean student movement
+SO POLICY FUTURES IN EDUCATION
+DT Article
+DE Pedagogy; space; visual framing; media; educational policy; student
+   movement
+ID NEOLIBERAL EDUCATION; DEMOCRACY; SCHOOL
+PD MAY
+PY 2017
+VL 15
+IS 4
+SI SI
+BP 460
+EP 480
+DI 10.1177/1478210317694501
+WC Education & Educational Research
+SC Education & Educational Research
+ER
+
+PT J
+AU Shuster, SM
+   Campos-Castillo, C
+AF Shuster, Stef M.
+   Campos-Castillo, Celeste
+TI Measuring Resonance and Dissonance in Social Movement Frames With Affect
+   Control Theory
+SO SOCIAL PSYCHOLOGY QUARTERLY
+DT Article
+DE affect control theory; social movements; frame dissonance; deflections;
+   equal rights amendment
+ID FRAMING PROCESSES; IDEOLOGY; EMBARRASSMENT; MATTER
+PD MAR
+PY 2017
+VL 80
+IS 1
+BP 20
+EP 40
+DI 10.1177/0190272516664322
+WC Psychology, Social
+SC Psychology
+ER
+
+PT J
+AU Norris, RJ
+AF Norris, Robert J.
+TI Framing DNA: Social Movement Theory and the Foundations of the Innocence
+   Movement
+SO JOURNAL OF CONTEMPORARY CRIMINAL JUSTICE
+DT Article
+DE wrongful conviction; innocence movement; Innocence Project; social
+   movement; theory
+PD FEB
+PY 2017
+VL 33
+IS 1
+SI SI
+BP 26
+EP 42
+DI 10.1177/1043986216673014
+WC Criminology & Penology
+SC Criminology & Penology
+ER
+
+PT J
+AU Artz, L
+AF Artz, Lee
+TI Neoliberalism and Capital Accumulation: Media Framing of Resistance and
+   the Global Culture of Fear
+SO PERSPECTIVES ON GLOBAL DEVELOPMENT AND TECHNOLOGY
+DT Article
+DE Mali; media framing; neoliberalism; resistance; terrorism; transnational
+   media; Tuareg
+PY 2017
+VL 16
+IS 1-3
+BP 105
+EP 130
+DI 10.1163/15691497-12341423
+WC Development Studies
+SC Development Studies
+ER
+
+PT J
+AU Baumgarten, B
+   Garcia, RD
+AF Baumgarten, Britta
+   Diez Garcia, Ruben
+TI More than a Copy Paste: The Spread of Spanish Frames and Events to
+   Portugal
+SO JOURNAL OF CIVIL SOCIETY
+DT Article
+DE Social movements; protest; diffusion; Spain; Portugal
+ID MOVEMENT; INDIGNADOS; REVOLUTION; DIFFUSION; SPAIN; TIME
+PY 2017
+VL 13
+IS 3
+BP 247
+EP 266
+DI 10.1080/17448689.2017.1362127
+WC Political Science
+SC Government & Law
+ER
+
+PT J
+AU Bennett, S
+AF Bennett, Sam
+TI Whose line is it anyway? The diffusion of discursive frames in Pride
+   movements of the South
+SO JOURNAL OF LANGUAGE AND POLITICS
+DT Article
+DE South Africa; India; social movements; frame analysis;
+   recontextualisation; critical discourse analysis; newspapers; social
+   actors
+ID GAY PRIDE; SOCIAL-MOVEMENTS; DISCOURSES; FESTIVALS; POLITICS; SPACES;
+   RIGHTS; PARTY
+PY 2017
+VL 16
+IS 3
+BP 345
+EP 366
+DI 10.1075/jlp.16008.ben
+WC Linguistics; Language & Linguistics
+SC Linguistics
+ER
+
+PT J
+AU Bertuzzi, N
+AF Bertuzzi, Niccolo
+TI No Expo Network: a failed mobilization in a post-political frame
+SO SOCIAL MOVEMENT STUDIES
+DT Article
+DE No Expo; Expo; social movements; mega events; post-political frame;
+   neoliberal politics
+PY 2017
+VL 16
+IS 6
+BP 752
+EP 756
+DI 10.1080/14742837.2017.1348943
+WC Political Science; Sociology
+SC Government & Law; Sociology
+ER
+
+PT J
+AU Bodegon, HFC
+   Villanueva, PAG
+   Esber, JPJ
+   Fernando, JCA
+   Guevarra, JAC
+   Valeriano, CDB
+AF Bodegon, Hannah Frances C.
+   Villanueva, Prince Aian G.
+   Esber, Janessa Polly J.
+   Fernando, Jon Christian A.
+   Guevarra, John Andrew C.
+   Valeriano, Charles Daniell B.
+TI STREET-BASED CORRUPTION IN THE PHILIPPINES: EXPLORING KOTONG FRAME
+   ALIGNMENTS BETWEEN ENFORCERS AND MOTORISTS IN A CITY IN METRO MANILA
+SO INTERNATIONAL JOURNAL OF ASIA PACIFIC STUDIES
+DT Article
+DE Frame alignments; kotong; kotongan; street-based corruption; corruption
+   in the Philippines
+ID SOCIAL-MOVEMENTS; INSTITUTIONS; DEMOCRACIES
+PY 2017
+VL 13
+IS 2
+BP 93
+EP 113
+DI 10.21315/ijaps2017.13.2.5
+WC Social Sciences, Interdisciplinary
+SC Social Sciences - Other Topics
+ER
+
+PT J
+AU Brooks, E
+   Ebert, K
+   Flockhart, T
+AF Brooks, Erinn
+   Ebert, Kim
+   Flockhart, Tyler
+TI Examining the Reach of Color Blindness: Ideological Flexibility, Frame
+   Alignment, and Legitimacy among Racially Conservative and Extremist
+   Organizations
+SO SOCIOLOGICAL QUARTERLY
+DT Article
+DE Collective behavior and social movements; political sociology; racial
+   and ethnic minorities
+ID SOCIAL-MOVEMENTS; STIGMA TRANSFORMATION; OFFICIAL FRAMES; MEDIA;
+   CONSTRUCTION; 20TH-CENTURY; EVOLUTION; DISCOURSE; POLITICS; CLAIMS
+PY 2017
+VL 58
+IS 2
+BP 254
+EP 276
+DI 10.1080/00380253.2017.1296340
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Browne, J
+   de Leeuw, E
+   Gleeson, D
+   Adams, K
+   Atkinson, P
+   Hayes, R
+AF Browne, Jennifer
+   de Leeuw, Evelyne
+   Gleeson, Deborah
+   Adams, Karen
+   Atkinson, Petah
+   Hayes, Rick
+TI A network approach to policy framing: A case study of the National
+   Aboriginal and Torres Strait Islander Health Plan
+SO SOCIAL SCIENCE & MEDICINE
+DT Article
+DE Aboriginal health; Indigenous health; Health policy; Australia;
+   Networks; Policy analysis; Frame analysis; Network analysis
+ID SOCIAL-MOVEMENTS; AUSTRALIA; COLLABORATION; PEOPLES; OBESITY; CANADA;
+   GAP
+PD JAN
+PY 2017
+VL 172
+BP 10
+EP 18
+DI 10.1016/j.socscimed.2016.11.011
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+ER
+
+PT B
+AU Cunha, C
+   Salgado, J
+AF Cunha, Carla
+   Salgado, Joao
+BE Han, M
+   Cunha, C
+TI SOCIAL FRAMES AND THE DIALOGICAL SELF A Dynamic Account of Subjectivity
+   Within a Subjectified World
+SO SUBJECTIFIED AND SUBJECTIFYING MIND
+SE Advances in Cultural Psychology-Constructing Human Development
+DT Article; Book Chapter
+ID PSYCHOLOGY; PSYCHE
+PY 2017
+BP 69
+EP 84
+WC Psychology, Social
+SC Psychology
+ER
+
+PT J
+AU Daellenbach, K
+   Parkinson, J
+AF Daellenbach, Kate
+   Parkinson, Joy
+TI A useful shift in our perspective: integrating social movement framing
+   into social marketing
+SO JOURNAL OF SOCIAL MARKETING
+DT Article
+DE Obesity; Message framing; Social movements; Framing; Collective action
+   frames; Disaster preparation
+ID SELF-EFFICACY; PROTECTION MOTIVATION; COMMUNITY RESILIENCE; OBESITY
+   PREVENTION; ATTITUDE-CHANGE; FEAR APPEALS; PREPAREDNESS; FRAMEWORK;
+   HEALTH; HAZARD
+PY 2017
+VL 7
+IS 2
+SI SI
+BP 188
+EP 204
+DI 10.1108/JSOCM-04-2016-0013
+WC Business
+SC Business & Economics
+ER
+
+PT B
+AU Gerschick, TJ
+   Stevens, JD
+AF Gerschick, Thomas J.
+   Stevens, J. Dalton
+BE Green, SE
+   Barnartt, SN
+TI INVISIBILITY, VISIBILITY, VILIFICATION, AND NEAR SILENCE: THE FRAMING OF
+   DISABILITY IN THE EARLY YEARS OF THE AMERICAN SOCIOLOGICAL SOCIETY
+SO SOCIOLOGY LOOKING AT DISABILITY: WHAT DID WE KNOW AND WHEN DID WE KNOW
+   IT
+SE Research in Social Science and Disability
+DT Article; Book Chapter
+DE Disability; history; American sociological association; defective;
+   eugenics
+ID MISSING FEMINIST REVOLUTION; UNITED-STATES; FAMILY; LANGUAGE; LIFE
+PY 2017
+VL 9
+BP 1
+EP 27
+DI 10.1108/S1479-354720160000009003
+WC Rehabilitation; Social Sciences, Interdisciplinary; Sociology
+SC Rehabilitation; Social Sciences - Other Topics; Sociology
+ER
+
+PT B
+AU Howard, A
+AF Howard, Ashley
+BE Steiner, L
+   Waisbord, S
+TI Linked Fates Social Media as a Framing, Tactical and Witnessing Tool in
+   the Black Lives Matter Movement
+SO NEWS OF BALTIMORE: RACE, RAGE AND THE CITY
+SE Routledge Research in Journalism
+DT Article; Book Chapter
+ID TWITTER
+PY 2017
+BP 120
+EP 138
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Hrubes, M
+   Navratil, J
+AF Hrubes, Milan
+   Navratil, Jiri
+TI Constructing a Political Enemy: Anti-Communist Framing in the Czech
+   Republic Between 1990 and 2010
+SO INTERSECTIONS-EAST EUROPEAN JOURNAL OF SOCIETY AND POLITICS
+DT Article
+DE Anti-communism; Post-communism; Framing; Political Claims; Czech
+   Republic
+PY 2017
+VL 3
+IS 3
+BP 41
+EP 62
+DI 10.17356/ieejsp.v3i3.347
+WC Political Science
+SC Government & Law
+ER
+
+PT J
+AU Kessler, SH
+   Guenther, L
+AF Kessler, Sabrina Heike
+   Guenther, Lars
+TI Eyes on the frame Explaining people's online searching behavior in
+   response to TV consumption
+SO INTERNET RESEARCH
+DT Article
+DE Eye tracking; Information search; Cross-media strategy; Framing effects;
+   Multichannel information; Online behaviour
+ID ALZHEIMERS-DISEASE; HEALTH INFORMATION; MEDIA FRAMES; COVERAGE; NEWS;
+   TRACKING; SEEKING; TELEVISION; STRATEGIES; SCIENCE
+PY 2017
+VL 27
+IS 2
+BP 303
+EP 320
+DI 10.1108/IntR-01-2016-0015
+WC Business; Computer Science, Information Systems; Telecommunications
+SC Business & Economics; Computer Science; Telecommunications
+ER
+
+PT J
+AU Ketelaars, P
+   Walgrave, S
+   Wouters, R
+AF Ketelaars, Pauline
+   Walgrave, Stefaan
+   Wouters, Ruud
+TI Protesters on message? Explaining demonstrators' differential degrees of
+   frame alignment
+SO SOCIAL MOVEMENT STUDIES
+DT Article
+DE Frame alignment; street demonstrations; protest surveys; Western Europe;
+   quantitative research
+ID PUBLIC-OPINION; MOVEMENT; RIGHTS; ISSUE
+PY 2017
+VL 16
+IS 3
+BP 340
+EP 354
+DI 10.1080/14742837.2017.1280387
+WC Political Science; Sociology
+SC Government & Law; Sociology
+ER
+
+PT J
+AU Kim, CJ
+AF Kim, Claudia J.
+TI War over framing: base politics in South Korea
+SO PACIFIC REVIEW
+DT Article
+DE Base politics; anti-base movements; media; political opportunities;
+   South Korea; US alliances
+ID FOREIGN-POLICY; PUBLIC-OPINION; SOCIAL-MOVEMENTS; MEDIA; COVERAGE
+PY 2017
+VL 30
+IS 3
+BP 309
+EP 327
+DI 10.1080/09512748.2016.1239127
+WC Area Studies; International Relations
+SC Area Studies; International Relations
+ER
+
+PT J
+AU Kovchak, V
+AF Kovchak, Volodymyr
+TI Embodiment of the Interpretant in a Sign: Reconsider the Concept of a
+   Sign as a Factor of Social Construction in the Frame of Embodied and
+   Disembodied Mind
+SO STUDIA WARMINSKIE
+DT Article
+DE perception; concept; construction of social reality; interpretant; mind;
+   conceptualization
+PY 2017
+IS 54
+BP 79
+EP 91
+WC Humanities, Multidisciplinary
+SC Arts & Humanities - Other Topics
+ER
+
+PT J
+AU Lentin, A
+   Humphry, J
+AF Lentin, Alana
+   Humphry, Justine
+TI Antiracism apps: framing understandings and approaches to antiracism
+   education and intervention
+SO INFORMATION COMMUNICATION & SOCIETY
+DT Article
+DE Media studies; mobile technology; social movements; antiracism; racism;
+   race
+PY 2017
+VL 20
+IS 10
+BP 1539
+EP 1553
+DI 10.1080/1369118X.2016.1240824
+WC Communication; Sociology
+SC Communication; Sociology
+ER
+
+PT J
+AU Ma, MLY
+AF Ma, Miranda L. Y.
+TI Affective Framing and Dramaturgical Actions in Social Movements
+SO JOURNAL OF COMMUNICATION INQUIRY
+DT Article
+DE social movement; mobilization; affective framing; dramaturgical action;
+   framing
+PD JAN
+PY 2017
+VL 41
+IS 1
+BP 5
+EP 21
+DI 10.1177/0196859916667457
+WC Communication
+SC Communication
+ER
+
+PT B
+AU Meraz, S
+AF Meraz, Sharon
+BE Telleria, AS
+TI Hashtag Wars and Networked Framing The Private/Public Networked Protest
+   Repertoires of Occupy on Twitter
+SO BETWEEN THE PUBLIC AND PRIVATE IN MOBILE COMMUNICATION
+SE Routledge Studies in New Media and Cyberculture
+DT Article; Book Chapter
+ID AGENDA-SETTING INFLUENCE; TRADITIONAL MEDIA; SOCIAL MEDIA; SEMANTIC
+   NETWORKS; MOBILE PHONES; NEWS; MOVEMENT
+PY 2017
+BP 303
+EP 323
+D2 10.4324/9781315399300
+WC Cultural Studies; Communication; Social Sciences, Interdisciplinary
+SC Cultural Studies; Communication; Social Sciences - Other Topics
+ER
+
+PT J
+AU Nefes, TS
+AF Nefes, Turkay Salim
+TI The impacts of the Turkish government's conspiratorial framing of the
+   Gezi Park protests
+SO SOCIAL MOVEMENT STUDIES
+DT Article
+DE Conspiracy theories; frames; Gezi Park protests; political
+   communication; Turkey
+ID SOCIAL-MOVEMENTS; RELIABILITY; PARANOIA; ANATOMY; SQUARE; TURKEY
+PY 2017
+VL 16
+IS 5
+BP 610
+EP 622
+DI 10.1080/14742837.2017.1319269
+WC Political Science; Sociology
+SC Government & Law; Sociology
+ER
+
+PT J
+AU Nulman, E
+AF Nulman, Eugene
+TI Neo-imperialism in solidarity organisations' public discourses:
+   collective action frames, resources and audiences
+SO THIRD WORLD QUARTERLY
+DT Article
+DE Social movement organisations; neo-imperialism; framing; climate
+   justice; debt relief; refugee solidarity
+ID SOCIAL-MOVEMENTS; CITIZENSHIP; US
+PY 2017
+VL 38
+IS 11
+BP 2464
+EP 2481
+DI 10.1080/01436597.2017.1368011
+WC Development Studies
+SC Development Studies
+ER
+
+PT J
+AU Salazar, CP
+   Garcia, FB
+AF Pereira Salazar, Claudio
+   Bernete Garcia, Francisco
+TI Communication and Collective Action Frames in Global Ecovillage Network
+SO MEDIACIONES SOCIALES
+DT Article
+DE communication; social change; social movements; collective action
+   frames; ecovillage
+PY 2017
+IS 16
+BP 11
+EP 26
+DI 10.5209/MESO.58106
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Prause, L
+   Wienkoop, NK
+AF Prause, Louisa
+   Wienkoop, Nina-Kathrin
+TI WHO IS RESPONSIBLE FOR CORRUPTION? Framing strategies of social
+   movements in West Africa mobilizing against presidential term amendments
+SO PARTECIPAZIONE E CONFLITTO
+DT Article
+DE Citizenship; corruption; presidential term limit; social movements; West
+   Africa
+ID COLLECTIVE ACTION; PROTEST
+PY 2017
+VL 10
+IS 3
+SI SI
+BP 850
+EP 873
+DI 10.1285/i20356609v10i3p850
+WC Political Science
+SC Government & Law
+ER
+
+PT J
+AU Ravazzani, S
+   Maier, CD
+AF Ravazzani, Silvia
+   Maier, Carmen Daniela
+TI Strategic organizational discourse and framing in hypermodal spaces
+SO CORPORATE COMMUNICATIONS
+DT Article
+DE Facebook; Critical discourse analysis; Hypermodality; Issue framing;
+   Social media sub-arenas; Strategic organizational discourse
+ID FACEBOOK; COMMUNICATION; ARENAS; LEGITIMATION; PERSPECTIVE; MANAGEMENT;
+   MOVEMENTS; CRISIS
+PY 2017
+VL 22
+IS 4
+BP 507
+EP 522
+DI 10.1108/CCIJ-06-2017-0063
+WC Business
+SC Business & Economics
+ER
+
+PT J
+AU Ravazzani, S
+   Maier, CD
+AF Ravazzani, Silvia
+   Maier, Carmen Daniela
+TI Framing of issues across actors: exploring competing discourses in
+   digital arenas
+SO JOURNAL OF COMMUNICATION MANAGEMENT
+DT Article
+DE Digital media; Strategic communication; Issues management; Framing
+ID LEGITIMATION STRATEGIES; DISCURSIVE PERSPECTIVE; SOCIAL-MOVEMENTS; POWER
+PY 2017
+VL 21
+IS 2
+BP 186
+EP 200
+DI 10.1108/JCOM-07-2016-0050
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Shahi, M
+   Talebinejad, MR
+AF Shahi, Mohammad
+   Talebinejad, Mohammad Reza
+TI The ideological role of selective translation in reconfiguration of news
+   frames
+SO FORUM-REVUE INTERNATIONALE D INTERPRETATION ET DE
+   TRADUCTION-INTERNATIONAL JOURNAL OF INTERPRETATION AND TRANSLATION
+DT Article
+DE selective translation; frame theory; manipulation; argumentative
+   discourse analysis; ideology
+ID UNITED-STATES; NARRATIVES; POWER
+PY 2017
+VL 15
+IS 1
+BP 85
+EP 105
+DI 10.1075/forum.15.1.05sha
+WC Language & Linguistics
+SC Linguistics
+ER
+
+PT J
+AU Siles-Brugge, G
+AF Siles-Brugge, Gabriel
+TI Transatlantic investor protection as a threat to democracy: the potency
+   and limits of an emotive frame
+SO CAMBRIDGE REVIEW OF INTERNATIONAL AFFAIRS
+DT Article; Proceedings Paper
+ID SOCIAL-MOVEMENTS; DISCURSIVE INSTITUTIONALISM; TRADE POLITICS;
+   EUROPEAN-UNION; GAME-CHANGER; IDEAS; POWER; EU; POLICY; TTIP
+PY 2017
+VL 30
+IS 5-6
+SI SI
+BP 464
+EP 488
+DI 10.1080/09557571.2018.1461805
+WC International Relations; Political Science
+SC International Relations; Government & Law
+ER
+
+PT J
+AU Surzhko-Harned, L
+   Zahuranec, AJ
+AF Surzhko-Harned, Lena
+   Zahuranec, Andrew J.
+TI Framing the revolution: the role of social media in Ukraine's Euromaidan
+   movement
+SO NATIONALITIES PAPERS-THE JOURNAL OF NATIONALISM AND ETHNICITY
+DT Article
+DE social media; Euromaidan; Ukraine; issue framing; social movements
+ID POLITICAL-CHANGE; INSTITUTIONS; TRUST; CORRUPTION; CITIZENS; IMPACT
+PY 2017
+VL 45
+IS 5
+BP 758
+EP 779
+DI 10.1080/00905992.2017.1289162
+WC Area Studies; Ethnic Studies; History; Political Science
+SC Area Studies; Ethnic Studies; History; Government & Law
+ER
+
+PT J
+AU Sanz, AT
+AF Tarin Sanz, Adrian
+TI The Ethnic Russian as an Enemy of Islam: Frame Analysis of the Kavkaz
+   Center News Agency (2001-2004)
+SO CIVIL WARS
+DT Article
+ID SOCIAL-MOVEMENTS; AL QAEDA; INTERNET; INSURGENCY; TERRORISM; IDENTITY;
+   CHECHNYA; MEDIA; ONLINE; WAR
+PY 2017
+VL 19
+IS 4
+BP 495
+EP 516
+DI 10.1080/13698249.2017.1396112
+WC Political Science
+SC Government & Law
+ER
+
+PT J
+AU Thomas, R
+   Turnbull, P
+AF Thomas, Richard
+   Turnbull, Peter
+TI Talking up a storm? Using language to activate adherents and demobilize
+   detractors of European Commission policy frames
+SO JOURNAL OF EUROPEAN PUBLIC POLICY
+DT Article
+DE Critical discourse analysis; European Commission strategies; EU
+   policy-making; liberalization of port transport; rhetorical framing
+ID DISCOURSE; INTEGRATION; GLOBALIZATION; STRATEGY; AGENCY
+PY 2017
+VL 24
+IS 7
+BP 931
+EP 950
+DI 10.1080/13501763.2016.1162831
+WC Political Science; Public Administration
+SC Government & Law; Public Administration
+ER
+
+PT J
+AU Wascher, T
+AF Waescher, Till
+TI FRAMING RESISTANCE AGAINST SURVEILLANCE Political communication of
+   privacy advocacy groups in the "Stop Watching Us" and "The Day We Fight
+   Back" campaigns
+SO DIGITAL JOURNALISM
+DT Article
+DE anti-surveillance protest; political communication; privacy activism;
+   Snowden leaks; social movement framing; transnational advocacy
+ID SOCIAL-MOVEMENTS; POWER
+PY 2017
+VL 5
+IS 3
+SI SI
+BP 368
+EP 385
+DI 10.1080/21670811.2016.1254052
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Wlodarczyk, A
+   Basabe, N
+   Paez, D
+   Zumeta, L
+AF Wlodarczyk, Anna
+   Basabe, Nekane
+   Paez, Dario
+   Zumeta, Larraitz
+TI Hope and Anger as Mediators Between Collective Action Frames and
+   Participation in Collective Mobilization: The Case of 15-M
+SO JOURNAL OF SOCIAL AND POLITICAL PSYCHOLOGY
+DT Article
+DE collective action; social identity; collective efficacy; emotions; hope;
+   anger; protest
+PY 2017
+VL 5
+IS 1
+BP 200
+EP 223
+DI 10.5964/jspp.v5i1.471
+WC Psychology, Social
+SC Psychology
+ER
+
+PT J
+AU Huang, RG
+   Sun, XY
+AF Huang, Ronggui
+   Sun, Xiaoyi
+TI Dynamic preference revelation and expression of personal frames: how
+   Weibo is used in an anti-nuclear protest in China
+SO CHINESE JOURNAL OF COMMUNICATION
+DT Article
+DE preference revelation; personal frames; Weibo; protest; China
+ID COLLECTIVE-ACTION; SOCIAL-MOVEMENTS; PUBLIC-PARTICIPATION; MEDIA;
+   TECHNOLOGY; INTERNET; MOBILIZATION; INFORMATION; BLOGOSPHERE; BLOGS
+PD DEC
+PY 2016
+VL 9
+IS 4
+BP 385
+EP 402
+DI 10.1080/17544750.2016.1206030
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Jutbring, H
+AF Jutbring, Henrik
+TI Festivals framed as unequal: piggybacking events to advance gender
+   equality
+SO ANNALS OF LEISURE RESEARCH
+DT Article
+DE Communication; piggybacking; advocacy; framing theory; gender equality;
+   publicity; social leverage
+ID TRANSNATIONAL ADVOCACY NETWORKS; SOCIAL-MOVEMENTS; PUBLIC-OPINION; MEDIA
+   COVERAGE; CHAMPIONSHIPS; POLITICS; AGENDA; GAMES; ISSUE
+PD DEC
+PY 2016
+VL 19
+IS 4
+SI SI
+BP 519
+EP 537
+DI 10.1080/11745398.2016.1175953
+WC Hospitality, Leisure, Sport & Tourism
+SC Social Sciences - Other Topics
+ER
+
+PT J
+AU Small, IV
+AF Small, Ivan V.
+TI Framing and Encompassing Movement Transportation, Migration, and Social
+   Mobility in Vietnam
+SO MOBILITY IN HISTORY
+DT Article
+ID EVERYDAY TECHNOLOGY; WORKERS
+PD WIN
+PY 2016
+VL 7
+IS 1
+BP 79
+EP 89
+DI 10.3167/mih.2016.070109
+WC History
+SC History
+ER
+
+PT J
+AU Asara, V
+AF Asara, Viviana
+TI The Indignados as a Socio-Environmental Movement: Framing the Crisis and
+   Democracy
+SO ENVIRONMENTAL POLICY AND GOVERNANCE
+DT Article
+DE 15 M; collective identity; degrowth; democracy; frame analysis;
+   Indignados; New Social Movement; Occupy
+ID GLOBAL ENVIRONMENTALISM; OBJECTIVE PROBLEMS; SUBJECTIVE VALUES;
+   POLITICS; DEMONSTRATIONS; EXPLANATION; CHALLENGE; CULTURE; JUSTICE; POOR
+PD NOV-DEC
+PY 2016
+VL 26
+IS 6
+BP 527
+EP 542
+DI 10.1002/eet.1721
+WC Environmental Studies
+SC Environmental Sciences & Ecology
+ER
+
+PT J
+AU Garcia-Del Moral, P
+AF Garcia-Del Moral, Paulina
+TI Transforming feminicidio: Framing, institutionalization and social
+   change
+SO CURRENT SOCIOLOGY
+DT Article
+DE Criminalization; femicide; feminicidio; feminist activism; frame
+   resonance and radicalism; human rights; Mexico; social change;
+   transnational advocacy
+ID WOMENS RIGHTS; MOVEMENT; MEXICO
+PD NOV
+PY 2016
+VL 64
+IS 7
+SI SI
+BP 1017
+EP 1035
+DI 10.1177/0011392115618731
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Bail, CA
+AF Bail, Christopher A.
+TI Cultural carrying capacity: Organ donation advocacy, discursive framing,
+   and social media engagement
+SO SOCIAL SCIENCE & MEDICINE
+DT Article
+DE Advocacy groups; Health communication; Social media; Content analysis;
+   Computational social science; Evolutionary theory; Discursive framing
+ID POTENTIAL INTERRELATION; HUMAN-SCIENCES; TOPIC MODELS; MOVEMENTS;
+   HEALTH; COMMUNICATION; ORGANIZATIONS; MOBILIZATION; DISCOURSE
+PD SEP
+PY 2016
+VL 165
+BP 280
+EP 288
+DI 10.1016/j.socscimed.2016.01.049
+WC Public, Environmental & Occupational Health; Social Sciences, Biomedical
+SC Public, Environmental & Occupational Health; Biomedical Social Sciences
+ER
+
+PT J
+AU Hoyle, JA
+AF Hoyle, Justin A.
+TI A Matter of Framing: Explaining the Failure of Post-Islamist Social
+   Movements in the Arab Spring
+SO DIGEST OF MIDDLE EAST STUDIES
+DT Article
+ID MIDDLE-EAST
+PD FAL
+PY 2016
+VL 25
+IS 2
+BP 186
+EP 209
+DI 10.1111/dome.12089
+WC Area Studies
+SC Area Studies
+ER
+
+PT J
+AU Ketelaars, P
+AF Ketelaars, Pauline
+TI WHAT STRIKES THE RESPONSIVE CHORD? THE EFFECTS OF FRAMING QUALITIES ON
+   FRAME RESONANCE AMONG PROTEST PARTICIPANTS
+SO MOBILIZATION
+DT Article
+ID COLLECTIVE ACTION FRAMES; SOCIAL-MOVEMENTS; MOBILIZATION; ISSUE; STATE;
+   BIAS
+PD SEP
+PY 2016
+VL 21
+IS 3
+BP 341
+EP 360
+DI 10.17813/1086-671X-21-3-341
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Taylor, M
+   Gunby, K
+AF Taylor, Malaena
+   Gunby, Kate
+TI Moving Beyond the Sound Bite: Complicating the Relationship Between
+   Negative Television News Framing and In-Depth Reporting on Activism
+SO SOCIOLOGICAL FORUM
+DT Article
+DE framing; global justice; mass media; social movements; tea party;
+   television news
+ID PUBLIC-OPINION; MEDIA COVERAGE; TEA-PARTY; PROTEST PARADIGM; MOVEMENT;
+   ORGANIZATIONS; STRATEGIES; SUPPORT; EVENTS; CIRCLE
+PD SEP
+PY 2016
+VL 31
+IS 3
+BP 577
+EP 598
+DI 10.1111/socf.12264
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Himick, D
+   Audousset-Coulier, S
+AF Himick, Darlene
+   Audousset-Coulier, Sophie
+TI Responsible Investing of Pension Assets: Links between Framing and
+   Practices for Evaluation
+SO JOURNAL OF BUSINESS ETHICS
+DT Article
+DE Framing; Pension funds; Responsible investing; Investment monitoring
+ID LOSS AVERSION; MANAGEMENT; FUNDS; PERFORMANCE; INVESTMENT; MOVEMENT
+PD JUL
+PY 2016
+VL 136
+IS 3
+BP 539
+EP 556
+DI 10.1007/s10551-014-2530-z
+WC Business; Ethics
+SC Business & Economics; Social Sciences - Other Topics
+ER
+
+PT J
+AU Koon, AD
+   Hawkins, B
+   Mayhew, SH
+AF Koon, Adam D.
+   Hawkins, Benjamin
+   Mayhew, Susannah H.
+TI Framing and the health policy process: a scoping review
+SO HEALTH POLICY AND PLANNING
+DT Review
+DE Frames; ideas; health policy; policy process; scoping review
+ID PUBLIC-HEALTH; GLOBAL HEALTH; UNITED-STATES; SOCIAL-MOVEMENTS; CARE
+   SERVICES; CANCER; DECISION; MESSAGE; DEBATE; CANADA
+PD JUL
+PY 2016
+VL 31
+IS 6
+BP 801
+EP 816
+DI 10.1093/heapol/czv128
+WC Health Care Sciences & Services; Health Policy & Services
+SC Health Care Sciences & Services
+ER
+
+PT J
+AU Melo, DF
+AF Melo, Daniela F.
+TI Women's mobilisation in the Portuguese revolution: context and framing
+   strategies
+SO SOCIAL MOVEMENT STUDIES
+DT Article
+DE Women's movements; Portugal; revolution; feminism; frames
+ID SOCIAL-MOVEMENTS; TRANSITION; STATE
+PD JUL
+PY 2016
+VL 15
+IS 4
+BP 403
+EP 416
+DI 10.1080/14742837.2016.1149460
+WC Political Science; Sociology
+SC Government & Law; Sociology
+ER
+
+PT J
+AU Park, MS
+   Kleinschmit, D
+AF Park, Mi Sun
+   Kleinschmit, Daniela
+TI Framing forest conservation in the global media: An interest-based
+   approach
+SO FOREST POLICY AND ECONOMICS
+DT Article
+DE Forest conservation; Media; Framing; Forest policy; Communication
+ID SOCIAL-MOVEMENTS; POLITICS; IMPACT
+PD JUL
+PY 2016
+VL 68
+SI SI
+BP 7
+EP 15
+DI 10.1016/j.forpol.2016.03.010
+WC Economics; Environmental Studies; Forestry
+SC Business & Economics; Environmental Sciences & Ecology; Forestry
+ER
+
+PT J
+AU Bloemraad, I
+   Silva, F
+   Voss, K
+AF Bloemraad, Irene
+   Silva, Fabiana
+   Voss, Kim
+TI Rights, Economics, or Family? Frame Resonance, Political Ideology, and
+   the Immigrant Rights Movement
+SO SOCIAL FORCES
+DT Article
+ID PUBLIC-OPINION; SOCIAL-MOVEMENTS; ATTITUDES; SUPPORT; CITIZENSHIP;
+   EUROPE; IMPACT
+PD JUN
+PY 2016
+VL 94
+IS 4
+BP 1647
+EP 1674
+DI 10.1093/sf/sov123
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Chesters, G
+AF Chesters, Graeme
+TI Social unionism and the framing of 'fairness' in the Wisconsin uprising
+SO LOCAL ECONOMY
+DT Article
+DE fairness; social movement; unions; Wisconsin; uprising
+PD JUN
+PY 2016
+VL 31
+IS 4
+SI SI
+BP 450
+EP 465
+DI 10.1177/0269094216646995
+WC Economics
+SC Business & Economics
+ER
+
+PT J
+AU Haltinner, K
+AF Haltinner, Kristin
+TI Individual Responsibility, Culture, or State Organized Enslavement? How
+   Tea Party Activists Frame Racial Inequality
+SO SOCIOLOGICAL PERSPECTIVES
+DT Article
+DE Tea Party; social movements; racial frames; right-wing ideology
+ID MOVEMENT; POVERTY
+PD JUN
+PY 2016
+VL 59
+IS 2
+BP 395
+EP 418
+DI 10.1177/0731121415593275
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Meyer, MA
+   Cross, JE
+   Byrne, ZS
+AF Meyer, Michelle Annette
+   Cross, Jennifer E.
+   Byrne, Zinta S.
+TI Frame Decoupling for Organizational Change: Building Support Across
+   Divergent Stakeholders
+SO ORGANIZATION & ENVIRONMENT
+DT Article
+DE green building; organizational sustainability; framing; frame alignment;
+   environmental movement; sensemaking; sensegiving; green schools; framing
+   contests
+ID CLIMATE-CHANGE; CONSERVATION CULTURE; SOCIAL-MOVEMENTS; STRATEGIC
+   CHANGE; ENERGY; SCHOOL; SUSTAINABILITY; MANAGERIAL; SENSEMAKING;
+   ENVIRONMENT
+PD JUN
+PY 2016
+VL 29
+IS 2
+BP 231
+EP 251
+DI 10.1177/1086026615623587
+WC Environmental Studies; Management
+SC Environmental Sciences & Ecology; Business & Economics
+ER
+
+PT J
+AU Markowitz, LP
+   Peshkova, V
+AF Markowitz, Lawrence P.
+   Peshkova, Vera
+TI Anti-immigrant mobilization in Russia's regions: local movements and
+   framing processes
+SO POST-SOVIET AFFAIRS
+DT Article
+DE social movements; immigration; framing; migrants; mobilization
+ID EXTREME-RIGHT; RADICAL RIGHT; ETHNIC DISCRIMINATION; IDENTITY; POLITICS;
+   PARTIES; POLICY
+PD MAY 3
+PY 2016
+VL 32
+IS 3
+BP 272
+EP 298
+DI 10.1080/1060586X.2015.1035526
+WC Area Studies; Economics; Political Science
+SC Area Studies; Business & Economics; Government & Law
+ER
+
+PT J
+AU Choudhry, S
+AF Choudhry, Shazia
+TI Towards a Transformative Conceptualisation of Violence Against Women - A
+   Critical Frame Analysis of Council of Europe Discourse on Violence
+   Against Women
+SO MODERN LAW REVIEW
+DT Article
+ID HUMAN-RIGHTS; STATES
+PD MAY
+PY 2016
+VL 79
+IS 3
+BP 406
+EP 441
+DI 10.1111/1468-2230.12190
+WC Law
+SC Government & Law
+ER
+
+PT J
+AU Goh, D
+   Pang, N
+AF Goh, Debbie
+   Pang, Natalie
+TI Protesting the Singapore government: The role of collective action
+   frames in social media mobilization
+SO TELEMATICS AND INFORMATICS
+DT Article
+DE Protest; Framing; Collective action; Social media
+ID DIGITAL MEDIA; MOVEMENTS; ORGANIZATION
+PD MAY
+PY 2016
+VL 33
+IS 2
+BP 525
+EP 533
+DI 10.1016/j.tele.2015.07.008
+WC Information Science & Library Science
+SC Information Science & Library Science
+ER
+
+PT J
+AU Reinecke, J
+   Ansari, S
+AF Reinecke, Juliane
+   Ansari, Shaz
+TI Taming Wicked Problems: The Role of Framing in the Construction of
+   Corporate Social Responsibility
+SO JOURNAL OF MANAGEMENT STUDIES
+DT Article
+DE conflict minerals; Congo; frames; human rights; political CSR; private
+   regulation; social movements; transnational governance
+ID ANTI-BIOTECH MOVEMENT; INSTITUTIONAL CHANGE; ORGANIZATIONS; LEGITIMACY;
+   DYNAMICS; LABOR; ACCOUNTABILITY; CITIZENSHIP; CHALLENGES; STRATEGIES
+PD MAY
+PY 2016
+VL 53
+IS 3
+SI SI
+BP 299
+EP 329
+DI 10.1111/joms.12137
+WC Business; Management
+SC Business & Economics
+ER
+
+PT J
+AU Cmeciu, C
+   Coman, C
+AF Cmeciu, Camelia
+   Coman, Cristina
+TI Digital Civic Activism in Romania: Framing anti-Chevron Online Protest
+   Community "Faces"
+SO COMUNICAR
+DT Article
+DE Online protest; framing; collective action frames; framing devices; land
+   struggle; conflict; solidarity
+ID COLLECTIVE ACTION; SOCIAL-MOVEMENTS
+PD APR 1
+PY 2016
+VL 24
+IS 47
+BP 19
+EP 28
+DI 10.3916/C47-2016-02
+WC Communication; Education & Educational Research
+SC Communication; Education & Educational Research
+ER
+
+PT J
+AU Trumpy, AJ
+AF Trumpy, Alexa J.
+TI 'I Hate It, But It Still Sounds Good': Collective Identity and the
+   Evaluation of Oppositional Frame Resonance
+SO SOCIAL MOVEMENT STUDIES
+DT Article
+DE abortion; focus group; framing; Social movement; collective identity
+ID MOVEMENT ORGANIZATIONS; RESOURCES; PROLIFE
+PD MAR 3
+PY 2016
+VL 15
+IS 2
+BP 164
+EP 179
+DI 10.1080/14742837.2015.1060157
+WC Political Science; Sociology
+SC Government & Law; Sociology
+ER
+
+PT J
+AU Williams, SJ
+AF Williams, Stacy J.
+TI Hiding Spinach in the Brownies: Frame Alignment in Suffrage Community
+   Cookbooks, 1886-1916
+SO SOCIAL MOVEMENT STUDIES
+DT Article
+DE genre; community cookbooks; frame extension; frame amplification;
+   women's suffrage; gender; Resonant and radical frames
+ID SOCIAL-MOVEMENTS; UNITED-STATES; LABOR PROBLEM; FABRICATION; WEST; ART
+PD MAR 3
+PY 2016
+VL 15
+IS 2
+BP 146
+EP 163
+DI 10.1080/14742837.2015.1027764
+WC Political Science; Sociology
+SC Government & Law; Sociology
+ER
+
+PT J
+AU Hon, L
+AF Hon, Linda
+TI Social media framing within the Million Hoodies movement for justice
+SO PUBLIC RELATIONS REVIEW
+DT Article
+ID ADVOCACY
+PD MAR
+PY 2016
+VL 42
+IS 1
+BP 9
+EP 19
+DI 10.1016/j.pubrev.2015.11.013
+WC Business; Communication
+SC Business & Economics; Communication
+ER
+
+PT J
+AU Jonson, H
+AF Jonson, Hakan
+TI Framing scandalous nursing home care: what is the problem?
+SO AGEING & SOCIETY
+DT Article
+DE ageism; elder abuse; frame analysis; long-term care; media scandals;
+   social movements
+ID DISABILITY; AGEISM; RIGHTS; ABUSE
+PD FEB
+PY 2016
+VL 36
+IS 2
+BP 400
+EP 419
+DI 10.1017/S0144686X14001287
+WC Gerontology
+SC Geriatrics & Gerontology
+ER
+
+PT J
+AU Canella, G
+AF Canella, Gino
+TI CAP! Comcast: The Framing and Distribution Strategies of Policy
+   Advocates Within Networked Communications
+SO INTERNATIONAL JOURNAL OF COMMUNICATION
+DT Article
+DE media policy; framing; social movements; social media; networked
+   communications; net neutrality
+ID MEDIA; MOVEMENTS; POWER
+PY 2016
+VL 10
+BP 5889
+EP 5907
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Copeland, L
+   Hasell, A
+   Bimber, B
+AF Copeland, Lauren
+   Hasell, Ariel
+   Bimber, Bruce
+TI Collective Action Frames, Advocacy Organizations, and Protests Over
+   Same-Sex Marriage
+SO INTERNATIONAL JOURNAL OF COMMUNICATION
+DT Article
+DE collective action; social media; same-sex marriage; boycott; political
+   consumerism; Twitter
+ID POLITICAL CONSUMERISM; SOCIAL-MOVEMENTS; MEDIA; DYNAMICS; DECISION;
+   OPINION
+PY 2016
+VL 10
+BP 3785
+EP 3807
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Elena, M
+AF Elena, Martin
+TI Framing international media in the face of social movements: CNN and
+   Al-Jazeera English in the fall of Morsi
+SO COMMUNICATION & SOCIETY-SPAIN
+DT Article
+DE Arab spring; Egypt; framing; CNN; Al-Jazeera English; TV news;
+   journalism
+PY 2016
+VL 29
+IS 3
+BP 119
+EP 130
+DI 10.15581/003.29.3.119-130
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Fuller, S
+   McCauley, D
+AF Fuller, Sara
+   McCauley, Darren
+TI Framing energy justice: perspectives from activism and advocacy
+SO ENERGY RESEARCH & SOCIAL SCIENCE
+DT Article
+DE Energy justice; Activism; Framing; Social movement
+ID ENVIRONMENTAL-JUSTICE; CLIMATE JUSTICE; INJUSTICE; DISCOURSE; MOVEMENT;
+   POLITICS; POVERTY; SCALE; ORGANIZATIONS; STRATEGIES
+PD JAN
+PY 2016
+VL 11
+BP 1
+EP 8
+DI 10.1016/j.erss.2015.08.004
+WC Environmental Studies
+SC Environmental Sciences & Ecology
+ER
+
+PT S
+AU Gunestepe, K
+   Tuncalp, D
+AF Gunestepe, Kutay
+   Tuncalp, Deniz
+BE Pinheiro, R
+   Geschwind, L
+   Ramirez, FO
+   Vrangbaek, K
+TI VIVA SOLIDARITY!: FRAMING REPERTOIRE OF EMERGING SOCIAL MOVEMENTS
+   AGAINST INSTITUTIONAL CHANGE IN TWO TURKISH UNIVERSITIES
+SO TOWARDS A COMPARATIVE INSTITUTIONALISM: FORMS, DYNAMICS AND LOGICS
+   ACROSS THE ORGANIZATIONAL FIELDS OF HEALTH CARE AND HIGHER EDUCATION
+SE Research in the Sociology of Organizations
+DT Article; Book Chapter
+ID CONSTRUCTION; BOUNDARIES; POWER
+PY 2016
+VL 45
+BP 297
+EP 326
+D2 10.1108/S0733-558X201645
+WC Management; Sociology
+SC Business & Economics; Sociology
+ER
+
+PT J
+AU Hamilton, W
+AF Hamilton, William
+TI Framing Vision: An Examination of Framing, Sensegiving, and Sensemaking
+   During a Change Initiative
+SO COMMUNITY COLLEGE JOURNAL OF RESEARCH AND PRACTICE
+DT Article
+ID STRATEGIC CHANGE; MANAGERIAL; MOVEMENTS
+PY 2016
+VL 40
+IS 7
+SI SI
+BP 625
+EP 631
+DI 10.1080/10668926.2016.1138906
+WC Education & Educational Research
+SC Education & Educational Research
+ER
+
+PT J
+AU Haunss, S
+AF Haunss, Sebastian
+TI Public domain as a master frame?
+SO ETIKK I PRAKSIS
+DT Article; Proceedings Paper
+DE Intellectual Property Rights; Public Domain; Social Movements; Knowledge
+   Society; Discourse Analysis
+ID SOFTWARE PATENTS; EUROPE; US
+PY 2016
+VL 10
+IS 1
+BP 45
+EP 59
+DI 10.5324/eip.v10i1.1969
+WC Ethics; Philosophy
+SC Social Sciences - Other Topics; Philosophy
+ER
+
+PT J
+AU Lin, F
+   Zhao, DX
+AF Lin, Fen
+   Zhao, Dingxin
+TI Social Movements as a Dialogic Process: Framing, Background
+   Expectancies, and the Dynamics of the Anti-CNN Movement
+SO CHINESE SOCIOLOGICAL REVIEW
+DT Article
+ID INTERNATIONAL NEWS; MEDIA; CHINA; NARRATIVES; COVERAGE; FRAMES; IMPACT
+PY 2016
+VL 48
+IS 3
+BP 185
+EP 208
+DI 10.1080/21620555.2015.1096194
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Mesic, N
+AF Mesic, Nedzad
+TI Paradoxes of European free movement in times of austerity The role of
+   social movement actors in framing the plight of Roma berry pickers in
+   Sweden
+SO INTERNATIONAL JOURNAL OF SOCIOLOGY AND SOCIAL POLICY
+DT Article
+DE Sweden; Bulgaria; Frame analysis; Internal EU seasonal migrants; Roma
+   berry pickers; Social movement actors
+ID PARTICIPATION; RIGHTS; LABOR
+PY 2016
+VL 36
+IS 5-6
+BP 289
+EP 303
+DI 10.1108/IJSSP-05-2015-0057
+WC Sociology
+SC Sociology
+ER
+
+PT J
+AU Morales-Lopez, E
+AF Morales-Lopez, Esperanza
+TI Frame construction in post-15M discourses
+SO RES RHETORICA
+DT Article
+DE Discourse analysis; critical discourse analysis; constructivism;
+   constructivist rhetoric; complexity; argumentation; cognitive frame;
+   post-15M discourse
+PY 2016
+IS 1
+BP 49
+EP +
+WC Humanities, Multidisciplinary
+SC Arts & Humanities - Other Topics
+ER
+
+PT J
+AU Moscato, D
+AF Moscato, Derek
+TI Media Portrayals of Hashtag Activism: A Framing Analysis of Canada's
+   #Idlenomore Movement
+SO MEDIA AND COMMUNICATION
+DT Article
+DE media framing; online activism; social media
+ID SOCIAL MEDIA; PROTEST; POLITICS; COVERAGE; TWITTER; BIAS
+PY 2016
+VL 4
+IS 2
+BP 3
+EP 12
+DI 10.17645/mac.v4i2.416
+WC Communication
+SC Communication
+ER
+
+PT J
+AU Neria, L
+   Aspinwall, M
+AF Neria, Leticia
+   Aspinwall, Mark
+TI POPULAR COMICS AND AUTHORITARIAN INJUSTICE FRAMES IN MEXICO
+SO LATIN AMERICAN RESEARCH REVIEW
+DT Article
+PY 2016
+VL 51
+IS 1
+BP 22
+EP 42
+DI 10.1353/lar.2016.0007
+WC Area Studies
+SC Area Studies
+ER
+
+PT J
+AU Swank, E
+   Fahs, B
+AF Swank, Eric
+   Fahs, Breanne
+TI Gay rights activism: collection action frames, networks, and protesting
+   among gays, lesbians, and bisexuals
+SO JOURNAL OF CIVIL SOCIETY
+DT Article
+DE Activism; gays and lesbians; political participation; sexual
+   orientation; social identity; social movements; heterosexism
+ID UNITED-STATES; POLITICAL-PARTICIPATION; IDENTITY DEVELOPMENT;
+   PROBABILITY SAMPLE; MINORITY STRESS; SOCIAL NETWORKS; MOVEMENT;
+   EXPERIENCES; PREJUDICE; WOMENS
+PY 2016
+VL 12
+IS 4
+BP 430
+EP 447
+DI 10.1080/17448689.2016.1244983
+WC Political Science
+SC Government & Law
+ER
+
+PT B
+AU Tohamy, A
+AF Tohamy, Ahmed
+BA Tohamy, A
+BF Tohamy, A
+TI USING SOCIAL MOVEMENT THEORY TO ASSESS EGYPTIAN YOUTH ACTIVISM:
+   OPPORTUNITY, MOBILIZATION, STRATEGIES AND CULTURAL FRAMES
+SO YOUTH ACTIVISM IN EGYPT: ISLAMISM, POLITICAL PROTEST AND REVOLUTION
+SE Library of Modern Middle East Studies
+DT Article; Book Chapter
+PY 2016
+VL 156
+BP 219
+EP 252
+WC Political Science; Religion
+SC Government & Law; Religion
+ER
+
+EF

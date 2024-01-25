@@ -2,7 +2,7 @@
 # #!/usr/bin/env python
 
 # -*- coding: utf-8 -*-
-# Campos FN VR PT AU AF TI SO DT DE ID PD PY VL IS BP EP AR DI EA WC SC ER
+# Campos FN, VR, PT, AU, AF, TI, SO, DT, DE, ID, PD, PY, VL, IS, BP, EP, AR, DI, EA, WC, SC, ER
 __autor__ = "Ivar Bergelin"
 __version__ = "1.0"
 __maintainer__ = "Ivar Bergelin"
