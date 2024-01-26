@@ -1,25 +1,42 @@
 import os
 
+def procesar_cadena(cadena):
+    # Lista de preposiciones y artículos que queremos detectar y convertir a minúsculas
+    preposiciones_articulos = ['a', 'an', 'and', 'the', 'in', 'on', 'at', 'by', 'for', 'with', 'to', 'of']
+    cadena.capitalize()
+    # Dividir la cadena en palabras
+    palabras = cadena.split()
+
+    # Procesar cada palabra
+    resultado = []
+    for palabra in palabras:
+        # Convertir a minúsculas si es una preposición o artículo
+        if palabra.lower() in preposiciones_articulos:
+            resultado.append(palabra.lower())
+        else:
+            # Capitalizar la primera letra en caso contrario
+            resultado.append(palabra.capitalize())
+
+    # Unir las palabras procesadas en una cadena
+    resultado_cadena = ' '.join(resultado)
+
+    return resultado_cadena
+
 def procesar_archivo(nombre_archivo):
     datos_totales = []  # Lista para almacenar los diccionarios de claves y valores
+    datos_actual = {}   # Diccionario actual
     clave_actual = None
     valor_actual = ""
 
+    claves_permitidas = ["AU", "PY", "TI", "SO", "VL", "IS", "BP", "EP", "DE", "ID", "EC", "FN", "VR", "PT", "AF", "DT", "PD", "AR", "DI", "EA", "WC", "SC", "ER", "SE"]
+
     with open(nombre_archivo, 'r', encoding='utf-8') as archivo:
         for linea in archivo:
-            # Eliminar espacios y saltos de línea al inicio y al final de la línea
             linea = linea.strip()
 
-            # Si la línea está vacía, continuar con la siguiente iteración
             if not linea:
-                # Verificar si hay una clave anterior
-                if clave_actual is not None:
-                    datos[clave_actual] = valor_actual.strip()
-                    clave_actual = None
-                    valor_actual = ""
                 continue
 
-            # Dividir la línea en clave y valor
             partes = linea.split(None, 1)
             if len(partes) > 1:
                 clave, valor = partes
@@ -27,34 +44,39 @@ def procesar_archivo(nombre_archivo):
                 clave, = partes
                 valor = ""
 
-            # Convertir a minúsculas los valores asociados con las claves 'DE' e 'ID'
-            if clave in ["DE", "ID"]:
-                valor = valor.lower()
+            if clave == 'PT':
+                # Inicia un nuevo diccionario solo si no estamos ya dentro de uno
+                if not datos_actual:
+                    datos_actual = {'PT': valor}
+            elif clave == 'ER':
+                # Finaliza el diccionario actual solo si estamos dentro de uno
+                if datos_actual:
+                    datos_actual['ER'] = valor
+                    datos_totales.append(datos_actual)
+                    datos_actual = {}
+            elif clave in claves_permitidas:
+                # Procesa las claves permitidas y almacena los valores en el diccionario actual si estamos dentro de uno
+                if datos_actual:
+                    if clave in ["DE", "ID"]:
+                        valor = valor.lower()
+                        valor = valor.replace('\n', '').replace('\t', '')
+                        # Agregar corchetes a cada palabra o frase separada por comas
+                        palabras = [f'[{p.strip()}]' for p in valor.split(';')]
+                        # Unir las palabras y quitar las comas
+                        valor = ' '.join(palabras)
 
-            # Capitalizar la primera letra de los valores asociados con la clave 'SO'
-            if clave == "SO":
-                valor = valor.capitalize()           
+                    if clave == "SO":
+                        valor = procesar_cadena(valor)
+                    datos_actual[clave] = valor
 
-            # Detectar claves y valores
-            if clave in ["FN", "VR", "PT", "AU", "AF", "TI", "SO", "DT", "DE", "ID", "PD", "PY", "VL", "IS", "BP", "EP", "AR", "DI", "EA", "WC", "SC", "ER", "SE", "EC"]:
-                # Almacenar el valor actual en el diccionario si hay una clave anterior
-                if clave_actual is not None:
-                    datos = {clave_actual: valor_actual.strip()}
-                    datos_totales.append(datos)
+    # Agregar el último diccionario si hay uno pendiente
+    if datos_actual:
+        datos_totales.append(datos_actual)
 
-                # Iniciar una nueva clave
-                clave_actual = clave
-                valor_actual = valor
-            else:
-                # Concatenar el valor actual
-                valor_actual += " " + linea
+    print(datos_totales, "\n\n")
+    return datos_totales
 
-        # Almacenar el último valor después de salir del bucle si hay una clave anterior
-        if clave_actual is not None:
-            datos = {clave_actual: valor_actual.strip()}
-            datos_totales.append(datos)
-        print(datos_totales, "\n\n")
-        return datos_totales
+
 
 
 def exportar_a_archivo(datos_totales, nombre_archivo_salida='newrefs.txt'):
@@ -64,7 +86,9 @@ def exportar_a_archivo(datos_totales, nombre_archivo_salida='newrefs.txt'):
                 archivo_salida.write("\n")  # Agregar un salto de línea antes de la clave PT
 
             linea = ' '.join([f"{clave}: {valor}" for clave, valor in datos.items()])
-            archivo_salida.write(linea + "\n")  # Separador entre bloques
+            archivo_salida.write(linea)  # Separador entre diccionarios
+
+
 
 
 if __name__ == "__main__":
@@ -75,6 +99,8 @@ if __name__ == "__main__":
 
         # Exportar a un nuevo archivo
         exportar_a_archivo(informacion_procesada, 'newrefs.txt')
+
+
 
     except FileNotFoundError:
         print("biblio.txt no encontrado en el directorio actual. Por favor, verifica la existencia del archivo.")
