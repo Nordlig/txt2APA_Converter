@@ -22,11 +22,23 @@ def procesar_cadena(cadena):
 
     return resultado_cadena
 
+def directorio_de_trabajo():
+    # Obtiene la ruta del archivo .py actual
+    file_path_actual = os.path.abspath(__file__)
+
+    # Obtiene el directorio del archivo .py
+    current_directory = os.path.dirname(file_path_actual)
+
+    # Establece el directorio de trabajo actual al directorio del archivo .py
+    os.chdir(current_directory)
+
+    # Devuelve el directorio de trabajo actual
+    return os.getcwd()
+
+
 def procesar_archivo(nombre_archivo):
     datos_totales = []  # Lista para almacenar los diccionarios de claves y valores
     datos_actual = {}   # Diccionario actual
-    clave_actual = None
-    valor_actual = ""
 
     claves_permitidas = ["AU", "PY", "TI", "SO", "VL", "IS", "BP", "EP", "DE", "ID", "EC", "FN", "VR", "PT", "AF", "DT", "PD", "AR", "DI", "EA", "WC", "SC", "ER", "SE"]
 
@@ -55,18 +67,36 @@ def procesar_archivo(nombre_archivo):
                     datos_totales.append(datos_actual)
                     datos_actual = {}
             elif clave in claves_permitidas:
+
                 # Procesa las claves permitidas y almacena los valores en el diccionario actual si estamos dentro de uno
                 if datos_actual:
+                    if clave == "AU":
+                        autores = [autor.strip() for autor in valor.split('\n') if autor.strip()]
+                        autores_formateados = []
+                        
+                        for autor in autores:
+                            partes = autor.split(', ')
+                            if len(partes) == 2:
+                                apellido, nombres = partes
+                                autores_formateados.append(f"{apellido}, {nombres}")
+                            else:
+                                autores_formateados.append(autor)
+                        
+                        valor = '; '.join(autores_formateados)
+
+
+
                     if clave in ["DE", "ID"]:
                         valor = valor.lower()
-                        valor = valor.replace('\n', '').replace('\t', '')
                         # Agregar corchetes a cada palabra o frase separada por comas
-                        palabras = [f'[{p.strip()}]' for p in valor.split(';')]
-                        # Unir las palabras y quitar las comas
-                        valor = ' '.join(palabras)
+                        palabras = [f'[{p.strip()}] ' for p in valor.split(';')]
+                        # Unir las palabras sin punto y coma y quitar corchetes adicionales
+                        valor = ''.join(palabras)
+
 
                     if clave == "SO":
                         valor = procesar_cadena(valor)
+
                     datos_actual[clave] = valor
 
     # Agregar el último diccionario si hay uno pendiente
@@ -77,36 +107,35 @@ def procesar_archivo(nombre_archivo):
     return datos_totales
 
 
-
-
 def exportar_a_archivo(datos_totales, nombre_archivo_salida='newrefs.txt'):
     with open(nombre_archivo_salida, 'w', encoding='utf-8') as archivo_salida:
         for datos in datos_totales:
-            if 'PT' in datos:
-                archivo_salida.write("\n")  # Agregar un salto de línea antes de la clave PT
+            for clave, valor in datos.items():
+                linea = f"{clave}: {valor}\n"
+                if clave == 'ER':
+                    linea = f"{clave}: {valor}\n\n"
 
-            linea = ' '.join([f"{clave}: {valor}" for clave, valor in datos.items()])
-            archivo_salida.write(linea)  # Separador entre diccionarios
-
+                archivo_salida.write(linea)  # Separador entre diccionarios
 
 
 
 if __name__ == "__main__":
     try:
+        # Llama a la función para establecer el directorio de trabajo actual
+        directorio_de_trabajo_actual = directorio_de_trabajo()
+
         # Reemplaza 'ruta/al/archivo.txt' con la ruta real de tu archivo
-        ruta_del_archivo = "biblio.txt"
+        ruta_del_archivo = "biblio2.txt"
         informacion_procesada = procesar_archivo(ruta_del_archivo)
 
         # Exportar a un nuevo archivo
         exportar_a_archivo(informacion_procesada, 'newrefs.txt')
 
-
-
     except FileNotFoundError:
         print("biblio.txt no encontrado en el directorio actual. Por favor, verifica la existencia del archivo.")
 
         current_directory = os.getcwd()
-
+        
         # Obtén la lista de archivos en el directorio actual
         files_in_directory = os.listdir(current_directory)
 

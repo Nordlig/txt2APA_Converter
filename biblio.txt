@@ -9,15 +9,14 @@ TI Union Coalitions and Strategic Framing: The Case of the Agricultural
    Advisory Panel for Wales
 SO WORK EMPLOYMENT AND SOCIETY
 DT Article; Early Access
-DE agriculture; devolution; employment relations; frame bridging; framing;
-   social movement theory; wages regulation; Wales
+DE agriculture; devolution; employment relations; frame bridging; framing; social movement theory; wages regulation; Wales
 ID SOCIAL-MOVEMENT; EXTENSION
 AR 09500170211069787
 DI 10.1177/09500170211069787
 EA MAR 2022
 WC Economics; Industrial Relations & Labor; Sociology
 SC Business & Economics; Sociology
-ER Test
+ER 
 
 PT J
 AU Mullen, C
