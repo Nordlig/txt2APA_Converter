@@ -1,185 +1,183 @@
-# Descomenta la línea siguiente si estás ejecutando el script en un sistema UNIX
-# #!/usr/bin/env python
-
-# -*- coding: utf-8 -*-
-# Campos FN, VR, PT, AU, AF, TI, SO, DT, DE, ID, PD, PY, VL, IS, BP, EP, AR, DI, EA, WC, SC, ER
-__autor__ = "Ivar Bergelin"
-__version__ = "1.0"
-__maintainer__ = "Ivar Bergelin"
-__email__ = "ivar.bergelin@gmail.com"
-__status__ = "Dev"
-
-'''Este script convierte datos bibliográficos en un archivo llamado biblio.txt en referencias bibliográficas en formato APA para ser escritas en el archivo de salida newrefs.txt'''
-'''import os
-import pandas as pd
-biblio_list = []
-
-# Función para convertir SO a minúsculas con la primera letra de cada palabra en mayúsculas
-def convertir_so(valor):
-    return ' '.join(word.capitalize() for word in valor.split())
-
-try:
-    with open("biblio.txt", "r", encoding="utf-8") as file:
-        biblio_dict = {}    
-        # Itera sobre cada línea del archivo
-        for line in file:
-            # Si la línea está vacía, significa que hemos completado un bloque
-            if not line.strip():
-                # Agrega el diccionario actual a la lista y reinicia para el siguiente bloque
-                if biblio_dict:
-                    biblio_list.append(biblio_dict)
-                    biblio_dict = {}
-            else:
-                # Divide la línea en campo y valor usando el primer espacio en blanco
-                parts = line.strip().split(" ", 1)
-                
-                # Asegúrate de que haya al menos dos partes antes de agregar al diccionario
-                if len(parts) == 2:
-                    key, value = parts
-                    # Aplica la conversión especial para el campo SO
-                    if key == "SO":
-                        value = convertir_so(value)
-                    biblio_dict[key] = biblio_dict.get(key, "") + " " + value.strip()
-
-                elif len(parts) == 1:
-                    # Si hay solo una parte, asumimos que el campo está presente pero sin valor
-                    key = parts[0]
-                    biblio_dict[key] = ""
-                elif key == "AU" and ',' in parts[1]:
-                    # Si el campo es "AU" y contiene una coma, divide el nombre del autor
-                    last_name, first_names = parts[1].split(",", 1)
-                    biblio_dict[key] = last_name.strip() + ", " + first_names.strip()
-
-    # Agrega el último diccionario a la lista si hay algún bloque al final del archivo
-    if biblio_dict:
-        biblio_list.append(biblio_dict)
-    # Imprime la lista de diccionarios resultante
-    for block in biblio_list:
-        # Formatea los nombres de los autores
-        authors = block.get("AU", "").split("; ")
-        formatted_authors = ", ".join(author.strip() for author in authors)
-
-        # Formatea la salida del diccionario
-        formatted_output = (
-            f"{formatted_authors} ({block.get('PY', '')}). {block.get('TI', '')}. {block.get('SO', '')}, "
-            f"{block.get('VL', '')}({block.get('IS', '')}), {block.get('BP', '')}-{block.get('EP', '')}. "
-        )
-
-        # Agrega DE (palabras clave) si presente
-        keywords_de = block.get('DE', '')
-        if keywords_de:
-            # Transforma y agrega los corchetes
-            formatted_output += " ".join([f"[{keyword.strip().lower()}]" for keyword in keywords_de.split(';')])
-
-        # Agrega ID (palabras clave) si presente
-        keywords_id = block.get('ID', '')
-        if keywords_id:
-            # Transforma y agrega los corchetes
-            formatted_output += " ".join([f"[{keyword.strip().lower()}]" for keyword in keywords_id.split(';')])
-
-        print(formatted_output)
-        print()
-
-except FileNotFoundError:
-    print("biblio.txt no encontrado en el directorio actual. Por favor, verifica la existencia del archivo.")
-
-    current_directory = os.getcwd()
-
-    # Obtén la lista de archivos en el directorio actual
-    files_in_directory = os.listdir(current_directory)
-
-    # Muestra los archivos en el directorio actual
-    print("Los archivos encontrados son:", files_in_directory)
-
-except Exception as e:
-    print(f"Se produjo un error: {e}")'''
-
-import re
 import os
 
-# Lista para almacenar los diccionarios
-biblio_list = []
+def procesar_cadena(cadena):
+    # Lista de preposiciones y artículos que queremos detectar y convertir a minúsculas
+    preposiciones_articulos = ['a', 'an', 'and', 'the', 'in', 'on', 'at', 'by', 'for', 'with', 'to', 'of', 'e']
 
-# Diccionario actual en proceso
-current_dict = {}
+    # Dividir la cadena en palabras
+    palabras = cadena.split()
 
-# Función para convertir SO a minúsculas con la primera letra de cada palabra en mayúsculas
-def convertir_so(valor):
-    return ' '.join(word.capitalize() for word in valor.split())
+    # Procesar cada palabra
+    resultado = []
+    for palabra in palabras:
+        # Convertir a minúsculas si es una preposición o artículo
+        if palabra.lower() in preposiciones_articulos:
+            resultado.append(palabra.lower())
+        else:
+            # Capitalizar la primera letra en caso contrario
+            resultado.append(palabra.capitalize())
 
-# Función para limpiar y agregar datos al diccionario
-def process_line(key, value):
-    # Limpia la clave
-    key = key.strip()
+    # Unir las palabras procesadas en una cadena
+    resultado_cadena = ' '.join(resultado)
+
+    return resultado_cadena
+
+def informacion_procesada(ruta_del_archivo):
+    # Abre el archivo en modo lectura
+    with open("biblio.txt", "r") as archivo:
+        # Inicializa una lista para almacenar los diccionarios
+        lista_diccionarios = []
+        # Inicializa el diccionario actual para almacenar los datos entre PT y ER
+        diccionario_actual = {}
+        # Inicializa la clave_actual fuera del bucle for
+        clave_actual = None
+        # Itera sobre cada línea del archivo
+        for linea in archivo:
+            # Elimina espacios en blanco al principio y al final de la línea
+            linea = linea.strip()
+
+            # Verifica si la línea comienza con palabras de dos letras en mayúsculas
+            if len(linea) >= 2 and linea[:2].isalpha() and linea[:2].isupper():
+                # Establece la palabra como clave y elimina espacios
+                clave_actual = linea[:2].strip()
+                # Verifica si también hay un valor en la misma línea
+                if len(linea) > 2:
+                    valor_actual = linea[2:].strip()
+                    # Inicializa la clave en el diccionario actual si no existe
+                    diccionario_actual.setdefault(clave_actual, "")
+                    # Agrega los valores a la clave actual en el diccionario actual
+                    diccionario_actual[clave_actual] += " " + valor_actual
+                else:
+                    diccionario_actual[clave_actual] = ""
+            elif clave_actual is not None:
+                # Si no es una clave, asume que es un valor y lo agrega al valor actual del diccionario actual
+                diccionario_actual.setdefault(clave_actual, "")  # Inicializa la clave si no existe
+                diccionario_actual[clave_actual] += " " + linea
+
+            # Cierra el diccionario actual cuando se encuentra la clave "ER"
+            if clave_actual == "ER":
+                # Verifica si las claves obligatorias tienen valores
+                if all(diccionario_actual.get(clave, "") != "" for clave in ["AU", "PY", "TI", "SO", "VL", "BP", "EP"]):
+                    # Convierte DE e ID a minúsculas y ajusta el formato de los valores
+                    diccionario_actual["DE"] = ['[{}]'.format(valor.strip().replace('\'', '').lower()) for valor in diccionario_actual.get("DE", "").split(";") if valor.strip()]
+                    diccionario_actual["ID"] = ['[{}]'.format(valor.strip().replace('\'', '').lower()) for valor in diccionario_actual.get("ID", "").split(";") if valor.strip()]
+                    #print(diccionario_actual)
+                    
+                    # Agrega el diccionario actual a la lista de diccionarios
+                    lista_diccionarios.append(diccionario_actual)
+                # Restablece el diccionario actual a un diccionario vacío
+                diccionario_actual = {}
+
+        # Elimina las claves no deseadas de cada diccionario en la lista
+        claves_permitidas = ["AU", "PY", "TI", "SO", "VL", "IS", "BP", "EP", "DE", "ID", "ER"]
+        for diccionario in lista_diccionarios:
+            for key in list(diccionario.keys()):
+                if key not in claves_permitidas:
+                    del diccionario[key]
+
+        # Agrega un punto al final de cada valor en la clave "AU" y cuenta el número de autores
+        for diccionario in lista_diccionarios:
+            if 'AU' in diccionario:
+                autores = diccionario['AU'].split()
+                autores_formateados = []
+
+                i = 0
+                while i < len(autores):
+                    # Manejar apellido compuesto
+                    apellido = autores[i]
+                    siguiente = autores[i + 1]
+
+                    if ',' in siguiente:
+                        apellido += f" {siguiente}"
+                        i += 1  # Saltar siguiente elemento en caso de apellido compuesto
+
+                    iniciales = autores[i + 1]
+                    iniciales_formateadas = '.'.join(iniciales)
+
+                    autor_formateado = f"{apellido} {iniciales_formateadas}."
+                    autores_formateados.append(autor_formateado)
+
+                    i += 2  # Avanzar dos posiciones para pasar al siguiente autor
+
+                # Agregar ", &" entre los autores si hay más de uno
+                if len(autores_formateados) > 1:
+                    diccionario['AU'] = ', & '.join(autores_formateados)
+                else:
+                    diccionario['AU'] = autores_formateados[0]
+
+        return lista_diccionarios
+
+def formatear_autores(autor):
+    # Divide los autores por ', &'
+    autores = autor.split(', &')
     
-    # Limpia el valor y elimina espacios en blanco al principio de cada valor
-    value = ' '.join(part.strip() for part in value.split())
+    # Formatea cada autor
+    autores_formateados = []
 
-    # Aplica la conversión especial para el campo SO
-    if key == "SO":
-        value = convertir_so(value)
-
-    # Agrega al diccionario actual
-    current_dict[key] = value
-
-try:
-# Lee el archivo
-    with open("biblio.txt", "r", encoding="utf-8") as file:
-        for line in file:
-            # Verifica si la línea comienza con una cadena de clave
-            #match = re.match(r'^(\w+)\s(.+)$', line.strip())
-            match = re.match(r'^([A-Z]{2})\s*(.*)$', line.strip())
-            if match:
-                key, value = match.groups()
-                process_line(key, value)
-            elif not line.strip() and current_dict:
-                # Agrega el diccionario actual a la lista
-                biblio_list.append(current_dict)
-                # Reinicia el diccionario para el próximo bloque
-                current_dict = {}
-
-    # Agrega el último diccionario a la lista si hay algún bloque al final del archivo
-    if current_dict:
-        biblio_list.append(current_dict)
+    # Une los autores formateados con ', &'
+    return ', & '.join(autores_formateados) if len(autores_formateados) > 1 else autores_formateados[0]
 
 
-    # Imprime la lista de diccionarios resultante
-        for block in biblio_list:
-            # Formatea los nombres de los autores
-            authors = block.get("AU", "").split("; ")
-            formatted_authors = ", ".join(author.strip() for author in authors)
+def exportar_a_archivo(datos, nombre_archivo_salida='newrefs.txt'):
+    with open(nombre_archivo_salida, 'w') as archivo_salida:
+        for diccionario in datos:
+            # Extrae los valores de las claves en el orden deseado
+            #autor = formatear_autores(diccionario.get('AU', '').strip())
+            autor = diccionario.get('AU', '').strip()            
+            #print(autor)
+            year = diccionario.get('PY', '').strip()
+            titulo = diccionario.get('TI', '').strip()
+            journal = diccionario.get('SO', '').strip().lower()
+            volumen = diccionario.get('VL', '').strip()
+            issue = diccionario.get('IS', '').strip()
+            primera_pagina = diccionario.get('BP', '').strip()
+            ultima_pagina = diccionario.get('EP', '').strip()
+            keywords = diccionario.get('DE', '')
+            identificador = diccionario.get('ID', '')         
 
-            # Formatea la salida del diccionario
-            formatted_output = (
-                f"{formatted_authors} ({block.get('PY', '')}). {block.get('TI', '')}. {block.get('SO', '')}. "
-            f"{block.get('VL', '')}({block.get('IS')}),{block.get('BP')} -{block.get('EP')}. "
-            )
+            # Para 'DE', que es una lista
+            keywords = diccionario.get('DE', '')
+            if isinstance(keywords, list):
+                keywords = ', '.join([str(valor).strip() for valor in keywords])
+            else:
+                keywords = str(keywords).strip()
 
-            # Agrega DE (palabras clave) si presente
-            keywords_de = block.get('DE', '')
-            if keywords_de:
-                # Transforma y agrega los corchetes
-                formatted_output += "".join([f"[{keyword.strip().lower()}]" for keyword in keywords_de.split(';')])
+            # Para 'ID', que es una lista
+            identificador = diccionario.get('ID', '')
+            if isinstance(identificador, list):
+                identificador = ', '.join([str(valor).strip() for valor in identificador])
+            else:
+                identificador = str(identificador).strip()
+            
+            
+            # Elimina corchetes y comillas simples del keywords y quita las comas en DE
+            keywords = ''.join([valor.strip("''") for valor in keywords.split(",")])
+            # Elimina corchetes y comillas simples del identificador y quita las comas en ID
+            identificador = ''.join([valor.strip("''") for valor in identificador.split(",")])
 
-            # Agrega ID (palabras clave) si presente
-            keywords_id = block.get('ID', ' .')
-            if keywords_id:
-                # Transforma y agrega los corchetes
-                formatted_output += "".join([f"[{keyword.strip().lower()}]" for keyword in keywords_id.split(';')])
+            journal = procesar_cadena(journal)
 
-            print(formatted_output)
-            print()
+            # Escribe la línea en el archivo
+            linea = f"{autor} ({year}). {titulo}. {journal}. {volumen}({issue}), {primera_pagina}-{ultima_pagina}. {keywords} {identificador}\n"
+            archivo_salida.write(linea)
 
-except FileNotFoundError:
-    print("biblio.txt no encontrado en el directorio actual. Por favor, verifica la existencia del archivo.")
+if __name__ == "__main__":
 
-    current_directory = os.getcwd()
+    try:
+        # Reemplaza 'biblio.txt' con la ruta de su archivo
+        ruta_del_archivo = "biblio.txt"
+        informacion_procesada_resultado = informacion_procesada(ruta_del_archivo)
 
-    # Obtén la lista de archivos en el directorio actual
-    files_in_directory = os.listdir(current_directory)
+        # Exportar a un nuevo archivo
+        exportar_a_archivo(informacion_procesada_resultado)
 
-    # Muestra los archivos en el directorio actual
-    print("Los archivos encontrados son:", files_in_directory)
+    except FileNotFoundError:
+        print("biblio.txt no encontrado en el directorio actual. Por favor, verifica la existencia del archivo.")
+        current_directory = os.getcwd()
+        # Obtén la lista de archivos en el directorio actual
+        files_in_directory = os.listdir(current_directory)
+        # Muestra los archivos en el directorio actual
+        print("Los archivos encontrados son:", files_in_directory)
 
-except Exception as e:
-    print(f"Se produjo un error: {e}")
+    except Exception as e:
+        print(f"Se produjo un error: {e}")
