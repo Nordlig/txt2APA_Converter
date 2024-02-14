@@ -154,7 +154,7 @@ def informacion_procesada(ruta_del_archivo):
         return lista_diccionarios
 
 
-def exportar_a_archivo(datos, nombre_archivo_salida='newrefs3.txt'):
+def exportar_a_archivo(datos, nombre_archivo_salida='newrefs.txt'):
     with open(nombre_archivo_salida, 'w') as archivo_salida:
 
         # Odenamos alfabbeticamente los autores
