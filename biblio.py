@@ -327,7 +327,7 @@ if __name__ == "__main__":
         print("Archivo procesado correctamente.")
         
         # Esperar a que el usuario presione Enter
-        #input("\nPresiona Enter para cerrar el programa.")
+        input("\nPresiona Enter para cerrar el programa.")
 
     except FileNotFoundError:
         print("biblio.txt no encontrado en el directorio actual. Por favor, verifica la existencia del archivo.")
@@ -336,8 +336,8 @@ if __name__ == "__main__":
         files_in_directory = os.listdir(current_directory)
         # Muestra los archivos en el directorio actual
         print("Los archivos encontrados son:", files_in_directory)
-        #input("Presiona Enter para cerrar el programa.")
+        input("Presiona Enter para cerrar el programa.")
 
     except Exception as e:
         print(f"Se produjo un error: {e}")
-        #input("Presiona Enter para cerrar el programa.")
+        input("Presiona Enter para cerrar el programa.")
