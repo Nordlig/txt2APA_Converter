@@ -8,25 +8,28 @@ This Python script converts data from the file `biblio.txt` into APA and generat
 
 ### Prerequisites
 
-Unzip the file `txt2APA converter.zip`. Ensure you have the following items in the same directory:
+- Python 3.6 or higher
+- You need `tqdm` installed. You can install it using pip by running the following command in your terminal or command prompt:
 
-- `biblio.txt`: The input file containing the data to be processed.
-- `_internal` (folder): Contains necessary files for the internal functioning of the script.
-- `biblio.exe`: Script executable.
+    ```bash
+    pip install tqdm
+    ```
+
 
 ### Running the Script
+
+Ensure you have the exported file from the Web of Science with the name biblio.txt in the same directory as biblio.py
 
 #### If using a terminal:
 
 1. Open a terminal or command line.
-2. Navigate to the directory where the files are located (`biblio.txt`, `_internal`, `biblio.exe`).
-3. Execute the script using the following command: `biblio.exe`.
+2. Navigate to the directory where the files are located (`biblio.txt` and `biblio.py`).
+3. Execute the script biblio.py
 4. If everything is correct, you will now have your `newrefs.txt` file in the same directory.
 
-#### If using `biblio.exe` directly:
+#### Double-clicking on biblio.py
 
-1. Double-click on `biblio.exe`.
-2. If everything is correct, you will now have your `newrefs.txt` file in the same directory.
+Ensure Python is set in your environmental variables in order to execute the script.
 
 ## Author
 
