@@ -9,12 +9,6 @@ This Python script converts data from the file `biblio.txt` into APA and generat
 ### Prerequisites
 
 - Python 3.6 or higher
-- You need `tqdm` installed. You can install it using pip by running the following command in your terminal or command prompt:
-
-    ```bash
-    pip install tqdm
-    ```
-
 
 ### Running the Script
 
